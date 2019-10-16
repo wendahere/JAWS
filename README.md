@@ -7,10 +7,10 @@
 - [ ] Ready to Impress Everyone!!
 
 ## Team Members:
-Wen Da (DME)
+WDLEE (DME)
 
-Allen Tan (DME)
+AMBTan (DME)
 
 Sean Woo (DEEE)
 
-Jayvien Ng (DEEE)
+JNg (DEEE)
