@@ -11,6 +11,6 @@ WDLEE (DME)
 
 AMBTan (DME)
 
-Sean Woo (DEEE)
+Sean Wo (DEEE)
 
 JNg (DEEE)
