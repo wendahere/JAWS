@@ -33,4 +33,5 @@ How we brainstorm our ideas (based on):
 Demographics
 Types of terrain
 Situations
-![alt text](https://imgur.com/mrkp1fu)
+
+![alt text](https://i.imgur.com/mrkp1fu.jpg)
