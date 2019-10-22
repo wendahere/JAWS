@@ -24,15 +24,24 @@ Initial ideas:
 4. Grab rubbish (easier for cleaners)
 5. Exploration under river (Help with further experiment)
 6. Construction site (transport of loads and construction materials due to loose and uneven soil)
+
 Features:
 1. Suspension (Better ground traction)
 2. Carry load
 3. Controllable
 4. Lightweight
+
 How we brainstorm our ideas (based on): 
 Demographics
 Types of terrain
 Situations
 
 ![alt text](https://i.imgur.com/mrkp1fu.jpg)
-After coming out with our initial ideas, 
+
+According to the picture above, we have narrowed down to 4 ideas, a tree planting machine, a partially autonomous stretcher, an autonomous first aid delivery drone, and an ice depth sensing robot.
+After considering the 4 aforementioned ideas, we decided to go with the ice depth sensing robot. This is because we want to create something that can phase out the traditional methods of testing the depth of frozen ice paths to determine if it's safe to walk. The current methods mostl;y include a person to manually drill holes in the ice to check for the depth, which is often quite dangerous if there is a mistep as the person my accidentally walk on thin ice and fall into a pool of freezing water.
+Hence, our idea can benefit the society by automating or quickening the process of checking the depths of ice.
+Its features include:
+1. An ultrasonic depth scanner
+2. Remote controllable
+3. Able to work in extreme cold
