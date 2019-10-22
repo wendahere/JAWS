@@ -16,7 +16,7 @@ Sean Woo (DEEE)
 JNg (DEEE)
 
 ## Week 1 (14/10/19 - 18/10/19):
-# Brainstorming Session:
+### Brainstorming Session:
 Initial ideas:
 1. Deliver food in kitchen (due to oil in floor)
 2. Automatic ward bed (less stress for nurses)
@@ -35,3 +35,4 @@ Types of terrain
 Situations
 
 ![alt text](https://i.imgur.com/mrkp1fu.jpg)
+After coming out with our initial ideas, 
