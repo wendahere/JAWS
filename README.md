@@ -53,3 +53,6 @@ Its features include:
 2. Remote controllable
 3. Able to work in extreme cold
 4. Able to move well on ice
+
+## Week 2 (21/10/19 - 25/10/19):
+### <insert text here hue hue>:
