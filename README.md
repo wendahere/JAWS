@@ -56,3 +56,13 @@ Its features include:
 
 ## Week 2 (21/10/19 - 25/10/19):
 ### <insert text here hue hue>:
+  
+  Week2 Assignment-
+1. Download python editor (found in group info), cher recommend thonny
+2. Make the space invader game 
+3. Go to youtube
+--> search for thonny, then look for 2 tutorial videos, and document them, 2points why the vid is good, and 2points why the vid is bad
+4. Write down what u learnt in python 
+-->what errors yall faced
+-->your trials and errors
+-->what yall
