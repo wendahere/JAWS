@@ -1,7 +1,7 @@
 # Jaws
 >**SP Engineering Academy Year 2, Sem 2, Engineering Realisation Project**
 - [x] Discuss about our Problem Statement,Features,Reasons(mainly 3 reasons for the society)& who.
-- [ ] Everyone learn about Markdown Guide
+- [x] Everyone learn about Markdown Guide
 - [ ] Meet up frequently to do our prototype during the Holidays (so that we dont do last minute)
 - [ ] Presentation Slides & Prototype ready to show off
 - [ ] Ready to Impress Everyone!!
@@ -53,3 +53,16 @@ Its features include:
 2. Remote controllable
 3. Able to work in extreme cold
 4. Able to move well on ice
+
+## Week 2 (21/10/19 - 25/10/19):
+### <insert text here hue hue>:
+  
+  Week2 Assignment-
+1. Download python editor (found in group info), cher recommend thonny
+2. Make the space invader game 
+3. Go to youtube
+--> search for thonny, then look for 2 tutorial videos, and document them, 2points why the vid is good, and 2points why the vid is bad
+4. Write down what u learnt in python 
+-->what errors yall faced
+-->your trials and errors
+-->what yall
