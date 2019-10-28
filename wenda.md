@@ -30,11 +30,14 @@ A tip I would give to make your program succeed is to plan out first, in this pl
 
 I have watched 2 [youtube videos](https://www.youtube.com/watch?v=JLOOWVwDftg) and the youtube video I would recommend for beginners is [this](https://www.youtube.com/watch?v=nwIgxrXP-X4). There is very simple demo for you to follow and get interested in coding. He is understandable and slow, we can understand can easily follow his steps.
 
-I have watched a video on Python programming and would like to recommend it. This is the [link](https://www.youtube.com/watch?v=IMGzzK9Wn4w). 
+I have watched a video on Python programming and would like to recommend it. This is the 
+[link](https://www.youtube.com/watch?v=IMGzzK9Wn4w). 
+
+
 [![Or below here](http://img.youtube.com/vi/IMGzzK9Wn4w/0.jpg)](http://www.youtube.com/watch?v=IMGzzK9Wn4w)
 
 ####Pros:
--Goes through everything of Python, including installation of the program required
+- Goes through everything of Python, including installation of the program required
 - Very clear on explanation and understandable English
 - Considered short, compared to 4 hours tutorial 
 - Everything packed into 1 hour 30mins
@@ -117,8 +120,9 @@ while True:
         
 display.scroll("GAME OVER!", loop=True)
 
+###Space Invaders Demo
 
-
+[![Space Invaders!](http://img.youtube.com/vi/JxIyh3bOaRo/0.jpg)](http://www.youtube.com/watch?v=JxIyh3bOaRo)
 
 
 
