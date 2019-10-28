@@ -16,7 +16,7 @@ I have downloaded both markdown and  git on my laptop so I will be using them. I
 
 ##TL:DR
 ##Conclusion: 
-My code was successful.
+My code was successful. The code can be seen below or [here](https://pastebin.com/sCmUxWWL).
 
 I had problems moving my spacecraft, I found out that the method I was using to move the spacecraft could not be used in micropython, ( x-=1 cannot be used), ( spacecraft = spacecraft -1) was used instead.
 
@@ -85,33 +85,48 @@ I rewrote the code from scratch after finding out my mistake, was stumped and co
 
 
 from microbit import *
+
 import random
 
  #starting position of spacecraft
+
 spacecraft = 2
+
 display.set_pixel(spacecraft, 4,5)
 
+
  #alien randomly appears from top y=0, x is random 0-4
+
 alienx = random.randint(0, 4)
+
 alieny = 0
 
 
+
 while True:
-    display.clear()
-    display.set_pixel(spacecraft, 4, 5)
-    display.set_pixel(alienx, alieny,5)
+
+   display.clear()
+
+   display.set_pixel(spacecraft, 4, 5)
+
+   display.set_pixel(alienx, alieny,5)
+
     
    if button_a.is_pressed():
-        spacecraft = spacecraft -1
-        #move left
-   elif button_b.is_pressed():
-        spacecraft = spacecraft +1
-        #move right
 
-   #move alien down by y+= 1
-    alieny = alieny + 1
+   spacecraft = spacecraft -1
+      #move left
+   elif button_b.is_pressed():
+     spacecraft = spacecraft +1
+
+   #move right
+
+  #move alien down by y+= 1
+
+   alieny = alieny + 1
     
    #when alien and player collide, game will end and loop game over!
+
    if alienx == spacecraft and alieny == 4:
         break
 

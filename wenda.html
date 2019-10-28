@@ -59,7 +59,7 @@ Entire meeting took about 2.5 hours.</p>
 <h1>Week 2</h1>
 <h2>TL:DR</h2>
 <h2>Conclusion:</h2>
-<p>My code was successful.</p>
+<p>My code was successful. The code can be seen below or <a href="https://pastebin.com/sCmUxWWL">here</a>.</p>
 <p>I had problems moving my spacecraft, I found out that the method I was using to move the spacecraft could not be used in micropython, ( x-=1 cannot be used), ( spacecraft = spacecraft -1) was used instead.</p>
 <p>I had problems with unresponsive spacecraft, when I pressed any button, the spacecraft would not move or would move late. I had put sleep(500) at first. I changed to sleep(200) and it was fixed.</p>
 <p>I also had problems with the old spacecraft staying in place after moving. I did not use display.clear(). At first, I did display.set<em>pixel(x+1,4,0) and display.set</em>pixel(x-1,4,0). To delete the spaces left and right of the new spacecraft. I read my old notes and remembered about display.clear and used it instead.</p>
@@ -110,28 +110,28 @@ while True:
 <p>At the the end, once any value exceeds the boundary, there will be this error, index out of bounds. I have tried using arrays but the value will still get out of bound of the array. The only solution I have for this is to simply reset the game before any value gets out of bounds, which includes the player.</p>
 <h3>Revised Version of code</h3>
 <p>I rewrote the code from scratch after finding out my mistake, was stumped and could not figure out why after an hour of searching, therefore I started from scratch and used another method to move the spacecraft instead.</p>
-<p>from microbit import *
-import random</p>
-<p>#starting position of spacecraft
-spacecraft = 2
-display.set_pixel(spacecraft, 4,5)</p>
-<p>#alien randomly appears from top y=0, x is random 0-4
-alienx = random.randint(0, 4)
-alieny = 0</p>
-<p>while True:
-    display.clear()
-    display.set<em>pixel(spacecraft, 4, 5)
-    display.set</em>pixel(alienx, alieny,5)</p>
-<p>if button<em>a.is</em>pressed():
-        spacecraft = spacecraft -1
-        #move left
+<p>from microbit import *</p>
+<p>import random</p>
+<p>#starting position of spacecraft</p>
+<p>spacecraft = 2</p>
+<p>display.set_pixel(spacecraft, 4,5)</p>
+<p>#alien randomly appears from top y=0, x is random 0-4</p>
+<p>alienx = random.randint(0, 4)</p>
+<p>alieny = 0</p>
+<p>while True:</p>
+<p>display.clear()</p>
+<p>display.set_pixel(spacecraft, 4, 5)</p>
+<p>display.set_pixel(alienx, alieny,5)</p>
+<p>if button<em>a.is</em>pressed():</p>
+<p>spacecraft = spacecraft -1
+      #move left
    elif button<em>b.is</em>pressed():
-        spacecraft = spacecraft +1
-        #move right</p>
-<p>#move alien down by y+= 1
-    alieny = alieny + 1</p>
-<p>#when alien and player collide, game will end and loop game over!
-   if alienx == spacecraft and alieny == 4:
+     spacecraft = spacecraft +1</p>
+<p>#move right</p>
+<p>#move alien down by y+= 1</p>
+<p>alieny = alieny + 1</p>
+<p>#when alien and player collide, game will end and loop game over!</p>
+<p>if alienx == spacecraft and alieny == 4:
         break</p>
 <p>sleep(250)</p>
 <p>display.scroll(&quot;GAME OVER!&quot;, loop=True)</p>
