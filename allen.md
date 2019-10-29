@@ -17,7 +17,7 @@ The first problem was I forgot to add in the colon signs after my If statements.
 To fix this, I simply added the colon signs where necessary (i.e. Lines 13 and 16).
 
 The second problem was after running the program, when the "alien" doesn't hit my spacecraft and goes out of bounds, the game doesn't "reset", and everything just froze. An example of this problem is this video below.
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/hX4ReSyuBTU/0.jpg)](http://www.youtube.com/watch?v=YhX4ReSyuBTU)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/hX4ReSyuBTU/0.jpg)](http://www.youtube.com/watch?v=hX4ReSyuBTU)
 
 This is the first version of the code that the second problem came from.
 ![alt text](https://i.imgur.com/rwFM5x2.png)
