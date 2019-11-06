@@ -132,10 +132,9 @@ Beginners Help (Steps Below:)
 
 3rd Step: [Further application of MicroPython to ESP32](https://docs.micropython.org/en/latest/esp32/tutorial/intro.html)
 
-After finishing these steps, 
+After that Open your Command Prompt and locate your COM number (Eg: COM13), 
 
-
-| Syntax      | Description |
+| Commands    | Description |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
