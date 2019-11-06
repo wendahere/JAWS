@@ -136,5 +136,5 @@ After that Open your Command Prompt and locate your COM number (Eg: COM13),
 
 | Commands    | Description |
 | ----------- | ----------- |
-| --port (COM 13) erase_flash | Title       |
+|(1) --port (COM 13) erase_flash | Clear the data first before starting |
 | Paragraph   | Text        |
