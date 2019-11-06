@@ -1,4 +1,4 @@
->**WEEK 1**<
+>**WEEK 1**
 ## Two videos (Python): 
 
  [4 Hours Python ](https://www.youtube.com/watch?v=rfscVS0vtbw):
@@ -19,7 +19,7 @@
 - Cons:
 ~Talk too fast
 
-**1st Python website** 
+*1st Python website* 
 
 >*Important*: Capital, Underscore,String(need ""), From math import *
 
