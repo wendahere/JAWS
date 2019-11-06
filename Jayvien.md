@@ -99,7 +99,7 @@ Arduino uses processing : https://processing.org/
 
 *2nd Python website* 
 
->**WEEK 3**
+>**WEEK 3** (MECHANICAL)
 
 Friction Important (Cause of Traction) 
 
@@ -118,7 +118,9 @@ Tyre behaviour (Rolling Resistance)
 TTE (Total Tractive Effort), RR (Force necessary to overcome Rolling Resistance), GR (Force required to climb a Grade), Fa (Force required to Accelerate to Final Velocity)
 
 TTE [Ib] = RR [Ib] + GR [Ib] + Fa [Ib]
-	
+
+>**WEEK 4** (Learning ESP32)
+
 [ESP32 Reference](http://esp32.net/):
 
 This might help beginners to undestand more about ESP32
