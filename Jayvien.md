@@ -135,6 +135,6 @@ Beginners Help (Steps Below:)
 After that Open your Command Prompt and locate your COM number (Eg: COM13), 
 
 | Commands    | Description |
-| **Copy and Paste These Commands**|
+| Header | Title |
 | --port (COM 13) erase_flash | Title       |
 | Paragraph   | Text        |
