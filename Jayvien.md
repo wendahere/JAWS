@@ -119,7 +119,7 @@ TTE (Total Tractive Effort), RR (Force necessary to overcome Rolling Resistance)
 
 TTE [Ib] = RR [Ib] + GR [Ib] + Fa [Ib]
 
->**WEEK 4** (Learning ESP32)
+>**WEEK 4** (Applying MicroPython In ESP32)
 
 [ESP32 Reference](http://esp32.net/): This might help beginners to undestand more about ESP32
 
@@ -132,7 +132,7 @@ TTE [Ib] = RR [Ib] + GR [Ib] + Fa [Ib]
 
 3rd Step: [Further application of MicroPython to ESP32](https://docs.micropython.org/en/latest/esp32/tutorial/intro.html)
 
-After that Open your Command Prompt and locate your USB Port Number (Eg: COM13), 
+After that Open your Command Prompt and locate your USB Port Number (Eg: COM13) & put the following commands at the table below, 
 
 | Commands    | Description |
 | ----------- | ----------- |
