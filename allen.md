@@ -56,3 +56,8 @@ Cons:
 - Need to watch the video in order to know what is being taught, cannot open video in background and expect yourself to follow.
 - Need to know a little bit of programming (other programming languages) beforehand.
 
+## Week 3 (28/10/19 - 2/11/19):
+### 
+
+## Week 4 (4/11/19 - 8/11/19):
+Today we received the ESP32 board. We need to set up the ESP32 so that we can do python programming in the board. I installed micropython into the ESP32.
