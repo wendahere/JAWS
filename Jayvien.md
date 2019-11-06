@@ -123,7 +123,7 @@ TTE [Ib] = RR [Ib] + GR [Ib] + Fa [Ib]
 
 [ESP32 Reference](http://esp32.net/): This might help beginners to undestand more about ESP32
 
-Beginners Help (Steps Below:)
+**Beginners Help (Steps Below:)**
 
 1st Step: [Download Python Programe](https://www.python.org/downloads/) 
 >Remember to **Tick** the pip box so do not need to reinstall pip again!!
