@@ -9,7 +9,7 @@
 6. Construction site (transport of loads and construction materials due to loose and uneven soil)
 7. Machine that helps to spot Thin ice for people
 
-![Brainstorming Ideas](Discussion.jpg)
+![Brainstorming Ideas](https://i.imgur.com/mrkp1fu.jpg)
 
 
 >**WEEK 2**
