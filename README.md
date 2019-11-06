@@ -54,10 +54,8 @@ Its features include:
 3. Able to work in extreme cold
 4. Able to move well on ice
 
-## Week 2 (21/10/19 - 25/10/19):
-### <insert text here hue hue>:
-  
-  Week2 Assignment-
+## Week 2 (21/10/19 - 25/10/19):  
+### Week2 Assignment-
 1. Download python editor (found in group info), cher recommend thonny
 2. Make the space invader game 
 3. Go to youtube
@@ -66,3 +64,9 @@ Its features include:
 -->what errors yall faced
 -->your trials and errors
 -->what yall
+
+## Week 3 (28/10/19 - 1/11/19):
+### 
+
+## Week 4 (4/11/19 - 8/11/19):
+###
