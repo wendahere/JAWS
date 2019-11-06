@@ -121,14 +121,6 @@ TTE [Ib] = RR [Ib] + GR [Ib] + Fa [Ib]
 
 >**WEEK 4** (Learning ESP32)
 
-[ESP32 Reference](http://esp32.net/): This might help beginners to undestand more about ESP32
-
-[MicroPython in ESP32](https://docs.micropython.org/en/latest/esp32/tutorial/intro.html)
-Beginners Help (Steps Below:)
-
-1st Step: [Download Python Programe](https://www.python.org/downloads/) 
-
-https://github.com/espressif/esptool/
 
 
 
