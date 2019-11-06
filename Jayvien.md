@@ -101,7 +101,23 @@ Arduino uses processing : https://processing.org/
 
 >**WEEK 3**
 
+Friction Important (Cause of Traction) 
 
+Forces Calculation 
+
+Aerodynamic Forces (Extra Marks):
+-Motion Resistance
+-Lift Force
+-Lateral Force
+
+Tyre behaviour (Rolling Resistance)
+~Contact Pressure distribution of non-moving tyre
+(Need Calculate)
+
+
+TTE (Total Tractive Effort), RR (Force necessary to overcome Rolling Resistance), GR (Force required to climb a Grade), Fa (Force required to Accelerate to Final Velocity)
+
+TTE [Ib] = RR [Ib] + GR [Ib] + Fa [Ib]
 	
 [ESP32 Reference](http://esp32.net/):
 
