@@ -13,6 +13,26 @@
 
 
 >**WEEK 2**
+
+Learning Python:
+Micropython BBC: https://microbit-micropython.readthedocs.io/en/latest/
+
+Micropython for ESP32: https://docs.micropython.org/en/latest/esp32/tutorial/intro.html 
+
+Micropython: https://docs.micropython.org/en/latest/
+
+Helpful Tutorials for begineers: https://codewith.mu/ 
+
+Thonny : https://thonny.org/
+
+Java have a protocol to communicate with everyone
+
+Python is much easier, function type and object-oriented approach 
+
+Readability is important for everyone (clear understanding)
+
+Arduino uses processing : https://processing.org/
+
 ## Two videos (Python): 
 
  [4 Hours Python ](https://www.youtube.com/watch?v=rfscVS0vtbw):
@@ -77,6 +97,10 @@
 	def --> function?
 
 *2nd Python website* 
+
+>**WEEK 3**
+
+
 	
 [ESP32 Reference](http://esp32.net/):
 
