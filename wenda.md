@@ -119,60 +119,34 @@ At the the end, once any value exceeds the boundary, there will be this error, i
 I rewrote the code from scratch after finding out my mistake, was stumped and could not figure out why after an hour of searching, therefore I started from scratch and used another method to move the spacecraft instead.
 
 
-from microbit import *
-
-import random
-
- #starting position of spacecraft
-
-spacecraft = 2
-
-display.set_pixel(spacecraft, 4,5)
-
-
- #alien randomly appears from top y=0, x is random 0-4
-
-alienx = random.randint(0, 4)
-
-alieny = 0
-
-
-
-while True:
-
-   display.clear()
-
-   display.set_pixel(spacecraft, 4, 5)
-
-   display.set_pixel(alienx, alieny,5)
-
-    
-   if button_a.is_pressed():
-
-   spacecraft = spacecraft -1
-      #move left
-   elif button_b.is_pressed():
-     spacecraft = spacecraft +1
-
-   #move right
-
-  #move alien down by y+= 1
-
-   alieny = alieny + 1
-    
-   #when alien and player collide, game will end and loop game over!
-
-   if alienx == spacecraft and alieny == 4:
-        break
-
-        
-   sleep(250)
-        
-display.scroll("GAME OVER!", loop=True)
-
 ###Space Invaders Demo
 
 [![Space Invaders!](http://img.youtube.com/vi/JxIyh3bOaRo/0.jpg)](http://www.youtube.com/watch?v=JxIyh3bOaRo)
 
 
 
+#Week 4
+
+#####For class, we used ESP32.
+
+###Tutorial to use ESP32
+Follow this [guide](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation) if unclear, there are picture and clear steps. This is a good guide.
+
+1. [Install Python](https://www.python.org/downloads/) (Make sure to tick Path installation)
+2. [Install Pip](https://bootstrap.pypa.io/get-pip.py) (Right click and save as link)
+		
+		a. Use "py -m pip" if "pip" does not work
+
+3. Step up PATH and ENVIRONMENT VARIABLE to be able to run Pip and Python from anywhere
+4. [Download firmware](https://github.com/espressif/esptool/) Use "pip install esptool"
+5. Deploy firmware using command, follow below.
+
+"esptool --port COM3 write_flash 0x1000 my_app-0x01000.bin" OR "esptool.py --port COM3 write_flash 0x1000 my_app-0x01000.bin" if the earlier doesn't work.
+
+esptool worked for me but esptool.py does not.
+
+--port is your port that the ESP32 is plugged into, you can use Device Manager to find what port it is plugged into
+
+my_app-0x01000.bin is the firmware name, rename it to your current firmware .bin name.
+
+###Done!

@@ -48,7 +48,6 @@
 </ul>
 
 <h2>This site records WDLee's work and progress reflection.</h2>
-
 <h1>Week 1</h1>
 <p>Learned about markdown and git.
 Markdown after trying it out, seems relatively easy and useful to use. It can convert text to html format and make stuff like creating headers simple. </p>
@@ -147,31 +146,28 @@ while True:
 <p>At the the end, once any value exceeds the boundary, there will be this error, index out of bounds. I have tried using arrays but the value will still get out of bound of the array. The only solution I have for this is to simply reset the game before any value gets out of bounds, which includes the player.</p>
 <h3>Revised Version of code</h3>
 <p>I rewrote the code from scratch after finding out my mistake, was stumped and could not figure out why after an hour of searching, therefore I started from scratch and used another method to move the spacecraft instead.</p>
-<p>from microbit import *</p>
-<p>import random</p>
-<p>#starting position of spacecraft</p>
-<p>spacecraft = 2</p>
-<p>display.set_pixel(spacecraft, 4,5)</p>
-<p>#alien randomly appears from top y=0, x is random 0-4</p>
-<p>alienx = random.randint(0, 4)</p>
-<p>alieny = 0</p>
-<p>while True:</p>
-<p>display.clear()</p>
-<p>display.set_pixel(spacecraft, 4, 5)</p>
-<p>display.set_pixel(alienx, alieny,5)</p>
-<p>if button<em>a.is</em>pressed():</p>
-<p>spacecraft = spacecraft -1
-      #move left
-   elif button<em>b.is</em>pressed():
-     spacecraft = spacecraft +1</p>
-<p>#move right</p>
-<p>#move alien down by y+= 1</p>
-<p>alieny = alieny + 1</p>
-<p>#when alien and player collide, game will end and loop game over!</p>
-<p>if alienx == spacecraft and alieny == 4:
-        break</p>
-<p>sleep(250)</p>
-<p>display.scroll(&quot;GAME OVER!&quot;, loop=True)</p>
 <h3>Space Invaders Demo</h3>
 <p><a href="http://www.youtube.com/watch?v=JxIyh3bOaRo"><img src="http://img.youtube.com/vi/JxIyh3bOaRo/0.jpg" alt="Space Invaders!" /></a></p>
+<h1>Week 4</h1>
+<h5>For class, we used ESP32.</h5>
+<h3>Tutorial to use ESP32</h3>
+<p>Follow this <a href="https://github.com/BurntSushi/nfldb/wiki/Python-&amp;-pip-Windows-installation">guide</a> if unclear, there are picture and clear steps. This is a good guide.</p>
+<ol>
+<li><a href="https://www.python.org/downloads/">Install Python</a> (Make sure to tick Path installation)</li>
+<li>
+<p><a href="https://bootstrap.pypa.io/get-pip.py">Install Pip</a> (Right click and save as link)</p>
+<pre><code>a. Use &quot;py -m pip&quot; if &quot;pip&quot; does not work
+</code></pre>
 
+</li>
+<li>
+<p>Step up PATH and ENVIRONMENT VARIABLE to be able to run Pip and Python from anywhere</p>
+</li>
+<li><a href="https://github.com/espressif/esptool/">Download firmware</a> Use &quot;pip install esptool&quot;</li>
+<li>Deploy firmware using command, follow below.</li>
+</ol>
+<p>&quot;esptool --port COM3 write<em>flash 0x1000 my</em>app-0x01000.bin&quot; OR &quot;esptool.py --port COM3 write<em>flash 0x1000 my</em>app-0x01000.bin&quot; if the earlier doesn't work.</p>
+<p>esptool worked for me but esptool.py does not.</p>
+<p>--port is your port that the ESP32 is plugged into, you can use Device Manager to find what port it is plugged into</p>
+<p>my_app-0x01000.bin is the firmware name, rename it to your current firmware .bin name.</p>
+<h3>Done!</h3>
