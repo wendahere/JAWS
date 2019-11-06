@@ -130,4 +130,4 @@ Beginners Help (Steps Below:)
 
 2nd Step: [Understand about ESP32 & Installation of Python in ESP32](http://github.com/espressif/esptool/)
 
-
+3rd Step: [Further application of MicroPython to ESP32](https://docs.micropython.org/en/latest/esp32/tutorial/intro.html)
