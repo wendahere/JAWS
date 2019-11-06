@@ -128,6 +128,6 @@ Beginners Help (Steps Below:)
 
 1st Step: [Download Python Programe](https://www.python.org/downloads/) 
 
-2nd Step: [Understand about ESP32 & Installation of Python in ESP32] (https://github.com/espressif/esptool/)
+2nd Step: [Understand about ESP32 & Installation of Python in ESP32](http://github.com/espressif/esptool/)
 
 
