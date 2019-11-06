@@ -14,7 +14,8 @@
 
 >**WEEK 2**
 
-Learning Python:
+>Learning Python:
+
 Micropython BBC: https://microbit-micropython.readthedocs.io/en/latest/
 
 Micropython for ESP32: https://docs.micropython.org/en/latest/esp32/tutorial/intro.html 
