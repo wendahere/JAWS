@@ -121,9 +121,7 @@ TTE [Ib] = RR [Ib] + GR [Ib] + Fa [Ib]
 
 >**WEEK 4** (Learning ESP32)
 
-[ESP32 Reference](http://esp32.net/):
-
-This might help beginners to undestand more about ESP32
+[ESP32 Reference](http://esp32.net/): This might help beginners to undestand more about ESP32
 
 
 
