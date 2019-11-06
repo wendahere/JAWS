@@ -76,7 +76,7 @@
 
 	def --> function?
 
-*2ndPython website* 
+*2nd Python website* 
 	
 [ESP32 Reference](http://esp32.net/):
 
