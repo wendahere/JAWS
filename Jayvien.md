@@ -138,4 +138,4 @@ After that Open your Command Prompt and locate your USB Port Number (Eg: COM13),
 | ----------- | ----------- |
 |Firstly, --port (COM 13) erase_flash | Clear the data first before starting |
 |Secondly, --chip esp32 --port (COM 13) write_flash -z 0x1000 (esp32-20180511-v1.9.4.bin) | Deploying the new firmware to your ESP32 |
->**ALL IN BRACKETS IS SUBJECTED TO CHANGE TO THE INDIVIDUAL'S USB Port Number & FIle Bin**
+>**ALL IN BRACKETS IS SUBJECTED TO CHANGE TO THE INDIVIDUAL'S USB Port Number & File Bin**
