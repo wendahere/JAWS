@@ -1,4 +1,16 @@
 >**WEEK 1**
+
+- Brainstorming Ideas(Together with my teammates):
+1. Deliver food in kitchen (due to oil in floor)
+2. Automatic ward bed (less stress for nurses)
+3. Stable rescue stretcher (reduce unnecessary movement of casualty)
+4. Grab rubbish (easier for cleaners)
+5. Exploration under river (Help with further experiment)
+6. Construction site (transport of loads and construction materials due to loose and uneven soil)
+7. Machine that helps to spot Thin ice for people
+
+
+>**WEEK 2**
 ## Two videos (Python): 
 
  [4 Hours Python ](https://www.youtube.com/watch?v=rfscVS0vtbw):
