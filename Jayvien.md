@@ -126,7 +126,7 @@ TTE [Ib] = RR [Ib] + GR [Ib] + Fa [Ib]
 [MicroPython in ESP32](https://docs.micropython.org/en/latest/esp32/tutorial/intro.html)
 Beginners Help (Steps Below:)
 
-1st Step: 
+1st Step: https://www.python.org/downloads/ (Download the Latest Python)
 
 
 
