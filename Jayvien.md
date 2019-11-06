@@ -132,9 +132,10 @@ Beginners Help (Steps Below:)
 
 3rd Step: [Further application of MicroPython to ESP32](https://docs.micropython.org/en/latest/esp32/tutorial/intro.html)
 
-After that Open your Command Prompt and locate your COM number (Eg: COM13), 
+After that Open your Command Prompt and locate your USB Port Number (Eg: COM13), 
 
 | Commands    | Description |
 | ----------- | ----------- |
-|(1) --port (COM 13) erase_flash | Clear the data first before starting |
-| Paragraph   | Text        |
+|Firstly, --port (COM 13) erase_flash | Clear the data first before starting |
+|Secondly, --chip esp32 --port (COM 13) write_flash -z 0x1000 (esp32-20180511-v1.9.4.bin) | Deploying the new firmware to your ESP32 |
+>**ALL IN BRACKETS IS SUBJECTED TO CHANGE TO THE INDIVIDUAL'S USB Port Number & FIle Bin**
