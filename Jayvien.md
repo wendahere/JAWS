@@ -11,6 +11,7 @@
 
 ![Brainstorming Ideas](Discussion.jpg)
 
+
 >**WEEK 2**
 ## Two videos (Python): 
 
