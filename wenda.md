@@ -16,7 +16,7 @@ I have downloaded both markdown and  git on my laptop so I will be using them. I
 
 ##TL:DR
 ##Conclusion: 
-My code was successful. The code can be seen below or [here](https://pastebin.com/sCmUxWWL).
+My code was successful. The code can be seen below.
 
 	from microbit import *
 
