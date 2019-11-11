@@ -73,4 +73,12 @@ Functional constraint:
 - Graph of Tw vs Acceleration times need to be done in Excel (may need enough points for a best-fit graph), illustrating the range of viable Tw.
 
 ## Week 4 (4/11/19 - 8/11/19):
-Today we received the ESP32 board. We need to set up the ESP32 so that we can do python programming in the board. I installed micropython into the ESP32.
+Today we received the ESP32 board. 
+
+![Picture of the ESP32]()
+
+We will be using it to do all our Python programming on. Before we do anything, we need to set up the ESP32 by installing micropython in it, so that we can do python programming in the board. Below is a flowchart I followed to set up the ESP32 and to test if it is functioning.
+
+![Picture of Flowchart](https://imgur.com/rRrUc35.png)
+
+First step: 
