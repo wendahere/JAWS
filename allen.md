@@ -57,7 +57,20 @@ Cons:
 - Need to know a little bit of programming (other programming languages) beforehand.
 
 ## Week 3 (28/10/19 - 2/11/19):
-### 
+This week we were taught the history of track vehicles, its development throughout the years, and its wide variety of applications.
+### Assignment
+A grocery transportation drone is being designed. It will have continuous tracks as the method of propulsion. Only one sprocket axis is powered.
+
+Determine the type of electrical motor(s) to be bought to power it? Budget constraint for motor(s): USD100 in total.
+
+Functional constraint:
+
+- Vmax = as fast as possible but limited only to motor's max rpm
+- Acceleration time to Vmax = any number between 1 to 5 seconds (should be unique between students).
+- Maximum incline = BCA-approved wheelchair ramp incline (find out and cite source)
+- Weight = 1kg + weight of groceries
+- Weight of groceries = combined weight of 5-6 randomly choose bulky goods from Redmart or Fairprice's website and cite their individual weights and their combined weight. 
+- Graph of Tw vs Acceleration times need to be done in Excel (may need enough points for a best-fit graph), illustrating the range of viable Tw.
 
 ## Week 4 (4/11/19 - 8/11/19):
 Today we received the ESP32 board. We need to set up the ESP32 so that we can do python programming in the board. I installed micropython into the ESP32.
