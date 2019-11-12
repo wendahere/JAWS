@@ -1,12 +1,16 @@
 # Allen's Blog
-## Week 1 (14/9/19 - 19/9/19):
+The following documents the work and progress done by Allen.
+
+[This](https://github.com/wendahere/JAWS#jaws) is the link to the group blog.
+
+## Week 1 (14/9/19 - 21/9/19):
 This is the first week of our engineering realization module. 
 
 We were introduced to what our project was which is by the end of the semester. we are to build a track vehicle that executes a specific task. We also formed groups of 4. In my group, 2 of us (Wen Da and I) are from the mechanical background, while the remaining two are from electrical background.
 
 In our first group discussion, we discussed what kind of task will our track vehicle execute, and what kind of features it will have. Details of the discussion can be found [here](https://github.com/wendahere/JAWS#week-1-141019---181019).
 
-## Week 2 (21/9/19 - 25/9/19):
+## Week 2 (21/9/19 - 27/9/19):
 ### Coding with BBC micro:bit
 
 ![microbit_front]() ![microbit_back]()
@@ -109,9 +113,12 @@ Cons:
 - Need to watch the video in order to know what is being taught, cannot open video in background and expect yourself to follow.
 - Need to know a little bit of programming (other programming languages) beforehand.
 
-## Week 3 (28/10/19 - 2/11/19):
+## Week 3 (28/10/19 - 4/11/19):
 This week we were taught the history of track vehicles, its development throughout the years, and its wide variety of applications.
-### Assignment
+
+Furthermore we also [assembled](https://github.com/wendahere/JAWS/blob/master/README.md#assembly) the T100 continous track vehicle which wil be used for learning and prototyping.
+
+### Individual Assignment
 A grocery transportation drone is being designed. It will have continuous tracks as the method of propulsion. Only one sprocket axis is powered.
 
 Determine the type of electrical motor(s) to be bought to power it? Budget constraint for motor(s): USD100 in total.
@@ -127,7 +134,7 @@ Functional constraint:
 
 This [link](https://docs.google.com/presentation/d/1z6uqKXUzrGAHKOQaMHNoKKfvfchR32ZgUgN2NgdGU30/edit?usp=sharing) is the powerpoint slides where all my calculations, graphs and references can be found. It has been done in powerpoint format for an easy presentation of my assignment.
 
-## Week 4 (4/11/19 - 8/11/19):
+## Week 4 (4/11/19 - 10/11/19):
 Today we received the ESP32 board. 
 
 ![esp32_front]() ![esp32_back]()
@@ -171,3 +178,6 @@ Below are the steps that I've use to prepare my ESP32 so that I could do python 
     1. Then deploy the firmware that was just downloaded. 
     
             esptool.py --chip esp32 --port /COM5 write_flash -z 0x1000 esp32-idf3-20191106-v1.11-558-gd209f9ebe.bin
+
+## Week 5 (11/11/19 - 17/11/19):
+###
