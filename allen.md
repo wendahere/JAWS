@@ -1,5 +1,6 @@
 # Allen's Blog
 ## Week 1 (14/9/19 - 19/9/19):
+This is the first week
 ## Week 2 (21/9/19 - 25/9/19):
 ### Coding with BBC micro:bit
 This week we learnt how to code python using the BBC micro:bit. Our homework is to code a space invaders game.
