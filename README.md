@@ -22,7 +22,7 @@ This is our group blog where we post our group discussion for our project. For m
 - [Sean's Blog](https://github.com/wendahere/JAWS/blob/master/Sean.md)
 - [Wen Da's Blog](https://github.com/wendahere/JAWS/blob/master/wenda.md)
 
-## Week 1 (14/10/19 - 18/10/19):
+## Week 1 (14/10/19 - 20/10/19):
 ### Brainstorming Session:
 Initial ideas:
 1. Deliver food in kitchen (due to oil in floor)
@@ -61,7 +61,7 @@ Its features include:
 3. Able to work in extreme cold
 4. Able to move well on ice
 
-## Week 2 (21/10/19 - 25/10/19):  
+## Week 2 (21/10/19 - 27/10/19):  
 ### Week 2 Assignment-
 1. Download python editor (found in group info), cher recommend thonny
 2. Make the space invader game 
@@ -72,7 +72,7 @@ Its features include:
 -->your trials and errors
 -->what yall
 
-## Week 3 (28/10/19 - 1/11/19):
+## Week 3 (28/10/19 - 3/11/19):
 ### Continuous Track Vehicle
 [History and application of track vehicles.](https://www.wikiwand.com/en/Continuous_track)
 
@@ -100,6 +100,13 @@ _talk about how the given tracks were too long, and how we plan to solve it (can
 ### Week 3 Assignment - 
 _placeholder text_
 
-## Week 4 (4/11/19 - 8/11/19):
+## Week 4 (4/11/19 - 10/11/19):
 ### ESP32
 ![esp32_front]() ![esp32_back]()
+
+![Picture of Flowchart](https://imgur.com/rRrUc35.png)
+
+_placeholder text_
+
+## Week 5 (11/11/19 - 17/11/19):
+###
