@@ -80,14 +80,14 @@ Its features include:
 
 ![t100]()
 
-We were given the mini T100 track vehicle to assemble and do our initial prototyping. We got this model from [aliexpress <no link yet>]().
+We were given the mini T100 track vehicle to assemble and do our initial prototyping. We got this model from [aliexpress (no link yet)]().
 
 ### Assembly
 
 ![parts]()
 _stock check (list out all the parts)_
 
-We followed [this link <no link yet>]() to build the T100.
+We followed [this link (no link yet)]() to build the T100.
 
 ![assembly_pic1]() ![assembly_pic2]()
 
