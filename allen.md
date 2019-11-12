@@ -4,7 +4,7 @@ This is the first week of our engineering realization module.
 
 We were introduced to what our project was which is by the end of the semester. we are to build a track vehicle that executes a specific task. We also formed groups of 4. In my group, 2 of us (Wen Da and I) are from the mechanical background, while the remaining two are from electrical background.
 
-In our first group discussion, we discussed what kind of task will our track vehicle execute, and what kind of features it will have. Details of the discussion can be found [here](https://github.com/wendahere/JAWS).
+In our first group discussion, we discussed what kind of task will our track vehicle execute, and what kind of features it will have. Details of the discussion can be found [here](https://github.com/wendahere/JAWS#week-1-141019---181019).
 
 ## Week 2 (21/9/19 - 25/9/19):
 ### Coding with BBC micro:bit
