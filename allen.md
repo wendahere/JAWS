@@ -1,6 +1,11 @@
 # Allen's Blog
 ## Week 1 (14/9/19 - 19/9/19):
-This is the first week
+This is the first week of our engineering realization module. 
+
+We were introduced to what our project was which is by the end of the semester. we are to build a track vehicle that executes a specific task. We also formed groups of 4. In my group, 2 of us (Wen Da and I) are from the mechanical background, while the remaining two are from electrical background.
+
+In our first group discussion, we discussed what kind of task will our track vehicle execute, and what kind of features it will have. Details of the discussion can be found [here](https://github.com/wendahere/JAWS).
+
 ## Week 2 (21/9/19 - 25/9/19):
 ### Coding with BBC micro:bit
 This week we learnt how to code python using the BBC micro:bit. Our homework is to code a space invaders game.
@@ -117,6 +122,8 @@ Functional constraint:
 - Weight of groceries = combined weight of 5-6 randomly choose bulky goods from Redmart or Fairprice's website and cite their individual weights and their combined weight. 
 - Graph of Tw vs Acceleration times need to be done in Excel (may need enough points for a best-fit graph), illustrating the range of viable Tw.
 
+This [link](https://docs.google.com/presentation/d/1z6uqKXUzrGAHKOQaMHNoKKfvfchR32ZgUgN2NgdGU30/edit?usp=sharing) is the powerpoint slides where all my calculations, graphs and references can be found. It has been done in powerpoint format for an easy presentation of my assignment.
+
 ## Week 4 (4/11/19 - 8/11/19):
 Today we received the ESP32 board. 
 
@@ -152,7 +159,7 @@ Below are the steps that I've use to prepare my ESP32 so that I could do python 
             
     1. Before moving on to the next step, we need to make sure that pip is in the latest version. Type the following in the command prompt. If it is not in the latest version, we need to update it (Which I did it during my installation).
    
-            pip - V
+            pip -V
             
     1. Erase the flash with the following command.
     
