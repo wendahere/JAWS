@@ -4,8 +4,52 @@
 ### Coding with BBC micro:bit
 This week we learnt how to code python using the BBC micro:bit. Our homework is to code a space invaders game.
 After several trials and errors, I managed to come up with a working code for the game. The below is the code for the game.
-![alt text](https://imgur.com/LLkHFSz.png)
 
+    from microbit import  *
+    import random
+    
+    #spacecraft is originally in the middle of screen
+    spacecraft_x = 2
+    
+    # alien randomly starts at the top
+    alien_x = random.randint(0,4)
+    alien_y = 0
+    
+    while True:
+      # draw the display
+      display.clear()
+      display.set_pixel(spacecraft_x, 4, 5)
+      display.set_pixel(alien_x, alien_y, 9)
+      
+      # drop the alien on each turn
+      alien_y = alien_y + 1
+      
+      # use buttons to move the spacecraft
+      if button_a.is_pressed():
+        # move left
+        spacecraft_x = spacecraft_x - 1
+       if button_b.is_pressed():
+        # move right
+        spacecraft_x = spacecraft_x + 1
+        
+       if alien_y == 5:
+        # alien reaches the end but no collision
+        alien_x = random.randint(0,4)
+        alien_y = 0
+        display.set_pixel(alien_x, alien_y, 9)
+        alien_y = alien_y + 1
+        sleep(250)
+        
+       if alien_x == spacecraft_x and alien_y == 4:
+        # collision happens
+        break
+        
+       # some delay to view the screen
+       sleep(250)
+       
+    # End the game
+    display.scroll("GAME OVER!", loop = True)
+    
 This is a small preview on how the game works. The "alien" drops from the first line on top, the player's game is to maneuver the spacecraft at the bottom by either going left and right by pressing the respective buttons to evade the alien. The game ends once the alien collides with the spacecraft.
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/T7CeutXWiZE/0.jpg)](http://www.youtube.com/watch?v=T7CeutXWiZEE)
 
@@ -81,4 +125,38 @@ We will be using it to do all our Python programming on. Before we do anything, 
 
 ![Picture of Flowchart](https://imgur.com/rRrUc35.png)
 
-First step: 
+Below are the steps that I've use to prepare my ESP32 so that I could do python programming in it using Thonny. I've also referenced [this link](https://docs.micropython.org/en/latest/esp32/tutorial/intro.html).
+
+1. Install latest version of python via [this link](https://www.python.org/downloads/).
+1. Make sure that pip is also installed. We need pip to help install epstool.py which we will use to deploy the micropython firmware into the ESP32.
+   1. To check, type 'pip feeze' in the command prompt, if pip is installed correctly, it should look like this.
+    
+          C:\Users\Allen Michael Bautisa Tan>pip freeze
+          ecdsa==0.13.3
+          esptool==2.8
+          pyaes==1.6.1
+          pyserial==3.4
+          
+    1. The first time I typed 'pip freeze', I got some error, and it was most probably because of my python not being installed properly. Below was the error message i got.
+    
+           'pip freeze' is not recognized as an internal or external command,
+           operable program or batch file.
+           
+    1. To solve this, I unistalled my existing python and all related files, and reinstalled them.
+1. Having pip installed, we need to deploy micropython firmware.
+    1. I downloaded the micropython firmware from [here](https://micropython.org/download#esp32). The file is [this](https://micropython.org/resources/firmware/esp32-idf3-20191112-v1.11-576-gd667bc642.bin)
+    1. Afterwards, I installed esptool.py. Type the following in the command prompt.
+    
+            pip install esptool
+            
+    1. Before moving on to the next step, we need to make sure that pip is in the latest version. Type the following in the command prompt. If it is not in the latest version, we need to update it (Which I did it during my installation).
+   
+            pip - V
+            
+    1. Erase the flash with the following command.
+    
+            esptool.py --port /COM5 erase_flash
+            
+    1. Then deploy the firmware that was just downloaded. 
+    
+            esptool.py --chip esp32 --port /COM5 write_flash -z 0x1000 esp32-idf3-20191106-v1.11-558-gd209f9ebe.bin
