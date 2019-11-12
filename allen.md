@@ -8,6 +8,9 @@ In our first group discussion, we discussed what kind of task will our track veh
 
 ## Week 2 (21/9/19 - 25/9/19):
 ### Coding with BBC micro:bit
+
+![microbit_front]() ![microbit_back]()
+
 This week we learnt how to code python using the BBC micro:bit. Our homework is to code a space invaders game.
 After several trials and errors, I managed to come up with a working code for the game. The below is the code for the game.
 
@@ -127,7 +130,7 @@ This [link](https://docs.google.com/presentation/d/1z6uqKXUzrGAHKOQaMHNoKKfvfchR
 ## Week 4 (4/11/19 - 8/11/19):
 Today we received the ESP32 board. 
 
-![Picture of the ESP32]()
+![esp32_front]() ![esp32_back]()
 
 We will be using it to do all our Python programming on. Before we do anything, we need to set up the ESP32 by installing micropython in it, so that we can do python programming in the board. Below is a flowchart I followed to set up the ESP32 and to test if it is functioning.
 
