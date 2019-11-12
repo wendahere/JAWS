@@ -62,7 +62,7 @@ Its features include:
 4. Able to move well on ice
 
 ## Week 2 (21/10/19 - 25/10/19):  
-### Week2 Assignment-
+### Week 2 Assignment-
 1. Download python editor (found in group info), cher recommend thonny
 2. Make the space invader game 
 3. Go to youtube
@@ -73,7 +73,33 @@ Its features include:
 -->what yall
 
 ## Week 3 (28/10/19 - 1/11/19):
-### 
+### Continuous Track Vehicle
+[History and application of track vehicles.](https://www.wikiwand.com/en/Continuous_track)
+
+### T100
+
+![t100]()
+
+We were given the mini T100 track vehicle to assemble and do our initial prototyping. We got this model from [aliexpress <no link yet>]().
+
+### Assembly
+
+![parts]()
+_stock check (list out all the parts)_
+
+We followed [this link <no link yet>]() to build the T100.
+
+![assembly_pic1]() ![assembly_pic2]()
+
+![assembly_pic3]() ![assembly_pic4]()
+
+![full_assembly]()
+
+_talk about how the given tracks were too long, and how we plan to solve it (can insert pictures also)_
+
+### Week 3 Assignment - 
+_placeholder text_
 
 ## Week 4 (4/11/19 - 8/11/19):
-###
+### ESP32
+![esp32_front]() ![esp32_back]()
