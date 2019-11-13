@@ -126,9 +126,9 @@ Now you have python installed!
 i)Now you have python installed, go to your command prompt or windows powershell and type ```pip ```. It should list the functions that pip can do on your computer. However, if you are getting this output: ```Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 NameError: name 'pip' is not defined```, close the tab and type pip again. if the error still persists, it probably means you need to install pip on your computer which [this article will tell you how]([https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation)). 
-ii) If it is working correctly, type ```pip install esptool``` into the command prompt and it shouldn't have any error.
+ii) If it is working correctly, type ```pip install esptool``` into the command prompt and it shouldn't have any error and would be downloading it. **make sure not to touch it to not sever the connection**.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NzMzMjc4NF19
+eyJoaXN0b3J5IjpbMTIwMzMyNzA4NSwtMjk3MzMyNzg0XX0=
 -->
