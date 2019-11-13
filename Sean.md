@@ -116,9 +116,8 @@ Click on it and you will be on another page.
 
 iii) Scroll down until you see this page. 
 ![IMAGE ALT TEXT HERE](https://i.imgur.com/Gcpp0Qp.png)
-Download the x86-64 file(can be any of them) and run it on your computer.
-iiii) You can just put all of the default options ex
+Download the x86-64 file(can be any of them) and run it on your computer. yo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5NzAyODc3LC0xODU2Mzk0MTEzLDExOT
-Y5NzczMDUsMTYwMTA5ODM2N119
+eyJoaXN0b3J5IjpbLTI4MDgyOTMxMywtMTg1NjM5NDExMywxMT
+k2OTc3MzA1LDE2MDEwOTgzNjddfQ==
 -->
