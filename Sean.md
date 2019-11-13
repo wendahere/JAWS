@@ -7,7 +7,7 @@ If you don't know what am i talking about here is a example of the game [right h
 
 
 
-### Reflections
+## Reflections
 I did not complete the entire code but I managed to figure out the ship movements.
 
 Here it is below:
@@ -71,7 +71,7 @@ Cons:
 - Need to know a little bit of programming (other programming languages) beforehand.
 
 # Week 3
-### Reflections
+## Reflections
 For this week we learnt about the history of tanks and how they were built. I was a very helpful lesson as I, as a guy that does not know much about mechanical engineering, had no idea how an actual tank actually worked and it was very enlightening to find out.
 Here's what i learned:
 
@@ -101,10 +101,12 @@ TTE (Total Tractive Effort), RR (Force necessary to overcome Rolling Resistance)
 TTE [Ib] = RR [Ib] + GR [Ib] + Fa [Ib]
 
 # Week 4
-### Reflection
+## Reflection
 This week our lecturer, Mr Rodney, taught us micropython and how to install it on the ESP32. I'm going to summarise what he went though but if you want the full tutorials they will be at the bottom of this week's blog
   
+<p>&nbsp;</p>
 
+### How to install Micropython into ESP32
 #### Step 1: Install python into your computer
 i) Go to this [link]([https://www.python.org/downloads/](https://www.python.org/downloads/)) and install a version of python. For this tutorial, and for future use. I would suggest installing the latest version of python(3.8.0 as the time of writing) to make sure you don't do any extra steps. However, if you want to install a specific version, make sure you have pip installed into your computer as it is needed for a later step. 
 
@@ -114,6 +116,6 @@ Click on it and you will be on another page.
 
 Scroll down
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjIzMjQxNSwtMTg1NjM5NDExMywxMT
-k2OTc3MzA1LDE2MDEwOTgzNjddfQ==
+eyJoaXN0b3J5IjpbLTE4ODM4NjIwNTUsLTE4NTYzOTQxMTMsMT
+E5Njk3NzMwNSwxNjAxMDk4MzY3XX0=
 -->
