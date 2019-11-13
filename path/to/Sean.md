@@ -105,8 +105,9 @@ TTE [Ib] = RR [Ib] + GR [Ib] + Fa [Ib]
 This week our lecturer, Mr Rodney, taught us micropython and how to install it on the ESP32. I'm going to summarise what he went though but if you want the full tutorials they will be at the bottom of this week's blog
 
 #### Step 1: Install python into your computer
-Go to this [link]([https://www.python.org/downloads/](https://www.python.org/downloads/)) and install a version of python. For this tutorial, and for future use. I would suggest installing the latest version of python(3.8.0 as the time of writing) to make sure you don't do any extra steps. However, if you want to install a specific version, make sure you have pip installed into your computer as it is needed for a later step. Moving on, ff you have a 32 bit computer, just click to where the arrow is ![IMAGE ALT TEXT HERE][Imgur](https://i.imgur.com/QP7Poi5.jpg)
+Go to this [link]([https://www.python.org/downloads/](https://www.python.org/downloads/)) and install a version of python. For this tutorial, and for future use. I would suggest installing the latest version of python(3.8.0 as the time of writing) to make sure you don't do any extra steps. However, if you want to install a specific version, make sure you have pip installed into your computer as it is needed for a later step. Moving on, ff you have a 32 bit computer, just click to where the arrow is pointing to then you will be able to install the latest versiobn.![IMAGE ALT TEXT HERE](https://i.imgur.com/QP7Poi5.jpg)
+However, i fyou do not have that, then you would have to scroll down
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTk3MjkyLC0xODU2Mzk0MTEzLDExOT
-Y5NzczMDUsMTYwMTA5ODM2N119
+eyJoaXN0b3J5IjpbMTQxNjkzODQxMiwtMTg1NjM5NDExMywxMT
+k2OTc3MzA1LDE2MDEwOTgzNjddfQ==
 -->
