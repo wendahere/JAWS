@@ -110,12 +110,12 @@ This week our lecturer, Mr Rodney, taught us micropython and how to install it o
 #### Step 1: Install python into your computer
 i) Go to this [link]([https://www.python.org/downloads/](https://www.python.org/downloads/)) and install a version of python. For this tutorial, and for future use. I would suggest installing the latest version of python(3.8.0 as the time of writing) to make sure you don't do any extra steps. However, if you want to install a specific version, make sure you have pip installed into your computer as it is needed for a later step. 
 
-ii) Moving on, if you have a 32 bit computer, just click to where the arrow is pointing to then you will be able to install the latest version.![IMAGE ALT TEXT HERE](https://i.imgur.com/QP7Poi5.jpg)
+ii) Moving on, if you have a 32 bit computer(you can check it in settings), just click to where the arrow is pointing to then you will be able to install the latest version.![IMAGE ALT TEXT HERE](https://i.imgur.com/QP7Poi5.jpg)
 However, if you do not have that, then you would have to scroll down the page until you find the latest version of python(newest release date does not mean it is the latest version of python). 
 Click on it and you will be on another page. 
 
-Scroll down
+iii) Scroll down until you see 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM4NjIwNTUsLTE4NTYzOTQxMTMsMT
-E5Njk3NzMwNSwxNjAxMDk4MzY3XX0=
+eyJoaXN0b3J5IjpbMTUyMTA5ODQzNCwtMTg1NjM5NDExMywxMT
+k2OTc3MzA1LDE2MDEwOTgzNjddfQ==
 -->
