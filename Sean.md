@@ -68,3 +68,6 @@ Pros:
 Cons:
 - Need to watch the video in order to know what is being taught, cannot open video in background and expect yourself to follow.
 - Need to know a little bit of programming (other programming languages) beforehand.
+
+# Week 3
+
