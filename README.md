@@ -78,24 +78,34 @@ Its features include:
 
 ### T100
 
-![t100]()
+![t100](https://imgur.com/2S6XT3W.png)
 
-We were given the mini T100 track vehicle to assemble and do our initial prototyping. We got this model from [aliexpress (no link yet)]().
+We were given the mini T100 track vehicle to assemble and do our initial prototyping. We got this model from [aliexpres](https://www.aliexpress.com/item/32799533790.html).
 
 ### Assembly
 
-![parts]()
-_stock check (list out all the parts)_
+![parts](https://imgur.com/O1qHP1a.png)
+Parts (from top down and left to right):
+1. {4}  Gaskets 
+1. {15} M3x8 Hexagonal Socket Screws
+1. {2}  Caterpillar Tracks
+1. {6}  M2 Flange Screws
+1. {16} M2 Countersunk Screws
+1. {}
+1. 
+1. 
+1. 
 
-We followed [this link (no link yet)]() to build the T100.
+
+We followed [this link](https://github.com/SmartArduino/ESPboard/blob/master/miniT100Instruction.pdf) to build the T100.
 
 ![assembly_pic1]() ![assembly_pic2]()
 
-![assembly_pic3]() ![assembly_pic4]()
+![assembly_pic3]() ![assembly_pic4](https://imgur.com/aI0B99K.png)
 
 ![full_assembly]()
 
-_talk about how the given tracks were too long, and how we plan to solve it (can insert pictures also)_
+_talk about how the given tracks were too long, and how we plan to solve it (show insert pictures also)_
 
 ### Week 3 Assignment - 
 _placeholder text_
