@@ -130,7 +130,5 @@ ii) If it is working correctly, type ```pip install esptool``` into the command 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NzMzMjc4NCwzNDY2ODIzODIsLTE1OT
-kzNTQ5LC0xNjE4MDM2NTY3LC0xODU2Mzk0MTEzLDExOTY5Nzcz
-MDUsMTYwMTA5ODM2N119
+eyJoaXN0b3J5IjpbLTI5NzMzMjc4NF19
 -->
