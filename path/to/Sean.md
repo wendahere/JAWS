@@ -116,8 +116,8 @@ Click on it and you will be on another page.
 
 iii) Scroll down until you see this page. 
 ![IMAGE ALT TEXT HERE](https://i.imgur.com/Gcpp0Qp.png)
-Download the x86-64 file(can be any of them) and run it on your computer.
+Download the x86-64 file(can be any of them) and run it on your computer. If you are a begineer, just put all the options as default except for changing the option to adding it to path
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQ3NjgyNTcsLTE4NTYzOTQxMTMsMT
-E5Njk3NzMwNSwxNjAxMDk4MzY3XX0=
+eyJoaXN0b3J5IjpbLTc4Nzk4MTUzMywtMTg1NjM5NDExMywxMT
+k2OTc3MzA1LDE2MDEwOTgzNjddfQ==
 -->
