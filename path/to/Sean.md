@@ -123,14 +123,11 @@ Now you have python installed!
 
 #### Step 2:Using pip, download the ESP tool
 
-Now you have python installed, go to your command prompt or windows powershell and type ```pip `
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-```
+Now you have python installed, go to your command prompt or windows powershell and type ```pip ```. It should have an output like this
 
-`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjAwOTc1NCwtMTU5OTM1NDksLTE2MT
-gwMzY1NjcsLTE4NTYzOTQxMTMsMTE5Njk3NzMwNSwxNjAxMDk4
-MzY3XX0=
+eyJoaXN0b3J5IjpbNTU1NzMyMjQ2LC0xNTk5MzU0OSwtMTYxOD
+AzNjU2NywtMTg1NjM5NDExMywxMTk2OTc3MzA1LDE2MDEwOTgz
+NjddfQ==
 -->
