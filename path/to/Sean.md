@@ -122,10 +122,10 @@ Now you have python installed!
 <p>&nbsp;</p>
 
 #### Step 2:Using pip, download the ESP tool
-This ste
 
+Now you have python installed, no you
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzkxMTU3MCwtMTg1NjM5NDExMywxMT
-k2OTc3MzA1LDE2MDEwOTgzNjddfQ==
+eyJoaXN0b3J5IjpbLTE2MTgwMzY1NjcsLTE4NTYzOTQxMTMsMT
+E5Njk3NzMwNSwxNjAxMDk4MzY3XX0=
 -->
