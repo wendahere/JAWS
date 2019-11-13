@@ -154,6 +154,7 @@ Open your Device Manager and locate your USB Port Number (Eg: COM13) & put the f
 2. Source (Relies on the main supply)
  
 These two opetions refer to the direction of current flow between an I/O point on an I/O module and the connected device. 
+
 **WARNING**: Only relevant for DC circuits with positive and negative polarities since current flows both directions in an AC circuit.
 
 -Prevent Overcurrent & Protect Internal Resistance
