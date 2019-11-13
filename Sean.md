@@ -39,6 +39,7 @@ Though my teacher only tasks us with the movement of the space ship and the move
 
 As a beginner coder, I didn't realise how important to put delays are to making your code work. Even the timings for the delays are very important as it can make your code from a not working one to a perfectly functioning one. For example, this image below:
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/hX4ReSyuBTU/0.jpg)
+
 This is would be the output of the microbit for the spaceship if you didn't put the delay for the spaceship and it wouldn't be able to move, which was what i didn't put in the beginning.  This is because the delay allows the microbit to realise that you have pressed the button and will excecute the code to move the spaceship.
  This is because the code runs much fster than you pushing the button. Thus, the microbit not sensing the push of the button.
  That's one of the reasons why you should put the delays in your coding. But be warned, casue the timing of the delays will also affect your output of the code which leads to my second lesson.
@@ -104,7 +105,7 @@ TTE [Ib] = RR [Ib] + GR [Ib] + Fa [Ib]
 This week our lecturer, Mr Rodney, taught us micropython and how to install it on the ESP32. I'm going to summarise what he went though but if you want the full tutorials they will be at the bottom of this week's blog
 
 #### Step 1: Install python into your computer
-Go to this [link]([https://www.python.org/downloads/](https://www.python.org/downloads/)) and install a version of python. For this tutorial, and for future use. I would suggest installing the latest version of python(3.8.0 as the time of writing) to make sure you don't do any extra steps. Make sure you tick the box add to path.....
+Go to this [link]([https://www.python.org/downloads/](https://www.python.org/downloads/)) and install a version of python. For this tutorial, and for future use. I would suggest installing the latest version of python(3.8.0 as the time of writing) to make sure you don't do any extra steps. Make sure you tick the box add to path
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTA5ODM2N119
+eyJoaXN0b3J5IjpbMTE5Njk3NzMwNSwxNjAxMDk4MzY3XX0=
 -->
