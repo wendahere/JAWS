@@ -123,13 +123,14 @@ Now you have python installed!
 
 #### Step 2:Using pip, download the ESP tool
 
-Now you have python installed, go to your command prompt or windows powershell and type ```pip ```. It should list the functions that pip can do on your computer. However, If you are getting this output: ```Traceback (most recent call last):
+i)Now you have python installed, go to your command prompt or windows powershell and type ```pip ```. It should list the functions that pip can do on your computer. However, if you are getting this output: ```Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
-NameError: name 'pip' is not defined```, close the tab and type pip again. if the error still persists, it probably means you need to install pip on your computer which [this article will tell you how]([https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation)). However, if 
+NameError: name 'pip' is not defined```, close the tab and type pip again. if the error still persists, it probably means you need to install pip on your computer which [this article will tell you how]([https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation)). 
+ii) If it is working correctly, type ```pip install esptool```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2MjQwNDIwLC0xNTk5MzU0OSwtMTYxOD
+eyJoaXN0b3J5IjpbMTI2NjgzMTkwLC0xNTk5MzU0OSwtMTYxOD
 AzNjU2NywtMTg1NjM5NDExMywxMTk2OTc3MzA1LDE2MDEwOTgz
 NjddfQ==
 -->
