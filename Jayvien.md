@@ -136,7 +136,7 @@ TTE [Ib] = RR [Ib] + GR [Ib] + Fa [Ib]
 
 3rd Step: [Further application of MicroPython to ESP32](https://docs.micropython.org/en/latest/esp32/tutorial/intro.html)
 
-Open your Command Prompt and locate your USB Port Number (Eg: COM13) & put the following commands, 
+Open your Device Manager and locate your USB Port Number (Eg: COM13) & put the following commands: 
 
 | Commands    | Description |
 | ----------- | ----------- |
