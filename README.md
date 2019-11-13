@@ -150,9 +150,13 @@ while True:
 *Microbit.display class*:
 
 -> display.scroll(string)
+
 -> display.show(image)
+
 -> display.setpixel(x,y,value)
+
 -> display.clear()
+
 -> display.read_light_level()
 
 ## Week 3 (28/10/19 - 3/11/19):
