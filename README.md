@@ -94,11 +94,6 @@ while True:
     else:
         display.clear() (clear display)
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
 **Making Use Of Accelerometer**
 while True:
     display.clear()
@@ -108,7 +103,7 @@ while True:
         
 *(recognised gestures are up,down,left,right,face up, face down, freefall, 3g,6g,8g,shake)*
 
-How to make your own images
+**How to make your own images**
 mytick = Image(“00500:”
 		  “00500:”
   “55555:”
@@ -117,10 +112,47 @@ mytick = Image(“00500:”
 
 display.show(mytick)
 
-Will display a cross
+**ROCK PAPER SCISSORS**
 
+from microbit import *
 
+ROCK = Image("00000:"
+             "55000:"
+             "55500:"
+             "55550:"
+             "55550:")
 
+SCISSORS = Image("50005:"
+                  "05050:"
+                  "00500:"
+                  "00500:"
+                  "00500")
+
+PAPER = Image("55555:"
+              "50005:"
+              "50005:"
+              "50005:"
+              "55555")
+while True:
+    display.show(PAPER)
+    sleep(500)
+    display.show(SCISSORS)
+    sleep(500)
+    display.show(ROCK)
+    sleep(500)
+
+**Arrays**
+-List is a collection which is ordered and changeable. Allows duplicate members.
+-Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
+-Set is a collection which is unordered and unindexed. No duplicate members.
+-Dictionary is a collection which is unordered, changeable and indexed. No duplicate members.
+
+*Microbit.display class*:
+-> display.scroll(string)
+-> display.show(image)
+-> display.setpixel(x,y,value)
+-> display.clear()
+-> display.read_light_level()
 
 ## Week 3 (28/10/19 - 3/11/19):
 ### Continuous Track Vehicle
