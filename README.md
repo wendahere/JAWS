@@ -148,6 +148,7 @@ while True:
 -Dictionary is a collection which is unordered, changeable and indexed. No duplicate members.
 
 *Microbit.display class*:
+
 -> display.scroll(string)
 -> display.show(image)
 -> display.setpixel(x,y,value)
