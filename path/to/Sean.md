@@ -105,8 +105,8 @@ TTE [Ib] = RR [Ib] + GR [Ib] + Fa [Ib]
 This week our lecturer, Mr Rodney, taught us micropython and how to install it on the ESP32. I'm going to summarise what he went though but if you want the full tutorials they will be at the bottom of this week's blog
 
 #### Step 1: Install python into your computer
-Go to this [link]([https://www.python.org/downloads/](https://www.python.org/downloads/)) and install a version of python. For this tutorial, and for future use. I would suggest installing the latest version of python(3.8.0 as the time of writing) to make sure you don't do any extra steps. If you have a 32 bit computer, you can just install 
+Go to this [link]([https://www.python.org/downloads/](https://www.python.org/downloads/)) and install a version of python. For this tutorial, and for future use. I would suggest installing the latest version of python(3.8.0 as the time of writing) to make sure you don't do any extra steps. However, if you want to install a specific version, make sure you have pip instslIf you have a 32 bit computer, just click
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTYzOTQxMTMsMTE5Njk3NzMwNSwxNj
-AxMDk4MzY3XX0=
+eyJoaXN0b3J5IjpbLTE3Njg3NjQ4MCwtMTg1NjM5NDExMywxMT
+k2OTc3MzA1LDE2MDEwOTgzNjddfQ==
 -->
