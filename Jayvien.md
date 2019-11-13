@@ -1,5 +1,6 @@
 >**WEEK 1**
 
+
 - Brainstorming Ideas(Together with my teammates):
 1. Deliver food in kitchen (due to oil in floor)
 2. Automatic ward bed (less stress for nurses)
@@ -13,6 +14,7 @@
 
 
 >**WEEK 2**
+
 
 >Learning Python:
 
@@ -101,6 +103,7 @@ Arduino uses processing : https://processing.org/
 
 >**WEEK 3** (MECHANICAL)
 
+
 Friction Important (Cause of Traction) 
 
 Forces Calculation 
@@ -120,6 +123,7 @@ TTE (Total Tractive Effort), RR (Force necessary to overcome Rolling Resistance)
 TTE [Ib] = RR [Ib] + GR [Ib] + Fa [Ib]
 
 >**WEEK 4** (Applying MicroPython In ESP32)
+
 
 [ESP32 Reference](http://esp32.net/): This might help beginners to undestand more about ESP32
 
