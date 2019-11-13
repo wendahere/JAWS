@@ -114,8 +114,10 @@ ii) Moving on, if you have a 32 bit computer(you can check it in settings), just
 However, if you do not have that, then you would have to scroll down the page until you find the latest version of python(newest release date does not mean it is the latest version of python). 
 Click on it and you will be on another page. 
 
-iii) Scroll down until you see 
+iii) Scroll down until you see this page. 
+![IMAGE ALT TEXT HERE](https://i.imgur.com/Gcpp0Qp.png)
+Download
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTA5ODQzNCwtMTg1NjM5NDExMywxMT
-k2OTc3MzA1LDE2MDEwOTgzNjddfQ==
+eyJoaXN0b3J5IjpbLTEyMTQ1MjM3NTAsLTE4NTYzOTQxMTMsMT
+E5Njk3NzMwNSwxNjAxMDk4MzY3XX0=
 -->
