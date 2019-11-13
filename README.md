@@ -63,14 +63,64 @@ Its features include:
 
 ## Week 2 (21/10/19 - 27/10/19):  
 ### Week 2 Assignment-
-1. Download python editor (found in group info), cher recommend thonny
-2. Make the space invader game 
-3. Go to youtube
---> search for thonny, then look for 2 tutorial videos, and document them, 2points why the vid is good, and 2points why the vid is bad
-4. Write down what u learnt in python 
--->what errors yall faced
--->your trials and errors
--->what yall
+
+- [Micropython BBC](https://microbit-micropython.readthedocs.io/en/latest/)
+- [Micropython ESP32](https://docs.micropython.org/en/latest/esp32/tutorial/intro.html)
+- [Python Beginners](https://codewith.mu/)
+- [Python Intermediate](https://thonny.org/)
+
+>Advantages of Java:
+It have a protocol to communicate with everyone
+
+>Advantages of Python:
+ Much easier/simple, function type, object-oriented approach and readable 
+
+[Processing](https://processing.org/):
+
+Processing is a flexible software sketchbook and learn how to code within the context of the visual arts.
+
+**(Important)** : from microbit import *
+
+display.show(Image.HEART)/display.show(Image.SQUARE)
+sleep(500)
+display.scroll("Welcome to Python")
+
+**If Else Function**
+while True:
+    if button_a.is_pressed():
+        display.show(Image.HAPPY)
+    elif button_b.is_pressed():
+        display.show(Image.SAD)
+    else:
+        display.clear() (clear display)
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+**Making Use Of Accelerometer**
+while True:
+    display.clear()
+    if accelerometer.was_gesture("shake"):
+        display.show(Image.ANGRY)
+        sleep(2000)
+        
+*(recognised gestures are up,down,left,right,face up, face down, freefall, 3g,6g,8g,shake)*
+
+How to make your own images
+mytick = Image(“00500:”
+		  “00500:”
+  “55555:”
+  “00500:”
+  “00500:”)
+
+display.show(mytick)
+
+Will display a cross
+
+
+
 
 ## Week 3 (28/10/19 - 3/11/19):
 ### Continuous Track Vehicle
