@@ -70,4 +70,39 @@ Cons:
 - Need to know a little bit of programming (other programming languages) beforehand.
 
 # Week 3
+### Reflections
+For this week we learnt about the history of tanks and how they were built. I was a very helpful lesson as I, as a guy that does not know much about mechanical engineering, had no idea how an actual tank actually worked and it was very enlightening to find out.
+Here's what i learned:
+
+#### Things to note
+
+Friction is important cause it is what causes any vehicle to move on the ground. The tank is designed in such a way that it can move on most/all terain.
+There are many forces that i will not go into detail as i do not know all of them but when i know all of them i will make a update on the blog but these are some of the examples that affect the movement o fthe tank
+
+-Forces Calculation
+
+-Aerodynamic Forces
+
+-Motion Resistance
+
+-Lift Force
+
+-Lateral Force
+
+-Tyre behaviour (Rolling Resistance)
+
+-Contact 
+
+-Pressure distribution of non-moving tyre
+
+Some formulas:
+TTE (Total Tractive Effort), RR (Force necessary to overcome Rolling Resistance), GR (Force required to climb a Grade), Fa (Force required to Accelerate to Final Velocity)
+TTE [Ib] = RR [Ib] + GR [Ib] + Fa [Ib]
+
+# Week 4
+### Reflection
+This week our lecturer, Mr Rodney, taught us micropython and how to install it on the ESP32. I'm going to summarise what he went though but if you want the full tutorials they will be at the bottom of this week's blog
+
+#### Step 1: Install python into your computer
+Go to this [link]([https://www.python.org/downloads/](https://www.python.org/downloads/)) and install a version of python. For this tutorial, and for future use. I would suggest installing the latest version of python(3.8.0 as the time of writing) to make sure you don't do any extra steps. Make sure you tick the box add to path
 
