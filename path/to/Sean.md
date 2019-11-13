@@ -123,9 +123,10 @@ Now you have python installed!
 
 #### Step 2:Using pip, download the ESP tool
 
-Now you have python installed, go to your command prompt or windows powershell and type ''' 
+Now you have python installed, go to your command prompt or windows powershell and type
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTkzNTQ5LC0xNjE4MDM2NTY3LC0xOD
-U2Mzk0MTEzLDExOTY5NzczMDUsMTYwMTA5ODM2N119
+eyJoaXN0b3J5IjpbLTIwMDg2MzQ1NTYsLTE1OTkzNTQ5LC0xNj
+E4MDM2NTY3LC0xODU2Mzk0MTEzLDExOTY5NzczMDUsMTYwMTA5
+ODM2N119
 -->
