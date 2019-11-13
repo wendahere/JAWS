@@ -158,4 +158,5 @@ These two opetions refer to the direction of current flow between an I/O point o
 **WARNING**: Only relevant for DC circuits with positive and negative polarities since current flows both directions in an AC circuit.
 
 -Prevent Overcurrent & Protect Internal Resistance
+
 *Solution*: Schottky diode ( It has a low forward voltage drop and a very fast switching action), Fuseable Diodes
