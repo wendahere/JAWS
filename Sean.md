@@ -118,9 +118,14 @@ iii) Scroll down until you see this page.
 ![IMAGE ALT TEXT HERE](https://i.imgur.com/Gcpp0Qp.png)
 Download the x86-64 file(can be any of them) and run it on your computer. If you are a beginner, just put all the options as default **except for changing the option to adding it to path shown in the image below**:
 ![imgur](https://i.imgur.com/RRTOTsa.jpg)
-G
+Now you have python installed!
+<p>&nbsp;</p>
+
+#### Step 2:Using pip, download the ESP tool
+This step is actuall
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzEwMTYyNiwtMTg1NjM5NDExMywxMT
-k2OTc3MzA1LDE2MDEwOTgzNjddfQ==
+eyJoaXN0b3J5IjpbNzU0ODk5OTkwLC0xODU2Mzk0MTEzLDExOT
+Y5NzczMDUsMTYwMTA5ODM2N119
 -->
