@@ -123,11 +123,13 @@ Now you have python installed!
 
 #### Step 2:Using pip, download the ESP tool
 
-Now you have python installed, go to your command prompt or windows powershell and type ```pip ```. It should have an output like this
+Now you have python installed, go to your command prompt or windows powershell and type ```pip ```. If you are getting this output: ```Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'pip' is not defined```, close the tab and type pip again. if the error still persists, it probably means you need to install pip on your computer which you can
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NzMyMjQ2LC0xNTk5MzU0OSwtMTYxOD
-AzNjU2NywtMTg1NjM5NDExMywxMTk2OTc3MzA1LDE2MDEwOTgz
-NjddfQ==
+eyJoaXN0b3J5IjpbMTc1MTMzODU2MCwtMTU5OTM1NDksLTE2MT
+gwMzY1NjcsLTE4NTYzOTQxMTMsMTE5Njk3NzMwNSwxNjAxMDk4
+MzY3XX0=
 -->
