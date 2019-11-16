@@ -127,10 +127,11 @@ i)Now you have python installed, go to your command prompt or windows powershell
   File "<stdin>", line 1, in <module>
 NameError: name 'pip' is not defined```, close the tab and type pip again. if the error still persists, it probably means you need to install pip on your computer which [this article will tell you how]([https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation)). 
 ii) If it is working correctly, type ```pip install esptool``` into the command prompt and it will download the esptool **make sure not to touch it to not sever the connection**.
+iii) After that, type in the command ```hi``` if you are a mac user and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODk2ODExNCwtMjk3MzMyNzg0LDM0Nj
-Y4MjM4MiwtMTU5OTM1NDksLTE2MTgwMzY1NjcsLTE4NTYzOTQx
-MTMsMTE5Njk3NzMwNSwxNjAxMDk4MzY3XX0=
+eyJoaXN0b3J5IjpbNzMwMzcwOTk5LC00Njg5NjgxMTQsLTI5Nz
+MzMjc4NCwzNDY2ODIzODIsLTE1OTkzNTQ5LC0xNjE4MDM2NTY3
+LC0xODU2Mzk0MTEzLDExOTY5NzczMDUsMTYwMTA5ODM2N119
 -->
