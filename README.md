@@ -209,9 +209,9 @@ _placeholder text_
 
 
 ## Week 6 (18/11/19 - 24/11/19)
-Fusion 360 tutorial and lesson. 
+This week, our lectuer Mr Tune went through with us the software Fusion 360 which you can learn more about here
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjA1NDk3MywtNDQ3MzAzODcyXX0=
+eyJoaXN0b3J5IjpbLTUwMjQ1NjkxNiwtNDQ3MzAzODcyXX0=
 -->
