@@ -215,12 +215,12 @@ If you are an enginner, we highly recommend this software because:
 
 2) It is heavily supported with very good guides made by the creators themselves that are easy to follow
 
-3) It will be 
+3) It will be used by professionals in the near future due to its price and a
 
 4) It is a great beginner design software for engineers due to it being not as difficult and a good transition software, autodesk has even given some courses on helping you make transition to some softwares like soildworks and mastercam
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTM2NTk3Niw2MTAyMDg0NzgsLTQ0Nz
+eyJoaXN0b3J5IjpbLTk0NTU3NjMxMSw2MTAyMDg0NzgsLTQ0Nz
 MwMzg3Ml19
 -->
