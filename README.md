@@ -212,9 +212,13 @@ _placeholder text_
 This week, our lectuer Mr Tune went through with us the software Fusion 360 which you can learn what is it about [here]([https://www.autodesk.com/products/fusion-360/overview#banner](https://www.autodesk.com/products/fusion-360/overview#banner)). 
 If you are an enginner, we highly recommend this software because:
 1) It is cheap(or even free if you are a student or an educator), it offers a lot of features and modes you can use to make your product with that price.
-2) It is 
+
+2) It is heavily supported with very good guides made by the creators themselves
+
+3)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwMjA4NDc4LC00NDczMDM4NzJdfQ==
+eyJoaXN0b3J5IjpbLTIwNzg4NDIwNCw2MTAyMDg0NzgsLTQ0Nz
+MwMzg3Ml19
 -->
