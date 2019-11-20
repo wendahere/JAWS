@@ -219,10 +219,12 @@ If you are an enginner, we highly recommend this 3D software because:
 
 4) It is a great beginner design software for engineers due to it being not as difficult and a good transition software, autodesk has even given some courses on helping you make transition to some other design softwares like soildworks and mastercam
 
-Our lecturer went through with us [this lesson](
+Our lecturer went through with us [this lesson]([https://f360ap.autodesk.com/courses/mechanical-assemblies-fundamentals/lessons/lesson-1-create-component](https://f360ap.autodesk.com/courses/mechanical-assemblies-fundamentals/lessons/lesson-1-create-component))
+
+## Week 7 (25/11/19 - 31/11/19)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzM5NjI4Miw2MTAyMDg0NzgsLTQ0Nz
-MwMzg3Ml19
+eyJoaXN0b3J5IjpbLTE1NzM1MzA2MTIsNjEwMjA4NDc4LC00ND
+czMDM4NzJdfQ==
 -->
