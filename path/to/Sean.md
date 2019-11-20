@@ -131,12 +131,12 @@ NameError: name 'pip' is not defined```, close the tab and type pip again. if th
 ii) If it is working correctly, type ```pip install esptool``` into the command prompt and it will download the esptool **make sure not to touch it to not sever the connection**.
 iii) After that, type in the command ```esptool.py --port /dev/ttyUSB0 erase_flash``` if you are a mac user and ```esptool.py --port COM(port number) erase_flash``` if you are a windows user. if you do not know how to find a port number click [here]([https://www.youtube.com/watch?v=VGW2dCGNBD0](https://www.youtube.com/watch?v=VGW2dCGNBD0)).
 iv) After that, go to this [page]([https://github.com/wendahere/JAWS/blob/master/ESP32%20TOOLS/esp32-idf3-20191106-v1.11-558-gd209f9ebe.bin](https://github.com/wendahere/JAWS/blob/master/ESP32%20TOOLS/esp32-idf3-20191106-v1.11-558-gd209f9ebe.bin)) and download the file stated there. This will be the firmware that your ESP32 can use micropython. **Make sure you remeber where you save the file your going to path it later**
-v) After that is done, type in 
+v) After that is done, type in ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1ODk1NDk1LC02MDU5MTAxMiwxNDYzMD
-E0NjQ4LDczMDM3MDk5OSwtNDY4OTY4MTE0LC0yOTczMzI3ODQs
-MzQ2NjgyMzgyLC0xNTk5MzU0OSwtMTYxODAzNjU2NywtMTg1Nj
-M5NDExMywxMTk2OTc3MzA1LDE2MDEwOTgzNjddfQ==
+eyJoaXN0b3J5IjpbMTc4NDQxMDM3MywtNjA1OTEwMTIsMTQ2Mz
+AxNDY0OCw3MzAzNzA5OTksLTQ2ODk2ODExNCwtMjk3MzMyNzg0
+LDM0NjY4MjM4MiwtMTU5OTM1NDksLTE2MTgwMzY1NjcsLTE4NT
+YzOTQxMTMsMTE5Njk3NzMwNSwxNjAxMDk4MzY3XX0=
 -->
