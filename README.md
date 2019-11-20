@@ -215,10 +215,12 @@ If you are an enginner, we highly recommend this software because:
 
 2) It is heavily supported with very good guides made by the creators themselves
 
-3)
+3) It will be used heavily by professionals in the near future cause of the price
+
+4) It is a great beginner software due to it being not as difficult and a good transi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzg4NDIwNCw2MTAyMDg0NzgsLTQ0Nz
+eyJoaXN0b3J5IjpbMjA3ODc0OTc3NCw2MTAyMDg0NzgsLTQ0Nz
 MwMzg3Ml19
 -->
