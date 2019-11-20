@@ -136,6 +136,5 @@ vi)After that it will download the programe and now you have micropython on your
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDM4NTE4NCw0MDAzNzA4NSwtNjA1OT
-EwMTIsMTQ2MzAxNDY0OF19
+eyJoaXN0b3J5IjpbLTY3MDM4NTE4NF19
 -->
