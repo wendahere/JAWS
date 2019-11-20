@@ -169,5 +169,4 @@ The Author of these videos are Jamie Scherer, James Price who provide many video
 
 [AutoCad Video Tutorial-Mechanical Assemblies](https://f360ap.autodesk.com/courses/mechanical-assemblies-fundamentals/lessons/lesson-1-create-component) 
 
-
-
+[Homework for December Holiday](http://507movements.com/) 
