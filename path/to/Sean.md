@@ -132,11 +132,11 @@ ii) If it is working correctly, type ```pip install esptool``` into the command 
 iii) After that, type in the command ```esptool.py --port /dev/ttyUSB0 erase_flash``` if you are a mac user and ```esptool.py --port COM(port number) erase_flash``` if you are a windows user. if you do not know how to find a port number click [here]([https://www.youtube.com/watch?v=VGW2dCGNBD0](https://www.youtube.com/watch?v=VGW2dCGNBD0)).
 iv) After that, go to this [page]([https://github.com/wendahere/JAWS/blob/master/ESP32%20TOOLS/esp32-idf3-20191106-v1.11-558-gd209f9ebe.bin](https://github.com/wendahere/JAWS/blob/master/ESP32%20TOOLS/esp32-idf3-20191106-v1.11-558-gd209f9ebe.bin)) and download the file stated there. This will be the firmware that your ESP32 can use micropython. **Make sure you remeber where you save the file your going to path it later**
 v) After that is done, type in ```esptool.py --chip esp32 --port /dev/ttyUSB0 write_flash -z 0x1000 (firmware file name)``` if you are a mac user and ```esptool.py --chip esp32 --port COM(port number) write_flash -z 0x1000 (firmware file name, need to path it)``` .
-vi) after that it will download the programe and now you have a 
+vi)After that it will download the programe and now you have micropython on your ESP32!!!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzA4MDY5OSw0MDAzNzA4NSwtNjA1OT
+eyJoaXN0b3J5IjpbLTY3MDM4NTE4NCw0MDAzNzA4NSwtNjA1OT
 EwMTIsMTQ2MzAxNDY0OCw3MzAzNzA5OTksLTQ2ODk2ODExNCwt
 Mjk3MzMyNzg0LDM0NjY4MjM4MiwtMTU5OTM1NDksLTE2MTgwMz
 Y1NjcsLTE4NTYzOTQxMTMsMTE5Njk3NzMwNSwxNjAxMDk4MzY3
