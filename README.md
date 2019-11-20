@@ -206,8 +206,8 @@ _placeholder text_
 _placeholder text_
 
 ## Week 5 (11/11/19 - 17/11/19):
-###u
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDE0NTIwNTAsNDEwMjA2MTE1XX0=
+eyJoaXN0b3J5IjpbLTQ0NzMwMzg3Ml19
 -->
