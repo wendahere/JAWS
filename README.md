@@ -209,8 +209,11 @@ _placeholder text_
 
 
 ## Week 6 (18/11/19 - 24/11/19)
-This week, our lectuer Mr Tune went through with us the software Fusion 360 which you can learn what is it about [here]([https://www.autodesk.com/products/fusion-360/overview#banner](https://www.autodesk.com/products/fusion-360/overview#banner)). If you are an enginner, we highly recommend this software as its is cheap(or even free if you are a student or an educator) and also it has a lot of features and modes you can use to make 
+This week, our lectuer Mr Tune went through with us the software Fusion 360 which you can learn what is it about [here]([https://www.autodesk.com/products/fusion-360/overview#banner](https://www.autodesk.com/products/fusion-360/overview#banner)). 
+If you are an enginner, we highly recommend this software because:
+1) It is cheap(or even free if you are a student or an educator) at has a lot of features and modes you can use to make your product.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODMwMjE2MDIsLTQ0NzMwMzg3Ml19
+eyJoaXN0b3J5IjpbNzQ5NTE1MTU5LC00NDczMDM4NzJdfQ==
 -->
