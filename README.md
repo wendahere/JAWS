@@ -213,14 +213,14 @@ This week, our lectuer Mr Tune went through with us the software Fusion 360 whic
 If you are an enginner, we highly recommend this software because:
 1) It is cheap(or even free if you are a student or an educator), it offers a lot of features and modes you can use to make your product with that price.
 
-2) It is heavily supported with very good guides made by the creators themselves
+2) It is heavily supported with very good guides made by the creators themselves that are easy to follow
 
-3) It will be used heavily by professionals in the near future cause of the price
+3) It will be 
 
-4) It is a great beginner software due to it being not as difficult and a good transition software, autodesk has even given some courses on helping you make transition to some softwares like soildworks and mastercad
+4) It is a great beginner design software for engineers due to it being not as difficult and a good transition software, autodesk has even given some courses on helping you make transition to some softwares like soildworks and mastercam
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODk4NjUyOCw2MTAyMDg0NzgsLTQ0Nz
+eyJoaXN0b3J5IjpbLTkzNTM2NTk3Niw2MTAyMDg0NzgsLTQ0Nz
 MwMzg3Ml19
 -->
