@@ -209,9 +209,8 @@ _placeholder text_
 
 
 ## Week 6 (18/11/19 - 24/11/19)
-This week, our lectuer Mr Tune went through with us the software Fusion 360 which you can learn more about [here](
-
+This week, our lectuer Mr Tune went through with us the software Fusion 360 which you can learn what is it about [here]([https://www.autodesk.com/products/fusion-360/overview#banner](https://www.autodesk.com/products/fusion-360/overview#banner)). If you are an enginner, we highly recommend this software as 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDk4ODIzMCwtNDQ3MzAzODcyXX0=
+eyJoaXN0b3J5IjpbMTA3NDI5NDMsLTQ0NzMwMzg3Ml19
 -->
