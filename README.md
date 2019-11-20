@@ -210,17 +210,19 @@ _placeholder text_
 
 ## Week 6 (18/11/19 - 24/11/19)
 This week, our lectuer Mr Tune went through with us the software Fusion 360 which you can learn what is it about [here]([https://www.autodesk.com/products/fusion-360/overview#banner](https://www.autodesk.com/products/fusion-360/overview#banner)). 
-If you are an enginner, we highly recommend this software because:
+If you are an enginner, we highly recommend this 3D software because:
 1) It is cheap(or even free if you are a student or an educator), it offers a lot of features and modes you can use to make your product with that price.
 
 2) It is heavily supported with very good guides made by the creators themselves that are easy to follow
 
-3) It will be used by professionals in the near future due to its price and a
+3) It will be used by professionals in the near future due to its price and accessibility
 
-4) It is a great beginner design software for engineers due to it being not as difficult and a good transition software, autodesk has even given some courses on helping you make transition to some softwares like soildworks and mastercam
+4) It is a great beginner design software for engineers due to it being not as difficult and a good transition software, autodesk has even given some courses on helping you make transition to some other design softwares like soildworks and mastercam
+
+Our lecturer went through with us [this lesson](
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTU3NjMxMSw2MTAyMDg0NzgsLTQ0Nz
+eyJoaXN0b3J5IjpbLTMyMzM5NjI4Miw2MTAyMDg0NzgsLTQ0Nz
 MwMzg3Ml19
 -->
