@@ -225,6 +225,5 @@ Our lecturer went through with us [this lesson]([https://f360ap.autodesk.com/cou
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzM1MzA2MTIsNjEwMjA4NDc4LC00ND
-czMDM4NzJdfQ==
+eyJoaXN0b3J5IjpbLTE1NzM1MzA2MTJdfQ==
 -->
