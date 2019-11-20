@@ -210,7 +210,7 @@ _placeholder text_
 
 ## Week 6 (18/11/19 - 24/11/19)
 This week, our lectuer Mr Tune went through with us the software Fusion 360 which you can learn what is it about [here]([https://www.autodesk.com/products/fusion-360/overview#banner](https://www.autodesk.com/products/fusion-360/overview#banner)). 
-If you are an enginner, we highly recommend this 3D software because:
+If you are an enginner, we highly recommend this 3D software because:ffffff
 1) It is cheap(or even free if you are a student or an educator), it offers a lot of features and modes you can use to make your product with that price.
 
 2) It is heavily supported with very good guides made by the creators themselves that are easy to follow
@@ -225,5 +225,5 @@ Our lecturer went through with us [this lesson]([https://f360ap.autodesk.com/cou
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzM1MzA2MTJdfQ==
+eyJoaXN0b3J5IjpbMjU4ODk0NzMyLC0xNTczNTMwNjEyXX0=
 -->
