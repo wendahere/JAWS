@@ -100,6 +100,8 @@ Some formulas:
 TTE (Total Tractive Effort), RR (Force necessary to overcome Rolling Resistance), GR (Force required to climb a Grade), Fa (Force required to Accelerate to Final Velocity)
 TTE [Ib] = RR [Ib] + GR [Ib] + Fa [Ib]
 
+fill this up
+
 # Week 4
 ## Reflection
 This week our lecturer, Mr Rodney, taught us micropython and how to install it on the ESP32. I'm going to summarise what he went though but if you want the full tutorials they will be at the bottom of this week's blog
@@ -133,8 +135,8 @@ v) After that is done,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzAxNDY0OCw3MzAzNzA5OTksLTQ2OD
-k2ODExNCwtMjk3MzMyNzg0LDM0NjY4MjM4MiwtMTU5OTM1NDks
-LTE2MTgwMzY1NjcsLTE4NTYzOTQxMTMsMTE5Njk3NzMwNSwxNj
-AxMDk4MzY3XX0=
+eyJoaXN0b3J5IjpbLTYwNTkxMDEyLDE0NjMwMTQ2NDgsNzMwMz
+cwOTk5LC00Njg5NjgxMTQsLTI5NzMzMjc4NCwzNDY2ODIzODIs
+LTE1OTkzNTQ5LC0xNjE4MDM2NTY3LC0xODU2Mzk0MTEzLDExOT
+Y5NzczMDUsMTYwMTA5ODM2N119
 -->
