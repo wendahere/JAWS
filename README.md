@@ -221,7 +221,7 @@ If you are an enginner, we highly recommend this 3D software because:ffffff
 
 Our lecturer went through with us [this lesson]([https://f360ap.autodesk.com/courses/mechanical-assemblies-fundamentals/lessons/lesson-1-create-component](https://f360ap.autodesk.com/courses/mechanical-assemblies-fundamentals/lessons/lesson-1-create-component))
 
-## Week 7 (25/11/19 - 31/11/19)ffffff
+## Week 7 (25/11/19 - 31/11/19)
 
 
 <!--stackedit_data:
