@@ -160,3 +160,14 @@ These two opetions refer to the direction of current flow between an I/O point o
 -Prevent Overcurrent & Protect Internal Resistance
 
 *Solution*: Schottky diode ( It has a low forward voltage drop and a very fast switching action), Fuseable Diodes
+
+>**WEEK 6**
+
+-We learn how to use the different functions in the AutoCad:
+
+The Author of these videos are Jamie Scherer, James Price who provide many videos for beginners.
+
+[AutoCad Video Tutorial-Mechanical Assemblies](https://f360ap.autodesk.com/courses/mechanical-assemblies-fundamentals/lessons/lesson-1-create-component) 
+
+
+
