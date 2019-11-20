@@ -205,10 +205,10 @@ _placeholder text_
 
 _placeholder text_
 
-## Week 5 (11/11/19 - 17/11/19)1:
-### ffffff
+## Week 5 (11/11/19 - 17/11/19):
+### 
 
-i likr turtles
+
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTE0MTE2MDA1NCw0MTAyMDYxMTVdfQ==
