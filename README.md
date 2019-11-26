@@ -201,7 +201,7 @@ We followed [this link](https://github.com/SmartArduino/ESPboard/blob/master/min
 
 ![assembly_pic1](https://imgur.com/vtMDcJp.png) ![assembly_pic2](https://imgur.com/DlGoqch.png)
 
-![assembly_pic3](https://imgur.com/Oz7rzAOK.png) 
+![assembly_pic3](https://imgur.com/Oz7rzAO.png) 
 
 ![full_assembly](https://imgur.com/SWuOjMp.png)
 
