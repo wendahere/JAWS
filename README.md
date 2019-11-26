@@ -174,32 +174,55 @@ We were given the mini T100 track vehicle to assemble and do our initial prototy
 ![parts](https://imgur.com/O1qHP1a.png)
 Parts (from top down and left to right):
 1. {4}  Gaskets 
-1. {15} M3x8 Hexagonal Socket Screws
+1. {15} M4x8 Hexagonal Socket Screws
 1. {2}  Caterpillar Tracks
 1. {6}  M2 Flange Screws
+1. {2} Stents
+1. {2} U-Shaped Brackets
+1. {2} AA Battery Holder
 1. {16} M2 Countersunk Screws
-1. {}
-1. 
-1. 
-1. 
-
+1. {40} M3x8 Hexagonal Socket Screws
+1. {4} M2 Set Screws
+1. {2} DC Motors
+1. {2} M4x16 Hexagonal Socket Screws
+1. {1} M2 Allen Key
+1. {1} M3 Allen Key
+1. {1} M4 Allen Key
+1. {8} Follower Wheels
+1. {6} Long Copper Spacers
+1. {6} M4 Plain Washers
+1. {8} Bearings
+1. {12} Short Copper Spacers
+1. {2} M3 Nuts
+1. {4} Sprockets
+1. {11} M4 Nuts
 
 We followed [this link](https://github.com/SmartArduino/ESPboard/blob/master/miniT100Instruction.pdf) to build the T100.
 
-![assembly_pic1]() ![assembly_pic2]()
+![assembly_pic1](https://imgur.com/vtMDcJp.png) ![assembly_pic2](https://imgur.com/DlGoqch.png)
 
-![assembly_pic3]() ![assembly_pic4](https://imgur.com/aI0B99K.png)
+![assembly_pic3](https://imgur.com/Oz7rzAOK.png) 
 
-![full_assembly]()
+![full_assembly](https://imgur.com/SWuOjMp.png)
 
-_talk about how the given tracks were too long, and how we plan to solve it (show insert pictures also)_
+When building the T100, we ran into a problem, the given tracks were too long, which caused the initial assembled T100's tracks to have too much slack. This is an undesirable trait in a track vehicle.
+
+![too much slack](https://imgur.com/598jnwR.png)
+
+To rectify this problem, we simply removed the extra tracks from the full track length to a suitable length and then reassembled the T100.
+
+![removal of tracks](https://imgur.com/9uyQHuN.png)
+
+This is how the T100 looks after rectifying the problem.
+
+![rectified](https://imgur.com/DlGoqch.png)
 
 ### Week 3 Assignment - 
 _placeholder text_
 
 ## Week 4 (4/11/19 - 10/11/19):
 ### ESP32
-![esp32_front]() ![esp32_back]()
+![esp32_front](https://imgur.com/9oX23iu.png) ![esp32_back](https://imgur.com/aJdcXof.png)
 
 ![Picture of Flowchart](https://imgur.com/rRrUc35.png)
 
