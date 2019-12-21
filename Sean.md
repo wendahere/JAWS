@@ -139,8 +139,8 @@ Today it was a break week cause of some misunderstandings but our lecturer dabbl
 This week i worked on the CA1 mechanical project that y teacher gave us in week 3. 
 ### Here is the solution
 #### Step 1: Find out about the major forces that are going to be placed on the tank
-i
+i) Find the weight of the tank that you is going to be put on the tank 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjQ2NzgzNSw4Njk2MTIyMzksNjA1OT
+eyJoaXN0b3J5IjpbLTk0OTM4NTI3Nyw4Njk2MTIyMzksNjA1OT
 k5OTI2LC02NzAzODUxODRdfQ==
 -->
