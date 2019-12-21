@@ -134,13 +134,13 @@ iv) After that, go to this [page]([https://github.com/wendahere/JAWS/blob/master
 v) After that is done, type in ```esptool.py --chip esp32 --port /dev/ttyUSB0 write_flash -z 0x1000 (firmware file name)``` if you are a mac user and ```esptool.py --chip esp32 --port COM(port number) write_flash -z 0x1000 (firmware file name, need to path it)``` .
 vi)After that it will download the programe and now you have micropython on your ESP32!!!
 # Week 5
-
+Today our lecturer was going through some things abou
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1OTk5OTI2LC02NzAzODUxODQsNDAwMz
-cwODUsLTYwNTkxMDEyLDE0NjMwMTQ2NDgsNzMwMzcwOTk5LC00
-Njg5NjgxMTQsLTI5NzMzMjc4NCwzNDY2ODIzODIsLTE1OTkzNT
-Q5LC0xNjE4MDM2NTY3LC0xODU2Mzk0MTEzLDExOTY5NzczMDUs
-MTYwMTA5ODM2N119
+eyJoaXN0b3J5IjpbODY5NjEyMjM5LDYwNTk5OTkyNiwtNjcwMz
+g1MTg0LDQwMDM3MDg1LC02MDU5MTAxMiwxNDYzMDE0NjQ4LDcz
+MDM3MDk5OSwtNDY4OTY4MTE0LC0yOTczMzI3ODQsMzQ2NjgyMz
+gyLC0xNTk5MzU0OSwtMTYxODAzNjU2NywtMTg1NjM5NDExMywx
+MTk2OTc3MzA1LDE2MDEwOTgzNjddfQ==
 -->
