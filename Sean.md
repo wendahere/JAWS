@@ -135,9 +135,10 @@ v) After that is done, type in ```esptool.py --chip esp32 --port /dev/ttyUSB0 wr
 vi)After that it will download the programe and now you have micropython on your ESP32!!!
 # Week 5
 ## Reflection
-Today it was a break week cause of some misunderstandings but our lecturer dabbled on power sources and you can check it out []([https://github.com/wendahere/JAWS/blob/master/README.md](https://github.com/wendahere/JAWS/blob/master/README.md))
+Today it was a break week cause of some misunderstandings but our lecturer dabbled on power sources and you can check it out [here on the week 5 blog]([https://github.com/wendahere/JAWS/blob/master/README.md](https://github.com/wendahere/JAWS/blob/master/README.md))
+This week i worked on the CA1 mechanical project that y teacher gave us in week 3 that I explained during 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTk1NjI3MCw4Njk2MTIyMzksNjA1OT
-k5OTI2LC02NzAzODUxODRdfQ==
+eyJoaXN0b3J5IjpbNzU0MzYwODg5LDg2OTYxMjIzOSw2MDU5OT
+k5MjYsLTY3MDM4NTE4NF19
 -->
