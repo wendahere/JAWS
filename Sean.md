@@ -134,7 +134,8 @@ iv) After that, go to this [page]([https://github.com/wendahere/JAWS/blob/master
 v) After that is done, type in ```esptool.py --chip esp32 --port /dev/ttyUSB0 write_flash -z 0x1000 (firmware file name)``` if you are a mac user and ```esptool.py --chip esp32 --port COM(port number) write_flash -z 0x1000 (firmware file name, need to path it)``` .
 vi)After that it will download the programe and now you have micropython on your ESP32!!!
 # Week 5
-Today it was a break week cause of some misunderstandings but our lecturer gave us some insights about power sources and how would you supply the power.
+## Reflection
+Today it was a break week cause of some misunderstandings but our lecturer gave us some insights about power sources and how would you supply the power. so here's what i learnt doing class
 -Fan In (Number of inputs a logic gate can handle) & Fan Out (Number of gate inputs that the output of a logic gate drives)
 
 -Two Options for ESP32 Devices:
@@ -152,6 +153,6 @@ _Solution_: Schottky diode ( It has a low forward voltage drop and a very fast s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTkyMDIyOCw4Njk2MTIyMzksNjA1OT
-k5OTI2LC02NzAzODUxODRdfQ==
+eyJoaXN0b3J5IjpbLTEwMzE3MTUwNjEsODY5NjEyMjM5LDYwNT
+k5OTkyNiwtNjcwMzg1MTg0XX0=
 -->
