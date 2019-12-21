@@ -135,24 +135,9 @@ v) After that is done, type in ```esptool.py --chip esp32 --port /dev/ttyUSB0 wr
 vi)After that it will download the programe and now you have micropython on your ESP32!!!
 # Week 5
 ## Reflection
-Today it was a break week cause of some misunderstandings but our lecturer gave us some insights about power sources and how would you supply the power. so here's what i learnt doing class
--Fan In (Number of inputs a logic gate can handle) & Fan Out (Number of gate inputs that the output of a logic gate drives)
-
--Two Options for ESP32 Devices:
-
-1.  Sink (Able to effectively reduce large currents & Also use small currents)  **Recommended**
-2.  Source (Relies on the main supply)
-
-These two opetions refer to the direction of current flow between an I/O point on an I/O module and the connected device.
-
-**WARNING**: Only relevant for DC circuits with positive and negative polarities since current flows both directions in an AC circuit.
-
--Prevent Overcurrent & Protect Internal Resistance
-
-_Solution_: Schottky diode ( It has a low forward voltage drop and a very fast switching action), Fuseable Diodes
-
+Today it was a break week cause of some misunderstandings but our lecturer dabbled on power sources that you can check out on 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE3MTUwNjEsODY5NjEyMjM5LDYwNT
-k5OTkyNiwtNjcwMzg1MTg0XX0=
+eyJoaXN0b3J5IjpbNjI3ODU2OTQ2LDg2OTYxMjIzOSw2MDU5OT
+k5MjYsLTY3MDM4NTE4NF19
 -->
