@@ -136,12 +136,12 @@ vi)After that it will download the programe and now you have micropython on your
 # Week 5
 ## Reflection
 Today it was a break week cause of some misunderstandings but our lecturer dabbled on power sources and you can check it out [here on the week 5 blog]([https://github.com/wendahere/JAWS/blob/master/README.md](https://github.com/wendahere/JAWS/blob/master/README.md))
-This week i worked on the CA1 mechanical project that y teacher gave us in week 3 that I explained during the week 3
+This week i worked on the CA1 mechanical project that y teacher gave us in week 3. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjM1MTI0MTMsODY5NjEyMjM5LDYwNT
-k5OTkyNiwtNjcwMzg1MTg0LDQwMDM3MDg1LC02MDU5MTAxMiwx
-NDYzMDE0NjQ4LDczMDM3MDk5OSwtNDY4OTY4MTE0LC0yOTczMz
-I3ODQsMzQ2NjgyMzgyLC0xNTk5MzU0OSwtMTYxODAzNjU2Nywt
-MTg1NjM5NDExMywxMTk2OTc3MzA1LDE2MDEwOTgzNjddfQ==
+eyJoaXN0b3J5IjpbMTgzODkzMjAwMCw4Njk2MTIyMzksNjA1OT
+k5OTI2LC02NzAzODUxODQsNDAwMzcwODUsLTYwNTkxMDEyLDE0
+NjMwMTQ2NDgsNzMwMzcwOTk5LC00Njg5NjgxMTQsLTI5NzMzMj
+c4NCwzNDY2ODIzODIsLTE1OTkzNTQ5LC0xNjE4MDM2NTY3LC0x
+ODU2Mzk0MTEzLDExOTY5NzczMDUsMTYwMTA5ODM2N119
 -->
