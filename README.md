@@ -248,6 +248,6 @@ Our lecturer went through with us [this lesson]([https://f360ap.autodesk.com/cou
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzM1MzA2MTIsMjU4ODk0NzMyLC0xNT
-czNTMwNjEyXX0=
+eyJoaXN0b3J5IjpbMTgwNjA2MzkyNywtMTU3MzUzMDYxMiwyNT
+g4OTQ3MzIsLTE1NzM1MzA2MTJdfQ==
 -->
