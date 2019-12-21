@@ -229,7 +229,8 @@ _placeholder text_
 _placeholder text_
 
 ## Week 5 (11/11/19 - 17/11/19):
-There was not as much content gone through but our lecturer dabbled on the power source and whihc power source to choose. 
+There was not as much content gone through but our lecturer dabbled on the power source and how you should supply power to your circuit depending on your circuit.
+### The two ways were:
 -Fan In (Number of inputs a logic gate can handle) & Fan Out (Number of gate inputs that the output of a logic gate drives)
 
 -Two Options for ESP32 Devices:
@@ -264,6 +265,6 @@ Our lecturer went through with us [this lesson]([https://f360ap.autodesk.com/cou
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTIxMzYxOTQsMTgwNjA2MzkyNywtMT
-U3MzUzMDYxMiwyNTg4OTQ3MzIsLTE1NzM1MzA2MTJdfQ==
+eyJoaXN0b3J5IjpbMTA0NzcwMzMwMiwxODA2MDYzOTI3LC0xNT
+czNTMwNjEyLDI1ODg5NDczMiwtMTU3MzUzMDYxMl19
 -->
