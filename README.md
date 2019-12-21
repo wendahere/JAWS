@@ -229,6 +229,21 @@ _placeholder text_
 _placeholder text_
 
 ## Week 5 (11/11/19 - 17/11/19):
+-Fan In (Number of inputs a logic gate can handle) & Fan Out (Number of gate inputs that the output of a logic gate drives)
+
+-Two Options for ESP32 Devices:
+
+1.  Sink (Able to effectively reduce large currents & Also use small currents)  **Recommended**
+2.  Source (Relies on the main supply)
+
+These two opetions refer to the direction of current flow between an I/O point on an I/O module and the connected device.
+
+**WARNING**: Only relevant for DC circuits with positive and negative polarities since current flows both directions in an AC circuit.
+
+-Prevent Overcurrent & Protect Internal Resistance
+
+_Solution_: Schottky diode ( It has a low forward voltage drop and a very fast switching action), Fuseable Diodes
+
 
 
 ## Week 6 (18/11/19 - 24/11/19)
@@ -248,6 +263,6 @@ Our lecturer went through with us [this lesson]([https://f360ap.autodesk.com/cou
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjA2MzkyNywtMTU3MzUzMDYxMiwyNT
-g4OTQ3MzIsLTE1NzM1MzA2MTJdfQ==
+eyJoaXN0b3J5IjpbNjkzMjkxOTMzLDE4MDYwNjM5MjcsLTE1Nz
+M1MzA2MTIsMjU4ODk0NzMyLC0xNTczNTMwNjEyXX0=
 -->
