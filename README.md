@@ -234,7 +234,7 @@ For I/O ---> Fan In (Number of inputs a logic gate can handle) & Fan Out (Number
 ### The two ways were:
 ![power source](https://i.imgur.com/1joVHve.jpg?1)
 1.  Sink:
-As shown in the diagram, the method is using a external uspply and connecting it onto(Able to effectively reduce large currents & Also use small currents)  **Recommended**
+As shown in the diagram, the method is using a external supply and connecting it onto(Able to effectively reduce large currents & Also use small currents)  **Recommended**
 3.  Source (Relies on the main supply)
 
 These two opetions refer to the direction of current flow between an I/O point on an I/O module and the connected device.
@@ -264,7 +264,7 @@ Our lecturer went through with us [this lesson]([https://f360ap.autodesk.com/cou
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzA3MTY4OTcsLTYyMjEyMTEyMSwxOD
-A2MDYzOTI3LC0xNTczNTMwNjEyLDI1ODg5NDczMiwtMTU3MzUz
-MDYxMl19
+eyJoaXN0b3J5IjpbOTIxNTMwNTk1LC0xNTMwNzE2ODk3LC02Mj
+IxMjExMjEsMTgwNjA2MzkyNywtMTU3MzUzMDYxMiwyNTg4OTQ3
+MzIsLTE1NzM1MzA2MTJdfQ==
 -->
