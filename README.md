@@ -235,7 +235,7 @@ For I/O ---> Fan In (Number of inputs a logic gate can handle) & Fan Out (Number
 ![power source](https://i.imgur.com/1joVHve.jpg?1)
 1.  Sink:
 As shown in the diagram, the method is using a external supply and connecting it onto(Able to effectively reduce large currents & Also use small currents)  **Recommended**
-3.  Source (Relies on the main supply)
+2.  Source (Relies on the main supply)
 
 These two opetions refer to the direction of current flow between an I/O point on an I/O module and the connected device.
 
@@ -261,10 +261,10 @@ If you are an enginner, we highly recommend this 3D software because:
 Our lecturer went through with us [this lesson]([https://f360ap.autodesk.com/courses/mechanical-assemblies-fundamentals/lessons/lesson-1-create-component](https://f360ap.autodesk.com/courses/mechanical-assemblies-fundamentals/lessons/lesson-1-create-component))
 
 ## Week 7 (25/11/19 - 31/11/19)
-
+Today our lecturer went through about power and taught us
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxNTMwNTk1LC0xNTMwNzE2ODk3LC02Mj
-IxMjExMjEsMTgwNjA2MzkyNywtMTU3MzUzMDYxMiwyNTg4OTQ3
-MzIsLTE1NzM1MzA2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE4MDM1NDc1ODQsLTE1MzA3MTY4OTcsLT
+YyMjEyMTEyMSwxODA2MDYzOTI3LC0xNTczNTMwNjEyLDI1ODg5
+NDczMiwtMTU3MzUzMDYxMl19
 -->
