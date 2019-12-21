@@ -137,8 +137,10 @@ vi)After that it will download the programe and now you have micropython on your
 ## Reflection
 Today it was a break week cause of some misunderstandings but our lecturer dabbled on power sources and you can check it out [here on the week 5 blog]([https://github.com/wendahere/JAWS/blob/master/README.md](https://github.com/wendahere/JAWS/blob/master/README.md))
 This week i worked on the CA1 mechanical project that y teacher gave us in week 3. 
+### Here is the solution
+find out about the weight that you are going to be putting on the tank 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODkzMjAwMCw4Njk2MTIyMzksNjA1OT
+eyJoaXN0b3J5IjpbMTU2MjAzNDU5MSw4Njk2MTIyMzksNjA1OT
 k5OTI2LC02NzAzODUxODRdfQ==
 -->
