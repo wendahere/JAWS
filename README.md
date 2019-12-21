@@ -233,9 +233,6 @@ There was not as much content gone through but our lecturer dabbled on the input
 For I/O ---> Fan In (Number of inputs a logic gate can handle) & Fan Out (Number of gate inputs that the output of a logic gate drives)
 ### The two ways were:
 
-
--Two Options for ESP32 Devices:
-
 1.  Sink (Able to effectively reduce large currents & Also use small currents)  **Recommended**
 2.  Source (Relies on the main supply)
 
@@ -266,6 +263,6 @@ Our lecturer went through with us [this lesson]([https://f360ap.autodesk.com/cou
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM1MjEwNTksMTgwNjA2MzkyNywtMT
-U3MzUzMDYxMiwyNTg4OTQ3MzIsLTE1NzM1MzA2MTJdfQ==
+eyJoaXN0b3J5IjpbLTYyMjEyMTEyMSwxODA2MDYzOTI3LC0xNT
+czNTMwNjEyLDI1ODg5NDczMiwtMTU3MzUzMDYxMl19
 -->
