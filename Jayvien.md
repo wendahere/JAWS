@@ -184,6 +184,8 @@ Voltages cannot be Low (Might not work properly) / Too High (Might destroy/burn)
 
 AC Source -> Level Conversion (Transformer) ->Rectifer (AC to DC) -> Voltage regulator (To meet your voltage req)
 
+[Power Your Electronics](http://youtube.com/watch?v=IT19dg73nKU&feature=youtu.be) 
+
 >**WEEK 6**
 
 -We learn how to use the different functions in the AutoCad:
