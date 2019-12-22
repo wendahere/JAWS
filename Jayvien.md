@@ -161,6 +161,29 @@ These two opetions refer to the direction of current flow between an I/O point o
 
 *Solution*: Schottky diode ( It has a low forward voltage drop and a very fast switching action), Fuseable Diodes
 
+AC - DC Convert (230V AC / 3.3~24 DC)
+Note: Some losses when conversion
+
+**Buck Switch Mode Power Supply**:
+- Reduce DC High Voltage to Low
+- DC to Dc Converter & switching regulator
+
+**Boost Switching Regulator**:
+- Increase DC Low Voltage to High
+- Common in Battery Chargers
+
+**Buck Boost Switching Regulator**:
+- ON (Sends energy to Inductor) / OFF (Delivers energy from Inductor)
+- Duty Cycle determines the inverted output  voltage either greater/smaller than magnitude of input voltage
+
+**Switch Mode Power Supply (SMPS)**:
+- Buck Converters (Cheap / Converts High to Low DC Voltage)
+- Boost Converters (Converts Low to High / Common in Li-ion Battery Banks (3.70V - 5V)
+
+Voltages cannot be Low (Might not work properly) / Too High (Might destroy/burn)
+
+AC Source -> Level Conversion (Transformer) ->Rectifer (AC to DC) -> Voltage regulator (To meet your voltage req)
+
 >**WEEK 6**
 
 -We learn how to use the different functions in the AutoCad:
