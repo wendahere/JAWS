@@ -164,6 +164,20 @@ These two opetions refer to the direction of current flow between an I/O point o
 AC - DC Convert (230V AC / 3.3~24 DC)
 Note: Some losses when conversion
 
+[Power Your Electronics](http://youtube.com/watch?v=IT19dg73nKU&feature=youtu.be) 
+
+>**WEEK 6**
+
+-We learn how to use the different functions in the AutoCad:
+
+The Author of these videos are Jamie Scherer, James Price who provide many videos for beginners.
+
+[AutoCad Video Tutorial-Mechanical Assemblies](https://f360ap.autodesk.com/courses/mechanical-assemblies-fundamentals/lessons/lesson-1-create-component) 
+
+[Homework for December Holiday](http://507movements.com/) 
+
+>**WEEK 7**
+
 **Buck Switch Mode Power Supply**:
 - Reduce DC High Voltage to Low
 - DC to Dc Converter & switching regulator
@@ -184,14 +198,3 @@ Voltages cannot be Low (Might not work properly) / Too High (Might destroy/burn)
 
 AC Source -> Level Conversion (Transformer) ->Rectifer (AC to DC) -> Voltage regulator (To meet your voltage req)
 
-[Power Your Electronics](http://youtube.com/watch?v=IT19dg73nKU&feature=youtu.be) 
-
->**WEEK 6**
-
--We learn how to use the different functions in the AutoCad:
-
-The Author of these videos are Jamie Scherer, James Price who provide many videos for beginners.
-
-[AutoCad Video Tutorial-Mechanical Assemblies](https://f360ap.autodesk.com/courses/mechanical-assemblies-fundamentals/lessons/lesson-1-create-component) 
-
-[Homework for December Holiday](http://507movements.com/) 
