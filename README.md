@@ -11,7 +11,7 @@ WDLEE (DME)
 
 AMBTan (DME)
 
-Sean Woo (DEEE)
+ (DEEE)
 
 JNg (DEEE)
 
@@ -264,7 +264,7 @@ Our lecturer went through with us [this lesson]([https://f360ap.autodesk.com/cou
 Today our lecturer went through about power and taught us how to charge our track vehicle using modules and bha hbah
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDI2OTc1MiwtMTUzMDcxNjg5NywtNj
-IyMTIxMTIxLDE4MDYwNjM5MjcsLTE1NzM1MzA2MTIsMjU4ODk0
-NzMyLC0xNTczNTMwNjEyXX0=
+eyJoaXN0b3J5IjpbMTc3NTQ0MDYyMiwyMDc0MjY5NzUyLC0xNT
+MwNzE2ODk3LC02MjIxMjExMjEsMTgwNjA2MzkyNywtMTU3MzUz
+MDYxMiwyNTg4OTQ3MzIsLTE1NzM1MzA2MTJdfQ==
 -->
