@@ -261,10 +261,10 @@ If you are an enginner, we highly recommend this 3D software because:
 Our lecturer went through with us [this lesson]([https://f360ap.autodesk.com/courses/mechanical-assemblies-fundamentals/lessons/lesson-1-create-component](https://f360ap.autodesk.com/courses/mechanical-assemblies-fundamentals/lessons/lesson-1-create-component))
 
 ## Week 7 (25/11/19 - 31/11/19)
-Today our lecturer went through about power and taught us how to charge our track vehicle using modules and bha hbah
+Today our lecturer went through about power and taught us how to charge our track vehicle using modules and 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0NzY0MzMwLDIwNzQyNjk3NTIsLTE1Mz
-A3MTY4OTcsLTYyMjEyMTEyMSwxODA2MDYzOTI3LC0xNTczNTMw
-NjEyLDI1ODg5NDczMiwtMTU3MzUzMDYxMl19
+eyJoaXN0b3J5IjpbLTE4NTE5MzI4ODAsMjA3NDI2OTc1MiwtMT
+UzMDcxNjg5NywtNjIyMTIxMTIxLDE4MDYwNjM5MjcsLTE1NzM1
+MzA2MTIsMjU4ODk0NzMyLC0xNTczNTMwNjEyXX0=
 -->
