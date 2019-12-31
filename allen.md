@@ -181,3 +181,11 @@ Below are the steps that I've use to prepare my ESP32 so that I could do python 
 
 ## Week 5 (11/11/19 - 17/11/19):
 ###
+
+## Week 6 (18/11/19 - 25/11/19):
+###
+
+## Week 7 (26/11/19 - 1/12/19):
+###
+
+## Week 
