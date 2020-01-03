@@ -262,6 +262,29 @@ Our lecturer went through with us [this lesson]([https://f360ap.autodesk.com/cou
 
 ## Week 7 (25/11/19 - 31/11/19)
 Today our lecturer went through about power and taught us how to charge our track vehicle using modules and 
+### Assignment
+We were tasked to create a movable track vehicle system that includes:
+- Motor Control
+- Complete Power Requirments
+- Power & Control Circuitry
+- Minimum Vehicular Control
+
+This [link](https://docs.google.com/spreadsheets/d/1R0S9KrCoPH62kREoQjKckePXDlVACkAIEKATCFftJw0/edit?usp=sharing) is the link to the spreadsheet that contains all the required calculations for the power requirement of our vehicle. 
+
+The following is the schematics of our vehicle.
+![Full schematic of the vehicle]()
+
+This is how we coded the app used to control our vehicle. 
+
+_then maybe add a video showing how the vehicle moves_
+
+### Group Pitch
+On top of going through the lecture about power, each group also presented what kind of track vehicle are they building and the features.
+
+This [link](https://docs.google.com/presentation/d/1G-Mtn2crr3oMn-h9OzoTzIzBxInWUobSz7nGN9KObng/edit?usp=sharing) is our presentation slides. After our presentation, we were given feedback by our lecturers and classmates.
+
+_insert feedback here_
+
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4NTE5MzI4ODAsMjA3NDI2OTc1MiwtMT
