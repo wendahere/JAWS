@@ -206,4 +206,5 @@ AC Source -> Level Conversion (Transformer) ->Rectifer (AC to DC) -> Voltage reg
 
 **Wifi-Client**: [WIFI GUIDE](https://randomnerdtutorials.com/micropython-wi-fi-manager-esp32-esp8266/) 
 
+Wi-Fi Manager is not in the MicroPython library so we need to upload it ourself.
 
