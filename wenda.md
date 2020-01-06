@@ -150,3 +150,23 @@ esptool worked for me but esptool.py does not.
 my_app-0x01000.bin is the firmware name, rename it to your current firmware .bin name.
 
 ###Done!
+
+
+#Week (8-13)
+
+###Installing wifimanager and main on ESP32.
+I used Thonny for this.
+Guide followed: [Link](https://randomnerdtutorials.com/micropython-wi-fi-manager-esp32-esp8266/)
+
+Step 1: In Thonny, top bar, open Tools>Options>Interpreter
+Check if "MicroPython On ESP32" is there. Port, if you know what port is plugged into, click that, if not use <Try to detect port automatically>
+
+If there is no esp32 option, go on google and download it.
+
+Step 2: Plug in ESP32 into the computer. Press boot on the ESP32 and look at shell if the ESP32 is connected.
+
+Step 3: Upload wifimgr.py [Copy and paste this](https://raw.githubusercontent.com/tayfunulu/WiFiManager/master/wifimgr.py) into Thonny and click File>Save As> Micropython Device (Important!). Name the file "wifimgr.py".
+
+Step 4: Similar to step 3. [Open this](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutorials/master/Projects/ESP-MicroPython/esp_wifimanager_example.py) and paste the code into Thonny but save as "Main.py" instead into the Micropython Device.
+
+Step 5: Press "EN" button on the ESP32 and look at the shell. If there is no error code, it is working. Check by opening wifi (bottom right) on your computer/phone. If there is "WifiManager" means it is working.
