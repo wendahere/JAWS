@@ -172,3 +172,14 @@ Step 4: Similar to step 3. [Open this](https://raw.githubusercontent.com/RuiSant
 Step 5: Press "EN" button on the ESP32 and look at the shell. If there is no error code, it is working. Check by opening wifi (bottom right) on your computer/phone. If there is "WifiManager" means it is working.
 
 ![Such as this](https://imgur.com/a/jPf4akT)
+
+###Hello World in browser.
+By default, IP Address is set to http://192.168.4.1/
+Follow [this](https://randomnerdtutorials.com/micropython-esp32-esp8266-access-point-ap/) guide. I made the ESP32 into a web server, an access point and printed "Hello World" in that address.
+
+Upload [this](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutorials/master/Projects/ESP-MicroPython/esp_access_point_boot.py) as boot.py and run.
+
+##Controlling LED using ESP32 as a web server
+
+I followed this guide, [link](https://randomnerdtutorials.com/esp32-esp8266-micropython-web-server/). As my ESP32WROOM 32D has no inbuilt LED, I had to plug into a breadboard and control that LED instead. Have to change the [code](https://www.codepile.net/pile/J2GjNkVa). I modified the code such that the ESP32 does not connect to the internet but we connect to the ESP32 instead.
+
