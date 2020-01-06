@@ -198,3 +198,4 @@ Voltages cannot be Low (Might not work properly) / Too High (Might destroy/burn)
 
 AC Source -> Level Conversion (Transformer) ->Rectifer (AC to DC) -> Voltage regulator (To meet your voltage req)
 
+>**WEEK 8-15**
