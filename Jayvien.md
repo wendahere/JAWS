@@ -214,6 +214,11 @@ Wi-Fi Manager is not in the MicroPython library so we need to upload it ourself.
 
 -> Thirdly, [Open new file and Paste This File](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutorials/master/Projects/ESP-MicroPython/esp_wifimanager_example.py) & save this file in **Micropython Device as Main.py**
 
--> Lastly, Press EN button on ESP32 and check your wifi settings on your computer, it will state as **WifiManager and Password is tayfunulu**
+-> Next, Press EN button on ESP32 and check your wifi settings on your computer, it will state as **WifiManager and Password is tayfunulu**
 
-In case, there’s a socket left open, Reset the ESP32 with machine.reset(). This will “forget” the open socket.
+> #### The Micropython Shell Will Show This
+Connect to WiFi ssid WifiManager, default password: tayfunulu
+and access the ESP via your favorite web browser at 192.168.4.1.
+Listening on: ('0.0.0.0', 80)
+
+**In case, there is a socket left open, Reset the ESP32 with machine.reset(). This will “forget” the open socket**
