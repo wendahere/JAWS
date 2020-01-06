@@ -196,6 +196,10 @@ The Author of these videos are Jamie Scherer, James Price who provide many video
 
 Voltages cannot be Low (Might not work properly) / Too High (Might destroy/burn)
 
+**Lithium Battery** : Good Speed control, High acceleration, High starting torque(Wide Speed Range (RPM))
+(Reacts to Air & Water) (Metal oxide + Lithium Ion = Lithium metal Oxide -> Stable) 
+Standard Cell (3V – 4.2V) produce a lot of heat (Use Battery Protection)
+
 AC Source -> Level Conversion (Transformer) ->Rectifer (AC to DC) -> Voltage regulator (To meet your voltage req)
 
 >**WEEK 8-15**
