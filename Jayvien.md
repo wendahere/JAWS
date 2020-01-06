@@ -214,5 +214,5 @@ Wi-Fi Manager is not in the MicroPython library so we need to upload it ourself.
 
 -> Thirdly, [Open new file and Paste This File](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutorials/master/Projects/ESP-MicroPython/esp_wifimanager_example.py) & save this file in **Micropython Device as Main.py**
 
--> Lastly, Press EN button on ESP32 and check your wifi settings on your computer, it will state as **WifiManager and Password is tayfunulu**
+-> Lastly, Press EN button on ESP32 and check your wifi settings on your computer, it will state as **WifiManager and  Password is tayfunulu**
 
