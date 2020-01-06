@@ -171,3 +171,4 @@ Step 4: Similar to step 3. [Open this](https://raw.githubusercontent.com/RuiSant
 
 Step 5: Press "EN" button on the ESP32 and look at the shell. If there is no error code, it is working. Check by opening wifi (bottom right) on your computer/phone. If there is "WifiManager" means it is working.
 
+![Such as this](https://imgur.com/a/jPf4akT)
