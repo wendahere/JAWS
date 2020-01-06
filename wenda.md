@@ -138,7 +138,7 @@ Follow this [guide](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Window
 		a. Use "py -m pip" if "pip" does not work
 
 3. Step up PATH and ENVIRONMENT VARIABLE to be able to run Pip and Python from anywhere
-4. [Download firmware](https://github.com/espressif/esptool/) Use "pip install esptool"
+4. [Download firmware](https://github.com/espressif/esptool/) or [This](https://micropython.org/download#esp32) Use "pip install esptool"
 5. Deploy firmware using command, follow below.
 
 "esptool --port COM3 write_flash 0x1000 my_app-0x01000.bin" OR "esptool.py --port COM3 write_flash 0x1000 my_app-0x01000.bin" if the earlier doesn't work.
@@ -170,3 +170,4 @@ Step 3: Upload wifimgr.py [Copy and paste this](https://raw.githubusercontent.co
 Step 4: Similar to step 3. [Open this](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutorials/master/Projects/ESP-MicroPython/esp_wifimanager_example.py) and paste the code into Thonny but save as "Main.py" instead into the Micropython Device.
 
 Step 5: Press "EN" button on the ESP32 and look at the shell. If there is no error code, it is working. Check by opening wifi (bottom right) on your computer/phone. If there is "WifiManager" means it is working.
+
