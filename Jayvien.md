@@ -221,7 +221,9 @@ Wi-Fi Manager is not in the MicroPython library so we need to upload it ourself.
 > and access the ESP via your favorite web browser at 192.168.4.1.
 > Listening on: ('0.0.0.0', 80)
 
--> When connected to the WifiManager, open your google chrome and paste 192.168.4.1. 
-
 **In case, there is a socket left open, Reset the ESP32 with machine.reset(). This will “forget” the open socket**
+
+-> When connected to the WifiManager, open your google chrome and paste 192.168.4.1. Next, choose a local network then enter the password to get access to the Wifi. **Getting a note stating: ESP Successfully connected to Wifi network**
+
+-> Lastly, Reopen your browser and type the IP Address and you will get full access for ESP32 GPIO.
 
