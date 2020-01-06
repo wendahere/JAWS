@@ -200,6 +200,6 @@ AC Source -> Level Conversion (Transformer) ->Rectifer (AC to DC) -> Voltage reg
 
 >**WEEK 8-15**
 
-**Wifi-Client**:
+**Wifi-Client**: [WIFI GUIDE](https://randomnerdtutorials.com/micropython-wi-fi-manager-esp32-esp8266/) 
 
-[WIFI GUIDE](https://randomnerdtutorials.com/micropython-wi-fi-manager-esp32-esp8266/) 
+
