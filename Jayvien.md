@@ -216,3 +216,4 @@ Wi-Fi Manager is not in the MicroPython library so we need to upload it ourself.
 
 -> Lastly, Press EN button on ESP32 and check your wifi settings on your computer, it will state as **WifiManager and Password is tayfunulu**
 
+In case, there’s a socket left open, Reset the ESP32 with machine.reset(). This will “forget” the open socket.
