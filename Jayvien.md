@@ -216,7 +216,7 @@ Wi-Fi Manager is not in the MicroPython library so we need to upload it ourself.
 
 -> Next, Press EN button on ESP32 and check your wifi settings on your computer, it will state as **WifiManager and Password is tayfunulu**
 
-> ####Micropython Shell Will Show This
+> #### Micropython Shell Will Show This
 Connect to WiFi ssid WifiManager, default password: tayfunulu
 and access the ESP via your favorite web browser at 192.168.4.1.
 Listening on: ('0.0.0.0', 80)
