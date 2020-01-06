@@ -199,3 +199,7 @@ Voltages cannot be Low (Might not work properly) / Too High (Might destroy/burn)
 AC Source -> Level Conversion (Transformer) ->Rectifer (AC to DC) -> Voltage regulator (To meet your voltage req)
 
 >**WEEK 8-15**
+
+**Wifi-Client**:
+
+[WIFI GUIDE](https://randomnerdtutorials.com/micropython-wi-fi-manager-esp32-esp8266/) 
