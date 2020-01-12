@@ -148,15 +148,18 @@ Well, that's all for this week!
 # Week 6
 ## Reflection
 For this week our lecturer went through with us how to move components and join those components to build assemblies for our project, the link for the lessons are [here]([https://f360ap.autodesk.com/courses/mechanical-assemblies-fundamentals])
+Our teaher also has tasked us with making an assembly in Fusion 360 
+
+sed on Mr Thang's creations
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjMzODMyNCwxNjI0MzQ3NDUwLDE5OT
-E5ODU3ODYsLTMzNTA2NDQxNSwtOTQ5Mzg1Mjc3LDg2OTYxMjIz
-OSw2MDU5OTk5MjYsLTY3MDM4NTE4NCw0MDAzNzA4NSwtNjA1OT
-EwMTIsMTQ2MzAxNDY0OCw3MzAzNzA5OTksLTQ2ODk2ODExNCwt
-Mjk3MzMyNzg0LDM0NjY4MjM4MiwtMTU5OTM1NDksLTE2MTgwMz
-Y1NjcsLTE4NTYzOTQxMTMsMTE5Njk3NzMwNSwxNjAxMDk4MzY3
-XX0=
+eyJoaXN0b3J5IjpbLTIxNDYzMDg4NjQsMTMzNjMzODMyNCwxNj
+I0MzQ3NDUwLDE5OTE5ODU3ODYsLTMzNTA2NDQxNSwtOTQ5Mzg1
+Mjc3LDg2OTYxMjIzOSw2MDU5OTk5MjYsLTY3MDM4NTE4NCw0MD
+AzNzA4NSwtNjA1OTEwMTIsMTQ2MzAxNDY0OCw3MzAzNzA5OTks
+LTQ2ODk2ODExNCwtMjk3MzMyNzg0LDM0NjY4MjM4MiwtMTU5OT
+M1NDksLTE2MTgwMzY1NjcsLTE4NTYzOTQxMTMsMTE5Njk3NzMw
+NV19
 -->
