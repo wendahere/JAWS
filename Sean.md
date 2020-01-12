@@ -153,12 +153,12 @@ I'll explain more in my holiday part of the blog
 
 # Week 7
 ## Reflection
-For this week our lecturer went through on power and how
+For this week our lecturer went through on power sources more and how we should use this knowledge and construct a rechargable power supply fr our tracked vehicle and it wi
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTI0MzI2NSwxMzM2MzM4MzI0LDE2Mj
+eyJoaXN0b3J5IjpbLTkwMjE3NDEyNywxMzM2MzM4MzI0LDE2Mj
 QzNDc0NTAsMTk5MTk4NTc4NiwtMzM1MDY0NDE1LC05NDkzODUy
 NzcsODY5NjEyMjM5LDYwNTk5OTkyNiwtNjcwMzg1MTg0XX0=
 -->
