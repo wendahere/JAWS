@@ -148,11 +148,14 @@ Well, that's all for this week!
 # Week 6
 ## Reflection
 For this week our lecturer went through with us how to move components and join those components to build assemblies for our project, the link for the lessons are [here]([https://f360ap.autodesk.com/courses/mechanical-assemblies-fundamentals])
+Our teaher also has tasked us with making an assembly in Fusion 360 
+
+sed on Mr Thang's creations
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjMzODMyNCwxNjI0MzQ3NDUwLDE5OT
-E5ODU3ODYsLTMzNTA2NDQxNSwtOTQ5Mzg1Mjc3LDg2OTYxMjIz
-OSw2MDU5OTk5MjYsLTY3MDM4NTE4NF19
+eyJoaXN0b3J5IjpbLTIxNDYzMDg4NjQsMTMzNjMzODMyNCwxNj
+I0MzQ3NDUwLDE5OTE5ODU3ODYsLTMzNTA2NDQxNSwtOTQ5Mzg1
+Mjc3LDg2OTYxMjIzOSw2MDU5OTk5MjYsLTY3MDM4NTE4NF19
 -->
