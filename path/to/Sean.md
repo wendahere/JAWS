@@ -153,16 +153,16 @@ I'll explain more in my holiday part of the blog
 
 # Week 7
 ## Reflection
-For this week our lecturer went through on power and how
+For this week our lecturer went through on power sources more and how we should use this knowledge and construct a rechargable power supply fr our tracked vehicle a
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTI0MzI2NSwxMzM2MzM4MzI0LDE2Mj
-QzNDc0NTAsMTk5MTk4NTc4NiwtMzM1MDY0NDE1LC05NDkzODUy
-NzcsODY5NjEyMjM5LDYwNTk5OTkyNiwtNjcwMzg1MTg0LDQwMD
-M3MDg1LC02MDU5MTAxMiwxNDYzMDE0NjQ4LDczMDM3MDk5OSwt
-NDY4OTY4MTE0LC0yOTczMzI3ODQsMzQ2NjgyMzgyLC0xNTk5Mz
-U0OSwtMTYxODAzNjU2NywtMTg1NjM5NDExMywxMTk2OTc3MzA1
-XX0=
+eyJoaXN0b3J5IjpbLTIwNDA4MjM0NDIsMTMzNjMzODMyNCwxNj
+I0MzQ3NDUwLDE5OTE5ODU3ODYsLTMzNTA2NDQxNSwtOTQ5Mzg1
+Mjc3LDg2OTYxMjIzOSw2MDU5OTk5MjYsLTY3MDM4NTE4NCw0MD
+AzNzA4NSwtNjA1OTEwMTIsMTQ2MzAxNDY0OCw3MzAzNzA5OTks
+LTQ2ODk2ODExNCwtMjk3MzMyNzg0LDM0NjY4MjM4MiwtMTU5OT
+M1NDksLTE2MTgwMzY1NjcsLTE4NTYzOTQxMTMsMTE5Njk3NzMw
+NV19
 -->
