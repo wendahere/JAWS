@@ -153,12 +153,13 @@ I'll explain more in my holiday part of the blog
 
 # Week 7
 ## Reflection
-For this week our lecturer went through on power sources more and how we should use this knowledge and construct a rechargable power supply fr our tracked vehicle a
+For this week our lecturer went through on power sources more and how we should use this knowledge and construct a rechargable power supply fr our tracked vehicle and it will also be also be covered more in detail 
+in the holiday blog. to learn about power sources, watch this video [here]
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA4MjM0NDIsMTMzNjMzODMyNCwxNj
+eyJoaXN0b3J5IjpbLTEyNjA0MTE3NjMsMTMzNjMzODMyNCwxNj
 I0MzQ3NDUwLDE5OTE5ODU3ODYsLTMzNTA2NDQxNSwtOTQ5Mzg1
 Mjc3LDg2OTYxMjIzOSw2MDU5OTk5MjYsLTY3MDM4NTE4NCw0MD
 AzNzA4NSwtNjA1OTEwMTIsMTQ2MzAxNDY0OCw3MzAzNzA5OTks
