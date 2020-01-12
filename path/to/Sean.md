@@ -141,14 +141,14 @@ This week i worked on the CA1 mechanical project that my teacher gave us in week
 Well, that's all for this week!
 
 # Week 6
-For this week our lecturer went through with us how to move components and p
+For this week our lecturer went through with us how to move components and join those components to build assemblies for our project, the link for the lessons are here
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyNTEyMjk0LC05NDkzODUyNzcsODY5Nj
-EyMjM5LDYwNTk5OTkyNiwtNjcwMzg1MTg0LDQwMDM3MDg1LC02
-MDU5MTAxMiwxNDYzMDE0NjQ4LDczMDM3MDk5OSwtNDY4OTY4MT
-E0LC0yOTczMzI3ODQsMzQ2NjgyMzgyLC0xNTk5MzU0OSwtMTYx
-ODAzNjU2NywtMTg1NjM5NDExMywxMTk2OTc3MzA1LDE2MDEwOT
-gzNjddfQ==
+eyJoaXN0b3J5IjpbLTQ3OTU2Mzc1NiwtOTQ5Mzg1Mjc3LDg2OT
+YxMjIzOSw2MDU5OTk5MjYsLTY3MDM4NTE4NCw0MDAzNzA4NSwt
+NjA1OTEwMTIsMTQ2MzAxNDY0OCw3MzAzNzA5OTksLTQ2ODk2OD
+ExNCwtMjk3MzMyNzg0LDM0NjY4MjM4MiwtMTU5OTM1NDksLTE2
+MTgwMzY1NjcsLTE4NTYzOTQxMTMsMTE5Njk3NzMwNSwxNjAxMD
+k4MzY3XX0=
 -->
