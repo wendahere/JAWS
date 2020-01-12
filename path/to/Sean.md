@@ -133,20 +133,22 @@ iii) After that, type in the command ```esptool.py --port /dev/ttyUSB0 erase_fla
 iv) After that, go to this [page]([https://github.com/wendahere/JAWS/blob/master/ESP32%20TOOLS/esp32-idf3-20191106-v1.11-558-gd209f9ebe.bin](https://github.com/wendahere/JAWS/blob/master/ESP32%20TOOLS/esp32-idf3-20191106-v1.11-558-gd209f9ebe.bin)) and download the file stated there. This will be the firmware that your ESP32 can use micropython. **Make sure you remeber where you save the file your going to path it later**
 v) After that is done, type in ```esptool.py --chip esp32 --port /dev/ttyUSB0 write_flash -z 0x1000 (firmware file name)``` if you are a mac user and ```esptool.py --chip esp32 --port COM(port number) write_flash -z 0x1000 (firmware file name, need to path it)``` .
 vi)After that it will download the programe and now you have micropython on your ESP32!!!
+
 # Week 5
 ## Reflection
 Today it was a break week cause of some misunderstandings but our lecturer dabbled on power sources and you can check it out [here on the week 5 blog]([https://github.com/wendahere/JAWS/blob/master/README.md](https://github.com/wendahere/JAWS/blob/master/README.md))
 This week i worked on the CA1 mechanical project that my teacher gave us in week 3. Here is my [solution](https://docs.google.com/presentation/d/14wCOhlp1a8PnIeWZdCQ_XQQmwKzjfe_fPMTIVctNZZI/edit?usp=sharing).
 Well, that's all for this week!
 
-# Week 
+# Week 6
+For this week our lecturer went through with us how to move components and p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTUyODg5OSwtOTQ5Mzg1Mjc3LDg2OT
-YxMjIzOSw2MDU5OTk5MjYsLTY3MDM4NTE4NCw0MDAzNzA4NSwt
-NjA1OTEwMTIsMTQ2MzAxNDY0OCw3MzAzNzA5OTksLTQ2ODk2OD
-ExNCwtMjk3MzMyNzg0LDM0NjY4MjM4MiwtMTU5OTM1NDksLTE2
-MTgwMzY1NjcsLTE4NTYzOTQxMTMsMTE5Njk3NzMwNSwxNjAxMD
-k4MzY3XX0=
+eyJoaXN0b3J5IjpbNjgyNTEyMjk0LC05NDkzODUyNzcsODY5Nj
+EyMjM5LDYwNTk5OTkyNiwtNjcwMzg1MTg0LDQwMDM3MDg1LC02
+MDU5MTAxMiwxNDYzMDE0NjQ4LDczMDM3MDk5OSwtNDY4OTY4MT
+E0LC0yOTczMzI3ODQsMzQ2NjgyMzgyLC0xNTk5MzU0OSwtMTYx
+ODAzNjU2NywtMTg1NjM5NDExMywxMTk2OTc3MzA1LDE2MDEwOT
+gzNjddfQ==
 -->
