@@ -140,7 +140,7 @@ vi)After that it will download the programe and now you have micropython on your
 
 # Week 5
 ## Reflection
-Today it was a break week cause of some misunderstandings but our lecturer dabbled on power sources and you can check it out [here on the week 5 blog]([https://github.com/wendahere/JAWS/blob/master/README.md](https://github.com/wendahere/JAWS/blob/master/README.md))
+Today it was a break week cause of some misunderstandings but our lecturer dabbled on power sources and you can check it out [here on the week 5 blog](https://github.com/wendahere/JAWS/blob/master/README.md)
 This week i worked on the CA1 mechanical project that my teacher gave us in week 3. Here is my [solution](https://docs.google.com/presentation/d/14wCOhlp1a8PnIeWZdCQ_XQQmwKzjfe_fPMTIVctNZZI/edit?usp=sharing).
 Well, that's all for this week!
 
@@ -151,7 +151,7 @@ For this week our lecturer went through with us how to move components and join 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjY4NDQ0MywxNjI0MzQ3NDUwLDE5OT
-E5ODU3ODYsLTMzNTA2NDQxNSwtOTQ5Mzg1Mjc3LDg2OTYxMjIz
-OSw2MDU5OTk5MjYsLTY3MDM4NTE4NF19
+eyJoaXN0b3J5IjpbNDk0ODM3NjgsMTYyNDM0NzQ1MCwxOTkxOT
+g1Nzg2LC0zMzUwNjQ0MTUsLTk0OTM4NTI3Nyw4Njk2MTIyMzks
+NjA1OTk5OTI2LC02NzAzODUxODRdfQ==
 -->
