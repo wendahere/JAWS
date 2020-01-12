@@ -136,10 +136,10 @@ vi)After that it will download the programe and now you have micropython on your
 # Week 5
 ## Reflection
 Today it was a break week cause of some misunderstandings but our lecturer dabbled on power sources and you can check it out [here on the week 5 blog]([https://github.com/wendahere/JAWS/blob/master/README.md](https://github.com/wendahere/JAWS/blob/master/README.md))
-This week i worked on the CA1 mechanical project that my teacher gave us in week 3
-### Here is my [solution]()
+This week i worked on the CA1 mechanical project that my teacher gave us in week 3. Here is my [solution](https://docs.google.com/presentation/d/14wCOhlp1a8PnIeWZdCQ_XQQmwKzjfe_fPMTIVctNZZI/edit?usp=sharing)i
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDMzOTM2MCwtOTQ5Mzg1Mjc3LDg2OT
-YxMjIzOSw2MDU5OTk5MjYsLTY3MDM4NTE4NF19
+eyJoaXN0b3J5IjpbLTU1ODc5NTAxLC05NDkzODUyNzcsODY5Nj
+EyMjM5LDYwNTk5OTkyNiwtNjcwMzg1MTg0XX0=
 -->
