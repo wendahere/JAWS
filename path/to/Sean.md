@@ -141,11 +141,13 @@ This week i worked on the CA1 mechanical project that my teacher gave us in week
 Well, that's all for this week!
 
 # Week 6
-For this week our lecturer went through with us how to move components and join those components to build assemblies for our project, the link for the lessons are here
+## Reflection
+For this week our lecturer went through with us how to move components and join those components to build assemblies for our project, the link for the lessons are [here]([https://f360ap.autodesk.com/courses/mechanical-assemblies-fundamentals])
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTU2Mzc1NiwtOTQ5Mzg1Mjc3LDg2OT
+eyJoaXN0b3J5IjpbLTMzNTA2NDQxNSwtOTQ5Mzg1Mjc3LDg2OT
 YxMjIzOSw2MDU5OTk5MjYsLTY3MDM4NTE4NCw0MDAzNzA4NSwt
 NjA1OTEwMTIsMTQ2MzAxNDY0OCw3MzAzNzA5OTksLTQ2ODk2OD
 ExNCwtMjk3MzMyNzg0LDM0NjY4MjM4MiwtMTU5OTM1NDksLTE2
