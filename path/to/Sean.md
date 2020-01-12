@@ -136,14 +136,14 @@ vi)After that it will download the programe and now you have micropython on your
 # Week 5
 ## Reflection
 Today it was a break week cause of some misunderstandings but our lecturer dabbled on power sources and you can check it out [here on the week 5 blog]([https://github.com/wendahere/JAWS/blob/master/README.md](https://github.com/wendahere/JAWS/blob/master/README.md))
-This week i worked on the CA1 mechanical project that y teacher gave us in week 3. 
-### Here is the solution
-#### Step 1: Find out about the major forces that are going to be placed on the tank
-i) Find the weight of the tank that you is going to be put on the tank 
+This week i worked on the CA1 mechanical project that my teacher gave us in week 3
+### Here is my [solution]()
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTM4NTI3Nyw4Njk2MTIyMzksNjA1OT
-k5OTI2LC02NzAzODUxODQsNDAwMzcwODUsLTYwNTkxMDEyLDE0
-NjMwMTQ2NDgsNzMwMzcwOTk5LC00Njg5NjgxMTQsLTI5NzMzMj
-c4NCwzNDY2ODIzODIsLTE1OTkzNTQ5LC0xNjE4MDM2NTY3LC0x
-ODU2Mzk0MTEzLDExOTY5NzczMDUsMTYwMTA5ODM2N119
+eyJoaXN0b3J5IjpbLTk1NDMzOTM2MCwtOTQ5Mzg1Mjc3LDg2OT
+YxMjIzOSw2MDU5OTk5MjYsLTY3MDM4NTE4NCw0MDAzNzA4NSwt
+NjA1OTEwMTIsMTQ2MzAxNDY0OCw3MzAzNzA5OTksLTQ2ODk2OD
+ExNCwtMjk3MzMyNzg0LDM0NjY4MjM4MiwtMTU5OTM1NDksLTE2
+MTgwMzY1NjcsLTE4NTYzOTQxMTMsMTE5Njk3NzMwNSwxNjAxMD
+k4MzY3XX0=
 -->
