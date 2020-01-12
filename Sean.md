@@ -110,7 +110,7 @@ This week our lecturer, Mr Rodney, taught us micropython and how to install it o
 
 ### How to install Micropython into ESP32
 #### Step 1: Install python into your computer
-i) Go to this [link]([https://www.python.org/downloads/](https://www.python.org/downloads/)) and install a version of python. For this tutorial, and for future use. I would suggest installing the latest version of python(3.8.0 as the time of writing) to make sure you don't do any extra steps. However, if you want to install a specific version, make sure you have pip installed into your computer as it is needed for a later step. 
+i) Go to this [link](https://www.python.org/downloads/) and install a version of python. For this tutorial, and for future use. I would suggest installing the latest version of python(3.8.0 as the time of writing) to make sure you don't do any extra steps. However, if you want to install a specific version, make sure you have pip installed into your computer as it is needed for a later step. 
 
 ii) Moving on, if you have a 32 bit computer(you can check it in settings), just click to where the arrow is pointing to then you will be able to install the latest version.![IMAGE ALT TEXT HERE](https://i.imgur.com/QP7Poi5.jpg)
 However, if you do not have that, then you would have to scroll down the page until you find the latest version of python(newest release date does not mean it is the latest version of python). 
@@ -127,13 +127,13 @@ Now you have python installed!
 
 i)Now you have python installed, go to your command prompt or windows powershell and type ```pip ```. It should list the functions that pip can do on your computer. However, if you are getting this output: ```Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
-NameError: name 'pip' is not defined```, close the tab and type pip again. if the error still persists, it probably means you need to install pip on your computer which [this article will tell you how]([https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation)). 
+NameError: name 'pip' is not defined```, close the tab and type pip again. if the error still persists, it probably means you need to install pip on your computer which [this article will tell you how](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation). 
 
 ii) If it is working correctly, type ```pip install esptool``` into the command prompt and it will download the esptool **make sure not to touch it to not sever the connection**.
 
 iii) After that, type in the command ```esptool.py --port /dev/ttyUSB0 erase_flash``` if you are a mac user and ```esptool.py --port COM(port number) erase_flash``` if you are a windows user. if you do not know how to find a port number click [here](https://www.youtube.com/watch?v=VGW2dCGNBD0).
 
-iv) After that, go to this [page](
+iv) After that, go to this [page](http://micropython.org/download#esp32)
   download the file stated there. This will be the firmware that your ESP32 can use micropython. **Make sure you remeber where you save the file your going to path it later**
 v) After that is done, type in ```esptool.py --chip esp32 --port /dev/ttyUSB0 write_flash -z 0x1000 (firmware file name)``` if you are a mac user and ```esptool.py --chip esp32 --port COM(port number) write_flash -z 0x1000 (firmware file name, need to path it)``` .
 vi)After that it will download the programe and now you have micropython on your ESP32!!!
@@ -151,7 +151,7 @@ For this week our lecturer went through with us how to move components and join 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0ODM3NjgsMTYyNDM0NzQ1MCwxOTkxOT
-g1Nzg2LC0zMzUwNjQ0MTUsLTk0OTM4NTI3Nyw4Njk2MTIyMzks
-NjA1OTk5OTI2LC02NzAzODUxODRdfQ==
+eyJoaXN0b3J5IjpbLTEyOTIyMDM2MzMsMTYyNDM0NzQ1MCwxOT
+kxOTg1Nzg2LC0zMzUwNjQ0MTUsLTk0OTM4NTI3Nyw4Njk2MTIy
+MzksNjA1OTk5OTI2LC02NzAzODUxODRdfQ==
 -->
