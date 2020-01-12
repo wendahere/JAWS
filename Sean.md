@@ -133,6 +133,7 @@ iii) After that, type in the command ```esptool.py --port /dev/ttyUSB0 erase_fla
 iv) After that, go to this [page]([https://github.com/wendahere/JAWS/blob/master/ESP32%20TOOLS/esp32-idf3-20191106-v1.11-558-gd209f9ebe.bin](https://github.com/wendahere/JAWS/blob/master/ESP32%20TOOLS/esp32-idf3-20191106-v1.11-558-gd209f9ebe.bin)) and download the file stated there. This will be the firmware that your ESP32 can use micropython. **Make sure you remeber where you save the file your going to path it later**
 v) After that is done, type in ```esptool.py --chip esp32 --port /dev/ttyUSB0 write_flash -z 0x1000 (firmware file name)``` if you are a mac user and ```esptool.py --chip esp32 --port COM(port number) write_flash -z 0x1000 (firmware file name, need to path it)``` .
 vi)After that it will download the programe and now you have micropython on your ESP32!!!
+
 # Week 5
 ## Reflection
 Today it was a break week cause of some misunderstandings but our lecturer dabbled on power sources and you can check it out [here on the week 5 blog]([https://github.com/wendahere/JAWS/blob/master/README.md](https://github.com/wendahere/JAWS/blob/master/README.md))
@@ -140,9 +141,10 @@ This week i worked on the CA1 mechanical project that my teacher gave us in week
 Well, that's all for this week!
 
 # Week 6
+For this week our lecturer went through with us how to move components and join those
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjcwMTgzNzUsLTk0OTM4NTI3Nyw4Nj
+eyJoaXN0b3J5IjpbLTE1OTcyMTMzMTMsLTk0OTM4NTI3Nyw4Nj
 k2MTIyMzksNjA1OTk5OTI2LC02NzAzODUxODRdfQ==
 -->
