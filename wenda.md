@@ -151,6 +151,13 @@ my_app-0x01000.bin is the firmware name, rename it to your current firmware .bin
 
 ###Done!
 
+#Week (5-7)
+
+Mechanical CAD Assignment. 
+
+I did 2 designs. [Easier one](https://youtu.be/9oUzNAoKIjM) for practice and [Main one](https://www.youtube.com/watch?v=rGYGc-Qtqgk) for submission. 
+[My completed design](https://youtu.be/2u0hkplDt-E)
+
 
 #Week (8-13)
 
@@ -171,7 +178,7 @@ Step 4: Similar to step 3. [Open this](https://raw.githubusercontent.com/RuiSant
 
 Step 5: Press "EN" button on the ESP32 and look at the shell. If there is no error code, it is working. Check by opening wifi (bottom right) on your computer/phone. If there is "WifiManager" means it is working.
 
-![Such as this](https://imgur.com/a/jPf4akT)
+![Such as this](https://raw.githubusercontent.com/wendahere/JAWS/master/Images/esp32wifi.png)
 
 ###Hello World in browser.
 By default, IP Address is set to http://192.168.4.1/
@@ -182,4 +189,7 @@ Upload [this](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutor
 ##Controlling LED using ESP32 as a web server
 
 I followed this guide, [link](https://randomnerdtutorials.com/esp32-esp8266-micropython-web-server/). As my ESP32WROOM 32D has no inbuilt LED, I had to plug into a breadboard and control that LED instead. Have to change the [code](https://www.codepile.net/pile/J2GjNkVa). I modified the code such that the ESP32 does not connect to the internet but we connect to the ESP32 instead.
+
+#Week 14
+Coded ESP Webserver without motor controls yet. My teammate did manual control (WASD) input to control the motors. 
 
