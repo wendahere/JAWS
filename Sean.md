@@ -159,12 +159,11 @@ For this week our lecturer went through on power sources more and how we should 
 in the holiday blog. to learn about power sources, watch this video [here](https://www.youtube.com/watch?v=IT19dg73nKU&feature=youtu.be). For now, see ya!
 
 # Week 8 - Week 14
-
-
+Looking back at week 6, the designs I chose was 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyODY3MzYyLC01ODY2Mzg1MzcsMTMzNj
-MzODMyNCwxNjI0MzQ3NDUwLDE5OTE5ODU3ODYsLTMzNTA2NDQx
-NSwtOTQ5Mzg1Mjc3LDg2OTYxMjIzOSw2MDU5OTk5MjYsLTY3MD
-M4NTE4NF19
+eyJoaXN0b3J5IjpbLTIwOTM0NTE2NTUsOTEyODY3MzYyLC01OD
+Y2Mzg1MzcsMTMzNjMzODMyNCwxNjI0MzQ3NDUwLDE5OTE5ODU3
+ODYsLTMzNTA2NDQxNSwtOTQ5Mzg1Mjc3LDg2OTYxMjIzOSw2MD
+U5OTk5MjYsLTY3MDM4NTE4NF19
 -->
