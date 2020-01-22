@@ -237,7 +237,20 @@ Here is the pin layout:
 **&nbsp;**
 After that, our teacher gave us a mindmap for us that shows us the steps to download firmware and test our ESP32 with a simple code to make usre our boards are fully working
 ![Picture of Flowchart](https://imgur.com/rRrUc35.png)
-Our group downloaded the firmware and also set up the wifi server on the ESP32 by ourselves on each of [our personal blogs](https://github.com/wendahere/JAWS) we successfully lit up the LED also with
+Our group downloaded the firmware and also set up the wifi server on the ESP32 by ourselves on each of [our personal blogs](https://github.com/wendahere/JAWS) we successfully lit up the LED! Here's the code:
+```
+````
+# Complete project details at https://RandomNerdTutorials.com
+
+from machine import Pin
+from time import sleep
+
+led = Pin(2, Pin.OUT)
+
+while True:
+  led.value(not led.value())
+  sleep(0.5)
+```
 _placeholder text_
 
 ## Week 5 (11/11/19 - 17/11/19):
@@ -301,9 +314,10 @@ _insert feedback here_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzA0ODAyNiwtMzY0NjE2MDEyLC0xMT
-c4Mzk1NjE4LDE4NDg3MzM1NjQsMzc1MTI0NjMwLC0yMDg5ODY5
-NTk1LC02OTI4Mjk1NTksLTE4NTE5MzI4ODAsMjA3NDI2OTc1Mi
-wtMTUzMDcxNjg5NywtNjIyMTIxMTIxLDE4MDYwNjM5MjcsLTE1
-NzM1MzA2MTIsMjU4ODk0NzMyLC0xNTczNTMwNjEyXX0=
+eyJoaXN0b3J5IjpbMTg3NzgyNzA3NywtMzI3MDQ4MDI2LC0zNj
+Q2MTYwMTIsLTExNzgzOTU2MTgsMTg0ODczMzU2NCwzNzUxMjQ2
+MzAsLTIwODk4Njk1OTUsLTY5MjgyOTU1OSwtMTg1MTkzMjg4MC
+wyMDc0MjY5NzUyLC0xNTMwNzE2ODk3LC02MjIxMjExMjEsMTgw
+NjA2MzkyNywtMTU3MzUzMDYxMiwyNTg4OTQ3MzIsLTE1NzM1Mz
+A2MTJdfQ==
 -->
