@@ -239,8 +239,6 @@ After that, our teacher gave us a mindmap for us that shows us the steps to down
 ![Picture of Flowchart](https://imgur.com/rRrUc35.png)
 Our group downloaded the firmware and also set up the wifi server on the ESP32 by ourselves on each of [our personal blogs](https://github.com/wendahere/JAWS) we successfully lit up the LED! Here's the code:
 ```
-# Complete project details at https://RandomNerdTutorials.com
-
 from machine import Pin
 from time import sleep
 
@@ -250,7 +248,8 @@ while True:
   led.value(not led.value())
   sleep(0.5)
 ```
-
+credits to randomnerd tutorials
+We also 
 _placeholder text_
 
 ## Week 5 (11/11/19 - 17/11/19):
@@ -314,10 +313,10 @@ _insert feedback here_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDUyNzMxOSwtMzI3MDQ4MDI2LC0zNj
-Q2MTYwMTIsLTExNzgzOTU2MTgsMTg0ODczMzU2NCwzNzUxMjQ2
-MzAsLTIwODk4Njk1OTUsLTY5MjgyOTU1OSwtMTg1MTkzMjg4MC
-wyMDc0MjY5NzUyLC0xNTMwNzE2ODk3LC02MjIxMjExMjEsMTgw
-NjA2MzkyNywtMTU3MzUzMDYxMiwyNTg4OTQ3MzIsLTE1NzM1Mz
-A2MTJdfQ==
+eyJoaXN0b3J5IjpbNTY1MTI3MDc1LC0zMjcwNDgwMjYsLTM2ND
+YxNjAxMiwtMTE3ODM5NTYxOCwxODQ4NzMzNTY0LDM3NTEyNDYz
+MCwtMjA4OTg2OTU5NSwtNjkyODI5NTU5LC0xODUxOTMyODgwLD
+IwNzQyNjk3NTIsLTE1MzA3MTY4OTcsLTYyMjEyMTEyMSwxODA2
+MDYzOTI3LC0xNTczNTMwNjEyLDI1ODg5NDczMiwtMTU3MzUzMD
+YxMl19
 -->
