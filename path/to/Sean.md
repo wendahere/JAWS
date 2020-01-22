@@ -1,6 +1,9 @@
-# Week 1
+>**Week 1**
+>
 Our week 1 documentation is the README.md file if you want to check it out then go ahead
-# Week 2
+
+>**Week 2**
+>
 This week my teacher, Mr Dorvile, gave us a task to make a space invaders game in under two hours. Thus, I attempted the challenge and these are the thought I have after the challenge.
 
 If you don't know what am i talking about here is a example of the game [right here](https://www.youtube.com/watch?v=qtPmawMdgQ0)
@@ -161,11 +164,11 @@ in the holiday blog. to learn about power sources, watch this video [here](https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjYzODUzNywxMzM2MzM4MzI0LDE2Mj
-QzNDc0NTAsMTk5MTk4NTc4NiwtMzM1MDY0NDE1LC05NDkzODUy
-NzcsODY5NjEyMjM5LDYwNTk5OTkyNiwtNjcwMzg1MTg0LDQwMD
-M3MDg1LC02MDU5MTAxMiwxNDYzMDE0NjQ4LDczMDM3MDk5OSwt
-NDY4OTY4MTE0LC0yOTczMzI3ODQsMzQ2NjgyMzgyLC0xNTk5Mz
-U0OSwtMTYxODAzNjU2NywtMTg1NjM5NDExMywxMTk2OTc3MzA1
-XX0=
+eyJoaXN0b3J5IjpbNzU1MDYzNDc3LC01ODY2Mzg1MzcsMTMzNj
+MzODMyNCwxNjI0MzQ3NDUwLDE5OTE5ODU3ODYsLTMzNTA2NDQx
+NSwtOTQ5Mzg1Mjc3LDg2OTYxMjIzOSw2MDU5OTk5MjYsLTY3MD
+M4NTE4NCw0MDAzNzA4NSwtNjA1OTEwMTIsMTQ2MzAxNDY0OCw3
+MzAzNzA5OTksLTQ2ODk2ODExNCwtMjk3MzMyNzg0LDM0NjY4Mj
+M4MiwtMTU5OTM1NDksLTE2MTgwMzY1NjcsLTE4NTYzOTQxMTNd
+fQ==
 -->
