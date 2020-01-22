@@ -221,6 +221,8 @@ This is how the T100 looks after rectifying the problem.
 _placeholder text_
 
 ## Week 4 (4/11/19 - 10/11/19):
+
+Today our team recieved
 ### ESP32
 ![esp32_front](https://imgur.com/9oX23iu.png) ![esp32_back](https://imgur.com/aJdcXof.png)
 
@@ -289,8 +291,8 @@ _insert feedback here_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODk4Njk1OTUsLTY5MjgyOTU1OSwtMT
-g1MTkzMjg4MCwyMDc0MjY5NzUyLC0xNTMwNzE2ODk3LC02MjIx
-MjExMjEsMTgwNjA2MzkyNywtMTU3MzUzMDYxMiwyNTg4OTQ3Mz
-IsLTE1NzM1MzA2MTJdfQ==
+eyJoaXN0b3J5IjpbMjAzMDM5NDA1OCwtMjA4OTg2OTU5NSwtNj
+kyODI5NTU5LC0xODUxOTMyODgwLDIwNzQyNjk3NTIsLTE1MzA3
+MTY4OTcsLTYyMjEyMTEyMSwxODA2MDYzOTI3LC0xNTczNTMwNj
+EyLDI1ODg5NDczMiwtMTU3MzUzMDYxMl19
 -->
