@@ -225,7 +225,14 @@ _placeholder text_
 Today our team recieved our ESP32 for our project. This will be the actual board that we will use for our project.
 Here's how it looks:
 ### ESP32
-![esp32_front](https://imgur.com/9oX23iu.png) ![esp32_back](https://imgur.com/aJdcXof.png)
+Front:
+![esp32_front](https://imgur.com/9oX23iu.png)
+ **&nbsp;**
+ Back:![esp32_back](https://imgur.com/aJdcXof.png)
+**&nbsp;**
+**&nbsp;**
+**&nbsp;**
+
 
 ![ESP32 board layout](https://user-images.githubusercontent.com/43029229/72858635-64df4380-3cfc-11ea-9816-811599423d33.jpeg)
 
@@ -294,9 +301,9 @@ _insert feedback here_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDYxNjAxMiwtMTE3ODM5NTYxOCwxOD
-Q4NzMzNTY0LDM3NTEyNDYzMCwtMjA4OTg2OTU5NSwtNjkyODI5
-NTU5LC0xODUxOTMyODgwLDIwNzQyNjk3NTIsLTE1MzA3MTY4OT
-csLTYyMjEyMTEyMSwxODA2MDYzOTI3LC0xNTczNTMwNjEyLDI1
-ODg5NDczMiwtMTU3MzUzMDYxMl19
+eyJoaXN0b3J5IjpbLTE5MTgwMTIzODIsLTM2NDYxNjAxMiwtMT
+E3ODM5NTYxOCwxODQ4NzMzNTY0LDM3NTEyNDYzMCwtMjA4OTg2
+OTU5NSwtNjkyODI5NTU5LC0xODUxOTMyODgwLDIwNzQyNjk3NT
+IsLTE1MzA3MTY4OTcsLTYyMjEyMTEyMSwxODA2MDYzOTI3LC0x
+NTczNTMwNjEyLDI1ODg5NDczMiwtMTU3MzUzMDYxMl19
 -->
