@@ -1,9 +1,6 @@
->**Week 1**
->
+# Week 1
 Our week 1 documentation is the README.md file if you want to check it out then go ahead
-
->**Week 2**
->
+# Week 2
 This week my teacher, Mr Dorvile, gave us a task to make a space invaders game in under two hours. Thus, I attempted the challenge and these are the thought I have after the challenge.
 
 If you don't know what am i talking about here is a example of the game [right here](https://www.youtube.com/watch?v=qtPmawMdgQ0)
@@ -142,6 +139,8 @@ iv) After that, go to this [page](http://micropython.org/download#esp32)
 v) After that is done, type in ```esptool.py --chip esp32 --port /dev/ttyUSB0 write_flash -z 0x1000 (firmware file name)``` if you are a mac user and ```esptool.py --chip esp32 --port COM(port number) write_flash -z 0x1000 (firmware file name, need to path it)``` .
 vi)After that it will download the programe and now you have micropython on your ESP32!!!
 
+Then afer
+
 # Week 5
 ## Reflection
 Today it was a break week cause of some misunderstandings but our lecturer dabbled on power sources and you can check it out [here on the week 5 blog](https://github.com/wendahere/JAWS/blob/master/README.md)
@@ -164,7 +163,7 @@ in the holiday blog. to learn about power sources, watch this video [here](https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1MDYzNDc3LC01ODY2Mzg1MzcsMTMzNj
+eyJoaXN0b3J5IjpbOTEyODY3MzYyLC01ODY2Mzg1MzcsMTMzNj
 MzODMyNCwxNjI0MzQ3NDUwLDE5OTE5ODU3ODYsLTMzNTA2NDQx
 NSwtOTQ5Mzg1Mjc3LDg2OTYxMjIzOSw2MDU5OTk5MjYsLTY3MD
 M4NTE4NF19
