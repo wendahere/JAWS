@@ -222,7 +222,7 @@ _placeholder text_
 
 ## Week 4 (4/11/19 - 10/11/19):
 
-Today our team recieved our ESP 32 for our projects
+Today our team recieved our ESP32 for our project. This will be the actual board that we will use and it would
 ### ESP32
 ![esp32_front](https://imgur.com/9oX23iu.png) ![esp32_back](https://imgur.com/aJdcXof.png)
 
@@ -291,8 +291,9 @@ _insert feedback here_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1MTI0NjMwLC0yMDg5ODY5NTk1LC02OT
-I4Mjk1NTksLTE4NTE5MzI4ODAsMjA3NDI2OTc1MiwtMTUzMDcx
-Njg5NywtNjIyMTIxMTIxLDE4MDYwNjM5MjcsLTE1NzM1MzA2MT
-IsMjU4ODk0NzMyLC0xNTczNTMwNjEyXX0=
+eyJoaXN0b3J5IjpbMTg0ODczMzU2NCwzNzUxMjQ2MzAsLTIwOD
+k4Njk1OTUsLTY5MjgyOTU1OSwtMTg1MTkzMjg4MCwyMDc0MjY5
+NzUyLC0xNTMwNzE2ODk3LC02MjIxMjExMjEsMTgwNjA2MzkyNy
+wtMTU3MzUzMDYxMiwyNTg4OTQ3MzIsLTE1NzM1MzA2MTJdfQ==
+
 -->
