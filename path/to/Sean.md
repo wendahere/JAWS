@@ -159,14 +159,14 @@ For this week our lecturer went through on power sources more and how we should 
 in the holiday blog. to learn about power sources, watch this video [here](https://www.youtube.com/watch?v=IT19dg73nKU&feature=youtu.be). For now, see ya!
 
 # Week 8 - Week 14
-Looking back at week 6, the designs I chose was 
+Looking back at week 6, the design I chose was [this](https://www.youtube.com/watch?v=Zwwnr262Wlc)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM0NTE2NTUsOTEyODY3MzYyLC01OD
-Y2Mzg1MzcsMTMzNjMzODMyNCwxNjI0MzQ3NDUwLDE5OTE5ODU3
-ODYsLTMzNTA2NDQxNSwtOTQ5Mzg1Mjc3LDg2OTYxMjIzOSw2MD
-U5OTk5MjYsLTY3MDM4NTE4NCw0MDAzNzA4NSwtNjA1OTEwMTIs
-MTQ2MzAxNDY0OCw3MzAzNzA5OTksLTQ2ODk2ODExNCwtMjk3Mz
-MyNzg0LDM0NjY4MjM4MiwtMTU5OTM1NDksLTE2MTgwMzY1Njdd
-fQ==
+eyJoaXN0b3J5IjpbLTg4NDg2NzE1LDkxMjg2NzM2MiwtNTg2Nj
+M4NTM3LDEzMzYzMzgzMjQsMTYyNDM0NzQ1MCwxOTkxOTg1Nzg2
+LC0zMzUwNjQ0MTUsLTk0OTM4NTI3Nyw4Njk2MTIyMzksNjA1OT
+k5OTI2LC02NzAzODUxODQsNDAwMzcwODUsLTYwNTkxMDEyLDE0
+NjMwMTQ2NDgsNzMwMzcwOTk5LC00Njg5NjgxMTQsLTI5NzMzMj
+c4NCwzNDY2ODIzODIsLTE1OTkzNTQ5LC0xNjE4MDM2NTY3XX0=
+
 -->
