@@ -235,7 +235,7 @@ Front:
 Here is the pin layout:
 ![ESP32 board layout](https://user-images.githubusercontent.com/43029229/72858635-64df4380-3cfc-11ea-9816-811599423d33.jpeg)
 **&nbsp;**
-
+After that, our teacher gave us a mindmap for us that shows us the steps to download firmware and test our ESP32 with a sim
 ![Picture of Flowchart](https://imgur.com/rRrUc35.png)
 
 _placeholder text_
@@ -301,9 +301,9 @@ _insert feedback here_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjQyMzIyNywtMzY0NjE2MDEyLC0xMT
-c4Mzk1NjE4LDE4NDg3MzM1NjQsMzc1MTI0NjMwLC0yMDg5ODY5
-NTk1LC02OTI4Mjk1NTksLTE4NTE5MzI4ODAsMjA3NDI2OTc1Mi
-wtMTUzMDcxNjg5NywtNjIyMTIxMTIxLDE4MDYwNjM5MjcsLTE1
-NzM1MzA2MTIsMjU4ODk0NzMyLC0xNTczNTMwNjEyXX0=
+eyJoaXN0b3J5IjpbLTExOTY0MzM3NDgsLTM2NDYxNjAxMiwtMT
+E3ODM5NTYxOCwxODQ4NzMzNTY0LDM3NTEyNDYzMCwtMjA4OTg2
+OTU5NSwtNjkyODI5NTU5LC0xODUxOTMyODgwLDIwNzQyNjk3NT
+IsLTE1MzA3MTY4OTcsLTYyMjEyMTEyMSwxODA2MDYzOTI3LC0x
+NTczNTMwNjEyLDI1ODg5NDczMiwtMTU3MzUzMDYxMl19
 -->
