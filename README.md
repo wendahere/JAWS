@@ -249,7 +249,8 @@ while True:
   sleep(0.5)
 ```
 credits to randomnerd tutorials
-We also did some code to light up an LED using a web server. It can be found [here}
+We also did some code to light up an LED using a web server. It can be found [here](https://github.com/wendahere/JAWS/blob/master/Content/esp32%20as%20webserver%20to%20control%20LED%20on%20pin2.py). See you next week!
+
 _placeholder text_
 
 ## Week 5 (11/11/19 - 17/11/19):
@@ -309,11 +310,11 @@ This [link](https://docs.google.com/presentation/d/1G-Mtn2crr3oMn-h9OzoTzIzBxInW
 
 _insert feedback here_
 
-
+## Week 8
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzg3OTg3NywtMzI3MDQ4MDI2LC0zNj
+eyJoaXN0b3J5IjpbMTE4MzEwNzE3OCwtMzI3MDQ4MDI2LC0zNj
 Q2MTYwMTIsLTExNzgzOTU2MTgsMTg0ODczMzU2NCwzNzUxMjQ2
 MzAsLTIwODk4Njk1OTUsLTY5MjgyOTU1OSwtMTg1MTkzMjg4MC
 wyMDc0MjY5NzUyLC0xNTMwNzE2ODk3LC02MjIxMjExMjEsMTgw
