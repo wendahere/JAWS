@@ -71,18 +71,18 @@ I have watched a video on Python programming and would like to recommend it. Thi
 
 [![Or below here](http://img.youtube.com/vi/IMGzzK9Wn4w/0.jpg)](http://www.youtube.com/watch?v=IMGzzK9Wn4w)
 
-####Pros:
+#### Pros:
 - Goes through everything of Python, including installation of the program required
 - Very clear on explanation and understandable English
 - Considered short, compared to 4 hours tutorial 
 - Everything packed into 1 hour 30mins
 - Rather new video (2019) and updated channel
-####Cons: 
+#### Cons: 
 - Video volume not consistent, start and end of video is VERY loud, please be careful
 - Have to pause the video if you are following
 
 
-##Journal for Week 2
+## Journal for Week 2
 Learned about micropython and using the BBC Microbit.
 We used Thonny to program the Microbit. I was really interested and invested in this as it was a fun topic for me. I liked that I could create simple games and displays using the Microbit with little effort. 
 
@@ -111,25 +111,25 @@ while True:
         display.set_pixel(x,4,5)
         display.set_pixel(x-1,4,0)  
 
-####Traceback (most recent call last):File "<stdin>", line 13, in <module>ValueError: index out of bounds
+#### Traceback (most recent call last):File "<stdin>", line 13, in <module>ValueError: index out of bounds
 
 At the the end, once any value exceeds the boundary, there will be this error, index out of bounds. I have tried using arrays but the value will still get out of bound of the array. The only solution I have for this is to simply reset the game before any value gets out of bounds, which includes the player.
 
-###Revised Version of code
+### Revised Version of code
 I rewrote the code from scratch after finding out my mistake, was stumped and could not figure out why after an hour of searching, therefore I started from scratch and used another method to move the spacecraft instead.
 
 
-###Space Invaders Demo
+### Space Invaders Demo
 
 [![Space Invaders!](http://img.youtube.com/vi/JxIyh3bOaRo/0.jpg)](http://www.youtube.com/watch?v=JxIyh3bOaRo)
 
 
 
-#Week 4
+# Week 4
 
-#####For class, we used ESP32.
+##### For class, we used ESP32.
 
-###Tutorial to use ESP32
+### Tutorial to use ESP32
 Follow this [guide](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation) if unclear, there are picture and clear steps. This is a good guide.
 
 1. [Install Python](https://www.python.org/downloads/) (Make sure to tick Path installation)
@@ -149,9 +149,9 @@ esptool worked for me but esptool.py does not.
 
 my_app-0x01000.bin is the firmware name, rename it to your current firmware .bin name.
 
-###Done!
+### Done!
 
-#Week (5-7)
+# Week (5-7)
 
 Mechanical CAD Assignment. 
 
@@ -159,9 +159,9 @@ I did 2 designs. [Easier one](https://youtu.be/9oUzNAoKIjM) for practice and [Ma
 [My completed design](https://youtu.be/2u0hkplDt-E)
 
 
-#Week (8-13)
+# Week (8-13)
 
-###Installing wifimanager and main on ESP32.
+### Installing wifimanager and main on ESP32.
 I used Thonny for this.
 Guide followed: [Link](https://randomnerdtutorials.com/micropython-wi-fi-manager-esp32-esp8266/)
 
@@ -180,16 +180,16 @@ Step 5: Press "EN" button on the ESP32 and look at the shell. If there is no err
 
 ![Such as this](https://raw.githubusercontent.com/wendahere/JAWS/master/Images/esp32wifi.png)
 
-###Hello World in browser.
+### Hello World in browser.
 By default, IP Address is set to http://192.168.4.1/
 Follow [this](https://randomnerdtutorials.com/micropython-esp32-esp8266-access-point-ap/) guide. I made the ESP32 into a web server, an access point and printed "Hello World" in that address.
 
 Upload [this](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutorials/master/Projects/ESP-MicroPython/esp_access_point_boot.py) as boot.py and run.
 
-##Controlling LED using ESP32 as a web server
+## Controlling LED using ESP32 as a web server
 
 I followed this guide, [link](https://randomnerdtutorials.com/esp32-esp8266-micropython-web-server/). As my ESP32WROOM 32D has no inbuilt LED, I had to plug into a breadboard and control that LED instead. Have to change the [code](https://www.codepile.net/pile/J2GjNkVa). I modified the code such that the ESP32 does not connect to the internet but we connect to the ESP32 instead.
 
-#Week 14
+# Week 14
 Coded ESP Webserver without motor controls yet. My teammate did manual control (WASD) input to control the motors. 
 
