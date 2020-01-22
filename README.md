@@ -227,6 +227,7 @@ Here's how it looks:
 ### ESP32
 ![esp32_front](https://imgur.com/9oX23iu.png) ![esp32_back](https://imgur.com/aJdcXof.png)
 
+![ESP32 board layout](https://user-images.githubusercontent.com/43029229/72858635-64df4380-3cfc-11ea-9816-811599423d33.jpeg)
 
 ![Picture of Flowchart](https://imgur.com/rRrUc35.png)
 
@@ -293,9 +294,9 @@ _insert feedback here_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzgzOTU2MTgsMTg0ODczMzU2NCwzNz
-UxMjQ2MzAsLTIwODk4Njk1OTUsLTY5MjgyOTU1OSwtMTg1MTkz
-Mjg4MCwyMDc0MjY5NzUyLC0xNTMwNzE2ODk3LC02MjIxMjExMj
-EsMTgwNjA2MzkyNywtMTU3MzUzMDYxMiwyNTg4OTQ3MzIsLTE1
-NzM1MzA2MTJdfQ==
+eyJoaXN0b3J5IjpbLTM2NDYxNjAxMiwtMTE3ODM5NTYxOCwxOD
+Q4NzMzNTY0LDM3NTEyNDYzMCwtMjA4OTg2OTU5NSwtNjkyODI5
+NTU5LC0xODUxOTMyODgwLDIwNzQyNjk3NTIsLTE1MzA3MTY4OT
+csLTYyMjEyMTEyMSwxODA2MDYzOTI3LC0xNTczNTMwNjEyLDI1
+ODg5NDczMiwtMTU3MzUzMDYxMl19
 -->
