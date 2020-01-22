@@ -159,11 +159,11 @@ For this week our lecturer went through on power sources more and how we should 
 in the holiday blog. to learn about power sources, watch this video [here](https://www.youtube.com/watch?v=IT19dg73nKU&feature=youtu.be). For now, see ya!
 
 # Week 8 - Week 14
-Looking back at week 6, the design I chose was [this](https://www.youtube.com/watch?v=Zwwnr262Wlc)
+Looking back at week 6, the design I chose was [the woodpecker](https://www.youtube.com/watch?v=zqnzgwYDKLY) and     ,[Straight line drawing mechanism 9](https://www.youtube.com/watch?v=Zwwnr262Wlc) from Mr Thang's youtube channel
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDg2NzE1LDkxMjg2NzM2MiwtNTg2Nj
-M4NTM3LDEzMzYzMzgzMjQsMTYyNDM0NzQ1MCwxOTkxOTg1Nzg2
-LC0zMzUwNjQ0MTUsLTk0OTM4NTI3Nyw4Njk2MTIyMzksNjA1OT
-k5OTI2LC02NzAzODUxODRdfQ==
+eyJoaXN0b3J5IjpbMTg2ODcxMTU2MCw5MTI4NjczNjIsLTU4Nj
+YzODUzNywxMzM2MzM4MzI0LDE2MjQzNDc0NTAsMTk5MTk4NTc4
+NiwtMzM1MDY0NDE1LC05NDkzODUyNzcsODY5NjEyMjM5LDYwNT
+k5OTkyNiwtNjcwMzg1MTg0XX0=
 -->
