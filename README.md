@@ -237,7 +237,7 @@ Here is the pin layout:
 **&nbsp;**
 After that, our teacher gave us a mindmap for us that shows us the steps to download firmware and test our ESP32 with a simple code to make usre our boards are fully working
 ![Picture of Flowchart](https://imgur.com/rRrUc35.png)
-Our group downloaded the firmware by oursel
+Our group downloaded the firmware by ourselves and had us 
 _placeholder text_
 
 ## Week 5 (11/11/19 - 17/11/19):
@@ -301,9 +301,9 @@ _insert feedback here_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDkxNDUzLC0zNjQ2MTYwMTIsLTExNz
-gzOTU2MTgsMTg0ODczMzU2NCwzNzUxMjQ2MzAsLTIwODk4Njk1
-OTUsLTY5MjgyOTU1OSwtMTg1MTkzMjg4MCwyMDc0MjY5NzUyLC
-0xNTMwNzE2ODk3LC02MjIxMjExMjEsMTgwNjA2MzkyNywtMTU3
-MzUzMDYxMiwyNTg4OTQ3MzIsLTE1NzM1MzA2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEzMTQwMTIxMSwtMzY0NjE2MDEyLC0xMT
+c4Mzk1NjE4LDE4NDg3MzM1NjQsMzc1MTI0NjMwLC0yMDg5ODY5
+NTk1LC02OTI4Mjk1NTksLTE4NTE5MzI4ODAsMjA3NDI2OTc1Mi
+wtMTUzMDcxNjg5NywtNjIyMTIxMTIxLDE4MDYwNjM5MjcsLTE1
+NzM1MzA2MTIsMjU4ODk0NzMyLC0xNTczNTMwNjEyXX0=
 -->
