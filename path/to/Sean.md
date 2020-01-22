@@ -159,14 +159,15 @@ For this week our lecturer went through on power sources more and how we should 
 in the holiday blog. to learn about power sources, watch this video [here](https://www.youtube.com/watch?v=IT19dg73nKU&feature=youtu.be). For now, see ya!
 
 # Week 8 - Week 14
-Looking back at week 6, the design I chose was [the woodpecker](https://www.youtube.com/watch?v=zqnzgwYDKLY) and     ,[Straight line drawing mechanism 9](https://www.youtube.com/watch?v=Zwwnr262Wlc) from [Mr Thang's youtube channel](https://www.youtube.com/channel/UCli_RJkGWfZvw4IlDLHNCQg). The woodpecker was really hard as the woodpecker moves 
+## Reflection for mechanical homework
+Looking back at week 6, the design I chose was [the woodpecker](https://www.youtube.com/watch?v=zqnzgwYDKLY) and     ,[Straight line drawing mechanism 9](https://www.youtube.com/watch?v=Zwwnr262Wlc) from [Mr Thang's youtube channel](https://www.youtube.com/channel/UCli_RJkGWfZvw4IlDLHNCQg). The woodpecker was really hard as the woodpecker toy moves by gravity and it is a very unique motion. Even Mr Tune, the lecturer that assigned me this task, also 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTUzNTcxNywtMTczMjAxMDI2NCw5MT
-I4NjczNjIsLTU4NjYzODUzNywxMzM2MzM4MzI0LDE2MjQzNDc0
-NTAsMTk5MTk4NTc4NiwtMzM1MDY0NDE1LC05NDkzODUyNzcsOD
-Y5NjEyMjM5LDYwNTk5OTkyNiwtNjcwMzg1MTg0LDQwMDM3MDg1
-LC02MDU5MTAxMiwxNDYzMDE0NjQ4LDczMDM3MDk5OSwtNDY4OT
-Y4MTE0LC0yOTczMzI3ODQsMzQ2NjgyMzgyLC0xNTk5MzU0OV19
-
+eyJoaXN0b3J5IjpbLTEzMzQyNzg1ODAsLTE3MzIwMTAyNjQsOT
+EyODY3MzYyLC01ODY2Mzg1MzcsMTMzNjMzODMyNCwxNjI0MzQ3
+NDUwLDE5OTE5ODU3ODYsLTMzNTA2NDQxNSwtOTQ5Mzg1Mjc3LD
+g2OTYxMjIzOSw2MDU5OTk5MjYsLTY3MDM4NTE4NCw0MDAzNzA4
+NSwtNjA1OTEwMTIsMTQ2MzAxNDY0OCw3MzAzNzA5OTksLTQ2OD
+k2ODExNCwtMjk3MzMyNzg0LDM0NjY4MjM4MiwtMTU5OTM1NDld
+fQ==
 -->
