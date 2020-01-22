@@ -190,6 +190,17 @@ Upload [this](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutor
 
 I followed this guide, [link](https://randomnerdtutorials.com/esp32-esp8266-micropython-web-server/). As my ESP32WROOM 32D has no inbuilt LED, I had to plug into a breadboard and control that LED instead. Have to change the [code](https://www.codepile.net/pile/J2GjNkVa). I modified the code such that the ESP32 does not connect to the internet but we connect to the ESP32 instead.
 
-#Week 14
-Coded ESP Webserver without motor controls yet. My teammate did manual control (WASD) input to control the motors. 
+We completed the chassis for JAWS.
 
+#Week 14
+Milestone 1 Day.
+
+Coded ESP Webserver without motor controls yet. My teammate did manual control (WASD) input to control the motors. 
+[This was the code for HTML](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/motortest2withhtml.py)
+
+We did the boost converter and batteries chargers this week.
+
+The movement works for WASD controls, we ended up getting 75/100 for 15% of the project.
+
+#Week 15
+I combined the codes to enable movement using the web server. 
