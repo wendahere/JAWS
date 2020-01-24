@@ -170,10 +170,10 @@ The hardest part of me was that you need to be very presice with the measurement
 
 
 ## Reflection for electronics homework
-It was honestly quite hard and I took quite long to get a working circuit. I wanted our charging station 
+It was honestly quite hard and I took quite long to get a working circuit. I wanted the charging station to be inside the vehicle so i tried to design a way that the 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTkyNzM5MDIsMTA5NjA0MzU2MywxMT
+eyJoaXN0b3J5IjpbLTExNDU0NTExOTAsMTA5NjA0MzU2MywxMT
 E0NjgxOTg4LDYzMDUwODc5MywtNTQyMTEwODk4LDIxMjM0Njk4
 LDE5NDIxMzQxNDIsMTkwNDUyMjc1NywxODA0NTQ5NzAyLC0xNz
 MyMDEwMjY0LDkxMjg2NzM2MiwtNTg2NjM4NTM3LDEzMzYzMzgz
