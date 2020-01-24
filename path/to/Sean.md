@@ -140,7 +140,23 @@ v) After that is done, type in ```esptool.py --chip esp32 --port /dev/ttyUSB0 wr
 
 vi) After that it will download the programe and now you have micropython on your ESP32
 
-vii) Then, you can step up the web server,
+vii) Then, you can step up the web server,**Wifi-Client**: [](https://randomnerdtutorials.com/micropython-wi-fi-manager-esp32-esp8266/) 
+[Copy This To Your Thonny](https://raw.githubusercontent.com/tayfunulu/WiFiManager/master/wifimgr.py) & save this file in **Mi&rarr;cropython Device as wifimgr.py**
+&rarr; Thirdly, [Open new file and Paste This File](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutorials/master/Projects/ESP-MicroPython/esp_wifimanager_example.py) & save this file in **Micropython Device as Main.py**
+
+&rarr; Next, Press EN button on ESP32 and check your wifi settings on your computer, it will state as **WifiManager and Password is tayfunulu**
+
+> #### Micropython Shell Will Show This
+> Connect to WiFi ssid WifiManager, default password: tayfunulu
+> and access the ESP via your favorite web browser at 192.168.4.1.
+> Listening on: ('0.0.0.0', 80)
+
+**In case, there is a socket left open, Reset the ESP32 with machine.reset(). This will “forget” the open socket**
+
+&rarr; When connected to the WifiManager, open your google chrome and paste 192.168.4.1. Next, choose a local network then enter the password to get access to the Wifi. **Getting a note stating: ESP Successfully connected to Wifi network**
+
+&rarr; Lastly, Reopen your browser and type the IP Address and you will get full access for ESP32 GPIO.
+
 
 # Week 5
 ## Reflection
@@ -198,11 +214,11 @@ Thus, I needed to change the power circuit and that
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzYwOTE2MCwtMjAwOTYyMTc2MSwtND
-YxMDg2MDcxLDczODI5MzIwNiwxNTM5NDc3NDA5LC0xMjkxOTI3
-NjM4LDMzOTQwOTA5NywtMTU4MjIxMTg3NywtNjUwMTEyNTE5LD
-EwOTYwNDM1NjMsMTExNDY4MTk4OCw2MzA1MDg3OTMsLTU0MjEx
-MDg5OCwyMTIzNDY5OCwxOTQyMTM0MTQyLDE5MDQ1MjI3NTcsMT
-gwNDU0OTcwMiwtMTczMjAxMDI2NCw5MTI4NjczNjIsLTU4NjYz
-ODUzN119
+eyJoaXN0b3J5IjpbLTIwOTkyNjkxNTksLTIwMDk2MjE3NjEsLT
+Q2MTA4NjA3MSw3MzgyOTMyMDYsMTUzOTQ3NzQwOSwtMTI5MTky
+NzYzOCwzMzk0MDkwOTcsLTE1ODIyMTE4NzcsLTY1MDExMjUxOS
+wxMDk2MDQzNTYzLDExMTQ2ODE5ODgsNjMwNTA4NzkzLC01NDIx
+MTA4OTgsMjEyMzQ2OTgsMTk0MjEzNDE0MiwxOTA0NTIyNzU3LD
+E4MDQ1NDk3MDIsLTE3MzIwMTAyNjQsOTEyODY3MzYyLC01ODY2
+Mzg1MzddfQ==
 -->
