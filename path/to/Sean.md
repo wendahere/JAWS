@@ -165,11 +165,11 @@ This one was actually much easier as because it only includes three types of joi
 The hardest part of me was that you need to be very presice with the measurement if not you would have a straight line so reviewing the original file helped a lot in recreating the deisgn
 
 #### Lessons learnt:
-1. If you were designing a new design or recreating a certian design. It is best that you should try to source exsisting designs of certian things like gears to save thime in your designing phase.
-2. You need to have a 
+1. If you were designing a new design or recreating a certian design. It is best that you should try to source exsisting designs of certian things like gears to save time in your designing phase.
+2. Try to get a design that is not ext
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyMDY1NjEwLDYzMDUwODc5MywtNTQyMT
+eyJoaXN0b3J5IjpbMzUyODY1ODY1LDYzMDUwODc5MywtNTQyMT
 EwODk4LDIxMjM0Njk4LDE5NDIxMzQxNDIsMTkwNDUyMjc1Nywx
 ODA0NTQ5NzAyLC0xNzMyMDEwMjY0LDkxMjg2NzM2MiwtNTg2Nj
 M4NTM3LDEzMzYzMzgzMjQsMTYyNDM0NzQ1MCwxOTkxOTg1Nzg2
