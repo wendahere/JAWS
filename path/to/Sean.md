@@ -165,10 +165,10 @@ This one was actually much easier as because it only includes three types of joi
 The hardest part of me was that you need to be very presice with the measurement if not you would have a straight line so reviewing the original file helped a lot in recreating the deisgn
 
 #### Lessons learnt:
-1. T
+1. If you were designing a new design or 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTczMDkzMiwyMTIzNDY5OCwxOTQyMT
+eyJoaXN0b3J5IjpbMTcxNjQ0NTc1OSwyMTIzNDY5OCwxOTQyMT
 M0MTQyLDE5MDQ1MjI3NTcsMTgwNDU0OTcwMiwtMTczMjAxMDI2
 NCw5MTI4NjczNjIsLTU4NjYzODUzNywxMzM2MzM4MzI0LDE2Mj
 QzNDc0NTAsMTk5MTk4NTc4NiwtMzM1MDY0NDE1LC05NDkzODUy
