@@ -182,14 +182,14 @@ Firstly, I researched about the module to understand about how to use it to powe
 3. If batteries were connected in series, they would not drain simultaneously, instead, the first battery would be the one to drain first. **Thus, the batteries would be in different voltages and would lead to overcharging. So all the more to get another charging module.**
 4. Reading the datasheet for the charging module, I found out that it has battery protection, meaning that it has a measure to deal with overcharging. However, the module battery protection only kicks in if the battery's voltage has reached 4.2 volts. **That means if my battery's max voltage(achieved when it reaches max capacity) is less than 4.2 volts, the battery is not protected at all, casuing overcharging**
 
-To conclude, I would need to make two modes for my power circuit, the first mode is for charging which i will 
-, the second mode is for outputing the power to the rest of the components
+To conclude, I would need to make two modes for my power circuit, the first mode is for charging which i will call rest mode, the second mode is for outputing the power to the rest of the components, I will call this active mode.
+The first circuit design I created was 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDc2NjA5Niw3MzgyOTMyMDYsMTUzOT
+eyJoaXN0b3J5IjpbLTQ2MTA4NjA3MSw3MzgyOTMyMDYsMTUzOT
 Q3NzQwOSwtMTI5MTkyNzYzOCwzMzk0MDkwOTcsLTE1ODIyMTE4
 NzcsLTY1MDExMjUxOSwxMDk2MDQzNTYzLDExMTQ2ODE5ODgsNj
 MwNTA4NzkzLC01NDIxMTA4OTgsMjEyMzQ2OTgsMTk0MjEzNDE0
