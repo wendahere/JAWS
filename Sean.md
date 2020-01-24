@@ -172,19 +172,19 @@ The hardest part of me was that you need to be very presice with the measurement
 ## Reflection for electronics homework
 It was honestly quite hard and I took quite long to get a working power circuit as I did not want to remove the batteries while charging.
 
-My lecturer gave us a TP4056 charging module and two 3.7V 18650 lithium ion batteries to start with our project. **My goal was to create an internal charging 
+My lecturer gave us a TP4056 charging module and two 3.7V 18650 lithium ion batteries to start with our project. **My goal was to create an internal charging station inside the track vehicle for two batteries to power the whole circuit.
 
 Firstly, I researched about the module to understand about how to use it to power the track vehicle. I tried
  to see the [datasheet](http://www.haoyuelectronics.com/Attachment/TP4056-modules/TP4056.pdf) and youtube videos about it and I realised a couple of things:
 
 1. The TP4056 module only supports one cell or parallel charging and if I were to use two batteries I would need to have two modules
-2. 
+2. You
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzY5NTI5LC02NTAxMTI1MTksMTA5Nj
+eyJoaXN0b3J5IjpbODc1NjA5NTIxLC02NTAxMTI1MTksMTA5Nj
 A0MzU2MywxMTE0NjgxOTg4LDYzMDUwODc5MywtNTQyMTEwODk4
 LDIxMjM0Njk4LDE5NDIxMzQxNDIsMTkwNDUyMjc1NywxODA0NT
 Q5NzAyLC0xNzMyMDEwMjY0LDkxMjg2NzM2MiwtNTg2NjM4NTM3
