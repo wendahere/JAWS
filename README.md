@@ -317,9 +317,12 @@ Coding &rarr; Jayvien and Wen Da
 Electronics &rarr; Sean
 Look at each of our blogs to see what we did!
 
+## Week 15
+This week our lecturer, Mr Tune, gave us a task. Make the 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzI2ODQwMjUsLTMyNzA0ODAyNiwtMz
+eyJoaXN0b3J5IjpbLTEyOTU2NTczNzQsLTMyNzA0ODAyNiwtMz
 Y0NjE2MDEyLC0xMTc4Mzk1NjE4LDE4NDg3MzM1NjQsMzc1MTI0
 NjMwLC0yMDg5ODY5NTk1LC02OTI4Mjk1NTksLTE4NTE5MzI4OD
 AsMjA3NDI2OTc1MiwtMTUzMDcxNjg5NywtNjIyMTIxMTIxLDE4
