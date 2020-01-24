@@ -170,13 +170,14 @@ The hardest part of me was that you need to be very presice with the measurement
 
 
 ## Reflection for electronics homework
-For the power requirements, my team and I 
+It was honestly quite hard and I took quite long to get a working circuit. I was 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjA0MzU2MywxMTE0NjgxOTg4LDYzMD
-UwODc5MywtNTQyMTEwODk4LDIxMjM0Njk4LDE5NDIxMzQxNDIs
-MTkwNDUyMjc1NywxODA0NTQ5NzAyLC0xNzMyMDEwMjY0LDkxMj
-g2NzM2MiwtNTg2NjM4NTM3LDEzMzYzMzgzMjQsMTYyNDM0NzQ1
-MCwxOTkxOTg1Nzg2LC0zMzUwNjQ0MTUsLTk0OTM4NTI3Nyw4Nj
-k2MTIyMzksNjA1OTk5OTI2LC02NzAzODUxODRdfQ==
+eyJoaXN0b3J5IjpbLTc3MjUxOTAyMywxMDk2MDQzNTYzLDExMT
+Q2ODE5ODgsNjMwNTA4NzkzLC01NDIxMTA4OTgsMjEyMzQ2OTgs
+MTk0MjEzNDE0MiwxOTA0NTIyNzU3LDE4MDQ1NDk3MDIsLTE3Mz
+IwMTAyNjQsOTEyODY3MzYyLC01ODY2Mzg1MzcsMTMzNjMzODMy
+NCwxNjI0MzQ3NDUwLDE5OTE5ODU3ODYsLTMzNTA2NDQxNSwtOT
+Q5Mzg1Mjc3LDg2OTYxMjIzOSw2MDU5OTk5MjYsLTY3MDM4NTE4
+NF19
 -->
