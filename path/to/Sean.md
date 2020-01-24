@@ -172,13 +172,13 @@ The hardest part of me was that you need to be very presice with the measurement
 ## Reflection for electronics homework
 It was honestly quite hard and I took quite long to get a working power circuit as I did not want to remove the batteries while charging.
 
-The modules I was using was
+My lecturer gave us a TP4056 charging module and two litiumlithium ion battery
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDExMjUxOSwxMDk2MDQzNTYzLDExMT
-Q2ODE5ODgsNjMwNTA4NzkzLC01NDIxMTA4OTgsMjEyMzQ2OTgs
-MTk0MjEzNDE0MiwxOTA0NTIyNzU3LDE4MDQ1NDk3MDIsLTE3Mz
-IwMTAyNjQsOTEyODY3MzYyLC01ODY2Mzg1MzcsMTMzNjMzODMy
-NCwxNjI0MzQ3NDUwLDE5OTE5ODU3ODYsLTMzNTA2NDQxNSwtOT
-Q5Mzg1Mjc3LDg2OTYxMjIzOSw2MDU5OTk5MjYsLTY3MDM4NTE4
-NF19
+eyJoaXN0b3J5IjpbNjU5OTY0MjQwLC02NTAxMTI1MTksMTA5Nj
+A0MzU2MywxMTE0NjgxOTg4LDYzMDUwODc5MywtNTQyMTEwODk4
+LDIxMjM0Njk4LDE5NDIxMzQxNDIsMTkwNDUyMjc1NywxODA0NT
+Q5NzAyLC0xNzMyMDEwMjY0LDkxMjg2NzM2MiwtNTg2NjM4NTM3
+LDEzMzYzMzgzMjQsMTYyNDM0NzQ1MCwxOTkxOTg1Nzg2LC0zMz
+UwNjQ0MTUsLTk0OTM4NTI3Nyw4Njk2MTIyMzksNjA1OTk5OTI2
+XX0=
 -->
