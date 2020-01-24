@@ -311,14 +311,14 @@ This [link](https://docs.google.com/presentation/d/1G-Mtn2crr3oMn-h9OzoTzIzBxInW
 _insert feedback here_
 
 ## Week 8-14
-During the holiday time, we each were doing our own parts for the track vehicle and we 
+During the holiday time, we each were doing our own parts for the track vehicle. who is in charge of a certian part in the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzMzODA4NCwtMzI3MDQ4MDI2LC0zNj
-Q2MTYwMTIsLTExNzgzOTU2MTgsMTg0ODczMzU2NCwzNzUxMjQ2
-MzAsLTIwODk4Njk1OTUsLTY5MjgyOTU1OSwtMTg1MTkzMjg4MC
-wyMDc0MjY5NzUyLC0xNTMwNzE2ODk3LC02MjIxMjExMjEsMTgw
-NjA2MzkyNywtMTU3MzUzMDYxMiwyNTg4OTQ3MzIsLTE1NzM1Mz
-A2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE0MDQwNDEwNDMsLTMyNzA0ODAyNiwtMz
+Y0NjE2MDEyLC0xMTc4Mzk1NjE4LDE4NDg3MzM1NjQsMzc1MTI0
+NjMwLC0yMDg5ODY5NTk1LC02OTI4Mjk1NTksLTE4NTE5MzI4OD
+AsMjA3NDI2OTc1MiwtMTUzMDcxNjg5NywtNjIyMTIxMTIxLDE4
+MDYwNjM5MjcsLTE1NzM1MzA2MTIsMjU4ODk0NzMyLC0xNTczNT
+MwNjEyXX0=
 -->
