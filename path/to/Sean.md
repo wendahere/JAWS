@@ -167,10 +167,13 @@ The hardest part of me was that you need to be very presice with the measurement
 #### Lessons learnt:
 1. If you were designing a new design or recreating a certian design. It is best that you should try to source exsisting designs of certian things like gears to save time in your designing phase.
 2. Try to get a design that is not extremely hard if you are under a dateline cause its going to be very hard to emulate it.
-3. If you are doing exsisting designs, 
+
+
+## Reflection for electronics homework
+For the powe 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODk3ODA4OSw2MzA1MDg3OTMsLTU0Mj
+eyJoaXN0b3J5IjpbMTExNDY4MTk4OCw2MzA1MDg3OTMsLTU0Mj
 ExMDg5OCwyMTIzNDY5OCwxOTQyMTM0MTQyLDE5MDQ1MjI3NTcs
 MTgwNDU0OTcwMiwtMTczMjAxMDI2NCw5MTI4NjczNjIsLTU4Nj
 YzODUzNywxMzM2MzM4MzI0LDE2MjQzNDc0NTAsMTk5MTk4NTc4
