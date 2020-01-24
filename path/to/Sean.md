@@ -177,20 +177,19 @@ My lecturer gave us a TP4056 charging module and two 3.7V 18650 lithium ion batt
 Firstly, I researched about the module to understand about how to use it to power the track vehicle. I tried
  to see the [datasheet](http://www.haoyuelectronics.com/Attachment/TP4056-modules/TP4056.pdf) and youtube videos about it and I realised a couple of things:
 
-1. The TP4056 module only supports one cell or parallel charging and **
-2. if I were to use two batteries I would need to have two modules**
-3. If you were to charge multiple batteries in parallel, the voltages of the batteries must be **almost identical** as batteries have different charging capacities so while one battery may be full, the other battery in parallel may be still charging. This causes overcharging in that one battery and it will damage and reduce the life of that battery faster. Thus, I can't use 
-4. If batteries were connected in series, they would not drain simultaneously, instead, the first battery 
+1. The TP4056 module only supports one cell or parallel charging and **if I were to use two batteries I would need to have two modules**
+2. If you were to charge multiple batteries in parallel, the voltages of the batteries must be *almost identical* as batteries have different charging capacities so while one battery may be full, the other battery in parallel may be still charging. This causes overcharging in that one battery and it will damage and reduce the life of that battery faster. Thus, I can't use 
+5. If batteries were connected in series, they would not drain simultaneously, instead, the first battery 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwMDIwMTQxLC02NTAxMTI1MTksMTA5Nj
-A0MzU2MywxMTE0NjgxOTg4LDYzMDUwODc5MywtNTQyMTEwODk4
-LDIxMjM0Njk4LDE5NDIxMzQxNDIsMTkwNDUyMjc1NywxODA0NT
-Q5NzAyLC0xNzMyMDEwMjY0LDkxMjg2NzM2MiwtNTg2NjM4NTM3
-LDEzMzYzMzgzMjQsMTYyNDM0NzQ1MCwxOTkxOTg1Nzg2LC0zMz
-UwNjQ0MTUsLTk0OTM4NTI3Nyw4Njk2MTIyMzksNjA1OTk5OTI2
-XX0=
+eyJoaXN0b3J5IjpbLTE1ODIyMTE4NzcsLTY1MDExMjUxOSwxMD
+k2MDQzNTYzLDExMTQ2ODE5ODgsNjMwNTA4NzkzLC01NDIxMTA4
+OTgsMjEyMzQ2OTgsMTk0MjEzNDE0MiwxOTA0NTIyNzU3LDE4MD
+Q1NDk3MDIsLTE3MzIwMTAyNjQsOTEyODY3MzYyLC01ODY2Mzg1
+MzcsMTMzNjMzODMyNCwxNjI0MzQ3NDUwLDE5OTE5ODU3ODYsLT
+MzNTA2NDQxNSwtOTQ5Mzg1Mjc3LDg2OTYxMjIzOSw2MDU5OTk5
+MjZdfQ==
 -->
