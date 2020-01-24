@@ -312,14 +312,16 @@ _insert feedback here_
 
 ## Week 8-14
 During the holiday time, we each were doing our own parts for the track vehicle:
-Mechanical -->
+Mechanical &rarr; Allen and Wen Da
+Coding &rarr; Jayvien and Wen Da
+Electronics &rarr; Sean
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3MTIyNTAyLC0zMjcwNDgwMjYsLTM2ND
-YxNjAxMiwtMTE3ODM5NTYxOCwxODQ4NzMzNTY0LDM3NTEyNDYz
-MCwtMjA4OTg2OTU5NSwtNjkyODI5NTU5LC0xODUxOTMyODgwLD
-IwNzQyNjk3NTIsLTE1MzA3MTY4OTcsLTYyMjEyMTEyMSwxODA2
-MDYzOTI3LC0xNTczNTMwNjEyLDI1ODg5NDczMiwtMTU3MzUzMD
-YxMl19
+eyJoaXN0b3J5IjpbLTE3MzgwMTcxNTQsLTMyNzA0ODAyNiwtMz
+Y0NjE2MDEyLC0xMTc4Mzk1NjE4LDE4NDg3MzM1NjQsMzc1MTI0
+NjMwLC0yMDg5ODY5NTk1LC02OTI4Mjk1NTksLTE4NTE5MzI4OD
+AsMjA3NDI2OTc1MiwtMTUzMDcxNjg5NywtNjIyMTIxMTIxLDE4
+MDYwNjM5MjcsLTE1NzM1MzA2MTIsMjU4ODk0NzMyLC0xNTczNT
+MwNjEyXX0=
 -->
