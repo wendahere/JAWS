@@ -186,19 +186,21 @@ To conclude, I would need to make two modes for my power circuit, the first mode
 The first circuit design I created was inspired from [this video.](https://www.youtube.com/watch?v=rpRYNMrVCk0) It looks like this:
 
 There were two problems:
-1. It does not charge properly
+6. It does not charge properly
+7. It does not output 8V and the voltage was always decreasing. It also does not have current flowing through when it is at active mode.
+8
 
-2. It does not out put
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5NDMyMzI1LC0yMDA5NjIxNzYxLC00Nj
-EwODYwNzEsNzM4MjkzMjA2LDE1Mzk0Nzc0MDksLTEyOTE5Mjc2
-MzgsMzM5NDA5MDk3LC0xNTgyMjExODc3LC02NTAxMTI1MTksMT
-A5NjA0MzU2MywxMTE0NjgxOTg4LDYzMDUwODc5MywtNTQyMTEw
-ODk4LDIxMjM0Njk4LDE5NDIxMzQxNDIsMTkwNDUyMjc1NywxOD
-A0NTQ5NzAyLC0xNzMyMDEwMjY0LDkxMjg2NzM2MiwtNTg2NjM4
-NTM3XX0=
+eyJoaXN0b3J5IjpbLTI3NjE3MTY2MSwtMjAwOTYyMTc2MSwtND
+YxMDg2MDcxLDczODI5MzIwNiwxNTM5NDc3NDA5LC0xMjkxOTI3
+NjM4LDMzOTQwOTA5NywtMTU4MjIxMTg3NywtNjUwMTEyNTE5LD
+EwOTYwNDM1NjMsMTExNDY4MTk4OCw2MzA1MDg3OTMsLTU0MjEx
+MDg5OCwyMTIzNDY5OCwxOTQyMTM0MTQyLDE5MDQ1MjI3NTcsMT
+gwNDU0OTcwMiwtMTczMjAxMDI2NCw5MTI4NjczNjIsLTU4NjYz
+ODUzN119
 -->
