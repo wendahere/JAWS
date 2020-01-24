@@ -174,17 +174,20 @@ It was honestly quite hard and I took quite long to get a working power circuit 
 
 My lecturer gave us a TP4056 charging module and two 3.7V 18650 lithium ion batteries to start with our project.
 
-Firstly, I researched about the module to understand about how to use it to power the track vehicle
+Firstly, I researched about the module to understand about how to use it to power the track vehicle. I tried
+ to see the [datasheet](http://www.haoyuelectronics.com/Attachment/TP4056-modules/TP4056.pdf) and youtube videos about it and I realised a couple of things:
 
-. Tried to see the [datasheet](http://www.haoyuelectronics.com/Attachment/TP4056-modules/TP4056.pdf) and youtube videos about it.
+1. if 
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NzQzNTgxLC02NTAxMTI1MTksMTA5Nj
-A0MzU2MywxMTE0NjgxOTg4LDYzMDUwODc5MywtNTQyMTEwODk4
-LDIxMjM0Njk4LDE5NDIxMzQxNDIsMTkwNDUyMjc1NywxODA0NT
-Q5NzAyLC0xNzMyMDEwMjY0LDkxMjg2NzM2MiwtNTg2NjM4NTM3
-LDEzMzYzMzgzMjQsMTYyNDM0NzQ1MCwxOTkxOTg1Nzg2LC0zMz
-UwNjQ0MTUsLTk0OTM4NTI3Nyw4Njk2MTIyMzksNjA1OTk5OTI2
-XX0=
+eyJoaXN0b3J5IjpbMTk4NTE2Mzc5OCwtNjUwMTEyNTE5LDEwOT
+YwNDM1NjMsMTExNDY4MTk4OCw2MzA1MDg3OTMsLTU0MjExMDg5
+OCwyMTIzNDY5OCwxOTQyMTM0MTQyLDE5MDQ1MjI3NTcsMTgwND
+U0OTcwMiwtMTczMjAxMDI2NCw5MTI4NjczNjIsLTU4NjYzODUz
+NywxMzM2MzM4MzI0LDE2MjQzNDc0NTAsMTk5MTk4NTc4NiwtMz
+M1MDY0NDE1LC05NDkzODUyNzcsODY5NjEyMjM5LDYwNTk5OTky
+Nl19
 -->
