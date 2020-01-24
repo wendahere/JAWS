@@ -170,13 +170,15 @@ The hardest part of me was that you need to be very presice with the measurement
 
 
 ## Reflection for electronics homework
-It was honestly quite hard and I took quite long to get a working power circuit as I wanted the car to be charging instead
+It was honestly quite hard and I took quite long to get a working power circuit as I did not want to remove the batteries while charging.
+
+The modules I was using was
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1ODAzMzMyLDEwOTYwNDM1NjMsMTExND
-Y4MTk4OCw2MzA1MDg3OTMsLTU0MjExMDg5OCwyMTIzNDY5OCwx
-OTQyMTM0MTQyLDE5MDQ1MjI3NTcsMTgwNDU0OTcwMiwtMTczMj
-AxMDI2NCw5MTI4NjczNjIsLTU4NjYzODUzNywxMzM2MzM4MzI0
-LDE2MjQzNDc0NTAsMTk5MTk4NTc4NiwtMzM1MDY0NDE1LC05ND
-kzODUyNzcsODY5NjEyMjM5LDYwNTk5OTkyNiwtNjcwMzg1MTg0
-XX0=
+eyJoaXN0b3J5IjpbLTY1MDExMjUxOSwxMDk2MDQzNTYzLDExMT
+Q2ODE5ODgsNjMwNTA4NzkzLC01NDIxMTA4OTgsMjEyMzQ2OTgs
+MTk0MjEzNDE0MiwxOTA0NTIyNzU3LDE4MDQ1NDk3MDIsLTE3Mz
+IwMTAyNjQsOTEyODY3MzYyLC01ODY2Mzg1MzcsMTMzNjMzODMy
+NCwxNjI0MzQ3NDUwLDE5OTE5ODU3ODYsLTMzNTA2NDQxNSwtOT
+Q5Mzg1Mjc3LDg2OTYxMjIzOSw2MDU5OTk5MjYsLTY3MDM4NTE4
+NF19
 -->
