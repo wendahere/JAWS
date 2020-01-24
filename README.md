@@ -318,11 +318,13 @@ Electronics &rarr; Sean
 Look at each of our blogs to see what we did!
 
 ## Week 15
-This week our lecturer, Mr Tune, gave us a task. Make the entire chasis, incuding the motors, nuts, and all the washers. We managed to finish it on time. We also found out that the end goal for usi
+This week our lecturer, Mr Tune, gave us a task. Make the entire chasis, incuding the motors, nuts, and all the washers. We managed to finish it on time. We also found out that the end goal for using fusion 360 was to make our design all in Fusion 360, every part of it. well then, see you next week!
+
+## Week 16
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTI5MjAxOSwtMzI3MDQ4MDI2LC0zNj
+eyJoaXN0b3J5IjpbMTMyODIwNzU2OCwtMzI3MDQ4MDI2LC0zNj
 Q2MTYwMTIsLTExNzgzOTU2MTgsMTg0ODczMzU2NCwzNzUxMjQ2
 MzAsLTIwODk4Njk1OTUsLTY5MjgyOTU1OSwtMTg1MTkzMjg4MC
 wyMDc0MjY5NzUyLC0xNTMwNzE2ODk3LC02MjIxMjExMjEsMTgw
