@@ -181,17 +181,18 @@ Firstly, I researched about the module to understand about how to use it to powe
 2. If you were to charge multiple batteries in parallel, the voltages of the batteries must be *almost identical* as batteries have different charging capacities so while one battery may be full, the other battery in parallel may be still charging. This causes overcharging in that one battery and it will damage and reduce the life of that battery faster. **Thus, I can't use batteries with different voltages**
 3. If batteries were connected in series, they would not drain simultaneously, instead, the first battery would be the one to drain first. **Thus, the batteries would be in different voltages and would lead to overcharging. So all the more to get another charging module.**
 4. Reading the datasheet for the charging module, I found out that it has battery protection, meaning that it has a measure to deal with overcharging. However, the module battery protection only kicks in if the battery's voltage has reached 4.2 volts. **That means if my battery's max voltage(achieved when it reaches max capacity) is less than 4.2 volts, the battery is not protected at all, casuing overcharging**
-5. 
+
+To conclude, I would need a cicu
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDYxNDMxMSwtMTU4MjIxMTg3NywtNj
-UwMTEyNTE5LDEwOTYwNDM1NjMsMTExNDY4MTk4OCw2MzA1MDg3
-OTMsLTU0MjExMDg5OCwyMTIzNDY5OCwxOTQyMTM0MTQyLDE5MD
-Q1MjI3NTcsMTgwNDU0OTcwMiwtMTczMjAxMDI2NCw5MTI4Njcz
-NjIsLTU4NjYzODUzNywxMzM2MzM4MzI0LDE2MjQzNDc0NTAsMT
-k5MTk4NTc4NiwtMzM1MDY0NDE1LC05NDkzODUyNzcsODY5NjEy
-MjM5XX0=
+eyJoaXN0b3J5IjpbMzM5NDA5MDk3LC0xNTgyMjExODc3LC02NT
+AxMTI1MTksMTA5NjA0MzU2MywxMTE0NjgxOTg4LDYzMDUwODc5
+MywtNTQyMTEwODk4LDIxMjM0Njk4LDE5NDIxMzQxNDIsMTkwND
+UyMjc1NywxODA0NTQ5NzAyLC0xNzMyMDEwMjY0LDkxMjg2NzM2
+MiwtNTg2NjM4NTM3LDEzMzYzMzgzMjQsMTYyNDM0NzQ1MCwxOT
+kxOTg1Nzg2LC0zMzUwNjQ0MTUsLTk0OTM4NTI3Nyw4Njk2MTIy
+MzldfQ==
 -->
