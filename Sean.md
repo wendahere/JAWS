@@ -180,17 +180,17 @@ Firstly, I researched about the module to understand about how to use it to powe
 1. The TP4056 module only supports one cell or parallel charging and **if I were to use two batteries I would need to have two modules**
 2. If you were to charge multiple batteries in parallel, the voltages of the batteries must be *almost identical* as batteries have different charging capacities so while one battery may be full, the other battery in parallel may be still charging. This causes overcharging in that one battery and it will damage and reduce the life of that battery faster. **Thus, I can't use batteries with different voltages**
 3. If batteries were connected in series, they would not drain simultaneously, instead, the first battery would be the one to drain first. **Thus, the batteries would be in different voltages and would lead to overcharging. So all the more to get another charging module.**
-4. I
+4. Reading the datasheet for the charging module, I found out that the datasheet
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzMzMDY0MzQsLTE1ODIyMTE4NzcsLT
-Y1MDExMjUxOSwxMDk2MDQzNTYzLDExMTQ2ODE5ODgsNjMwNTA4
-NzkzLC01NDIxMTA4OTgsMjEyMzQ2OTgsMTk0MjEzNDE0MiwxOT
-A0NTIyNzU3LDE4MDQ1NDk3MDIsLTE3MzIwMTAyNjQsOTEyODY3
-MzYyLC01ODY2Mzg1MzcsMTMzNjMzODMyNCwxNjI0MzQ3NDUwLD
-E5OTE5ODU3ODYsLTMzNTA2NDQxNSwtOTQ5Mzg1Mjc3LDg2OTYx
-MjIzOV19
+eyJoaXN0b3J5IjpbNzQ0MjYzNjcyLC0xNTgyMjExODc3LC02NT
+AxMTI1MTksMTA5NjA0MzU2MywxMTE0NjgxOTg4LDYzMDUwODc5
+MywtNTQyMTEwODk4LDIxMjM0Njk4LDE5NDIxMzQxNDIsMTkwND
+UyMjc1NywxODA0NTQ5NzAyLC0xNzMyMDEwMjY0LDkxMjg2NzM2
+MiwtNTg2NjM4NTM3LDEzMzYzMzgzMjQsMTYyNDM0NzQ1MCwxOT
+kxOTg1Nzg2LC0zMzUwNjQ0MTUsLTk0OTM4NTI3Nyw4Njk2MTIy
+MzldfQ==
 -->
