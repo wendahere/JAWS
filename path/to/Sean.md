@@ -182,17 +182,17 @@ Firstly, I researched about the module to understand about how to use it to powe
 3. If batteries were connected in series, they would not drain simultaneously, instead, the first battery would be the one to drain first. **Thus, the batteries would be in different voltages and would lead to overcharging. So all the more to get another charging module.**
 4. Reading the datasheet for the charging module, I found out that it has battery protection, meaning that it has a measure to deal with overcharging. However, the module battery protection only kicks in if the battery's voltage has reached 4.2 volts. **That means if my battery's max voltage(achieved when it reaches max capacity) is less than 4.2 volts, the battery is not protected at all, casuing overcharging**
 
-To conclude, I would need a cicu
+To conclude, I would need a circuit 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5NDA5MDk3LC0xNTgyMjExODc3LC02NT
-AxMTI1MTksMTA5NjA0MzU2MywxMTE0NjgxOTg4LDYzMDUwODc5
-MywtNTQyMTEwODk4LDIxMjM0Njk4LDE5NDIxMzQxNDIsMTkwND
-UyMjc1NywxODA0NTQ5NzAyLC0xNzMyMDEwMjY0LDkxMjg2NzM2
-MiwtNTg2NjM4NTM3LDEzMzYzMzgzMjQsMTYyNDM0NzQ1MCwxOT
-kxOTg1Nzg2LC0zMzUwNjQ0MTUsLTk0OTM4NTI3Nyw4Njk2MTIy
-MzldfQ==
+eyJoaXN0b3J5IjpbLTEyOTE5Mjc2MzgsMzM5NDA5MDk3LC0xNT
+gyMjExODc3LC02NTAxMTI1MTksMTA5NjA0MzU2MywxMTE0Njgx
+OTg4LDYzMDUwODc5MywtNTQyMTEwODk4LDIxMjM0Njk4LDE5ND
+IxMzQxNDIsMTkwNDUyMjc1NywxODA0NTQ5NzAyLC0xNzMyMDEw
+MjY0LDkxMjg2NzM2MiwtNTg2NjM4NTM3LDEzMzYzMzgzMjQsMT
+YyNDM0NzQ1MCwxOTkxOTg1Nzg2LC0zMzUwNjQ0MTUsLTk0OTM4
+NTI3N119
 -->
