@@ -185,11 +185,14 @@ Firstly, I researched about the module to understand about how to use it to powe
 To conclude, I would need to make two modes for my power circuit, the first mode is for charging which i will call rest mode, the second mode is for outputing the power to the rest of the components, I will call this active mode.
 The first circuit design I created was inspired from [this video.](https://www.youtube.com/watch?v=rpRYNMrVCk0) It looks like this:
 
+There were two problems:
+1. There are 
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA3Nzg5NjEsLTIwMDk2MjE3NjEsLT
+eyJoaXN0b3J5IjpbLTE2ODg5NjM3MjksLTIwMDk2MjE3NjEsLT
 Q2MTA4NjA3MSw3MzgyOTMyMDYsMTUzOTQ3NzQwOSwtMTI5MTky
 NzYzOCwzMzk0MDkwOTcsLTE1ODIyMTE4NzcsLTY1MDExMjUxOS
 wxMDk2MDQzNTYzLDExMTQ2ODE5ODgsNjMwNTA4NzkzLC01NDIx
