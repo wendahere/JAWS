@@ -186,17 +186,19 @@ To conclude, I would need to make two modes for my power circuit, the first mode
 The first circuit design I created was inspired from [this video.](https://www.youtube.com/watch?v=rpRYNMrVCk0) It looks like this:
 
 There were two problems:
-1. There are 
+1. It does not charge properly
+
+2. It 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODg5NjM3MjksLTIwMDk2MjE3NjEsLT
-Q2MTA4NjA3MSw3MzgyOTMyMDYsMTUzOTQ3NzQwOSwtMTI5MTky
-NzYzOCwzMzk0MDkwOTcsLTE1ODIyMTE4NzcsLTY1MDExMjUxOS
-wxMDk2MDQzNTYzLDExMTQ2ODE5ODgsNjMwNTA4NzkzLC01NDIx
-MTA4OTgsMjEyMzQ2OTgsMTk0MjEzNDE0MiwxOTA0NTIyNzU3LD
-E4MDQ1NDk3MDIsLTE3MzIwMTAyNjQsOTEyODY3MzYyLC01ODY2
-Mzg1MzddfQ==
+eyJoaXN0b3J5IjpbOTM3MTkyMjM4LC0yMDA5NjIxNzYxLC00Nj
+EwODYwNzEsNzM4MjkzMjA2LDE1Mzk0Nzc0MDksLTEyOTE5Mjc2
+MzgsMzM5NDA5MDk3LC0xNTgyMjExODc3LC02NTAxMTI1MTksMT
+A5NjA0MzU2MywxMTE0NjgxOTg4LDYzMDUwODc5MywtNTQyMTEw
+ODk4LDIxMjM0Njk4LDE5NDIxMzQxNDIsMTkwNDUyMjc1NywxOD
+A0NTQ5NzAyLC0xNzMyMDEwMjY0LDkxMjg2NzM2MiwtNTg2NjM4
+NTM3XX0=
 -->
