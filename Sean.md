@@ -174,9 +174,9 @@ It was honestly quite hard and I took quite long to get a working power circuit 
 
 My lecturer gave us a TP4056 charging module and two 3.7V 18650 lithium ion batteries to start with our project.
 
-Firstly, I researched about the mo
+Firstly, I researched about the module to understand about how to charge it better. Tried to see the spreadsheet and youtube videos about it wh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NjQzNTA1MiwtNjUwMTEyNTE5LDEwOT
+eyJoaXN0b3J5IjpbMTcwMDQyMjk2MiwtNjUwMTEyNTE5LDEwOT
 YwNDM1NjMsMTExNDY4MTk4OCw2MzA1MDg3OTMsLTU0MjExMDg5
 OCwyMTIzNDY5OCwxOTQyMTM0MTQyLDE5MDQ1MjI3NTcsMTgwND
 U0OTcwMiwtMTczMjAxMDI2NCw5MTI4NjczNjIsLTU4NjYzODUz
