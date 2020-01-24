@@ -134,13 +134,13 @@ ii) If it is working correctly, type ```pip install esptool``` into the command 
 iii) After that, type in the command ```esptool.py --port /dev/ttyUSB0 erase_flash``` if you are a mac user and ```esptool.py --port COM(port number) erase_flash``` if you are a windows user. if you do not know how to find a port number click [here](https://www.youtube.com/watch?v=VGW2dCGNBD0).
 
 iv) After that, go to this [page](http://micropython.org/download#esp32)
-  download 
-  s will be the firmware that your ESP32 can use micropython. **Make sure you remeber where you save the file your going to path it later**
+  download will be the firmware that your ESP32 can use micropython. **Make sure you remeber where you save the file your going to path it later**
+  
 v) After that is done, type in ```esptool.py --chip esp32 --port /dev/ttyUSB0 write_flash -z 0x1000 (firmware file name)``` if you are a mac user and ```esptool.py --chip esp32 --port COM(port number) write_flash -z 0x1000 (firmware file name, need to path it)``` .
 
-vi)After that it will download the programe and now you have micropython on your ESP32
+vi) After that it will download the programe and now you have micropython on your ESP32
 
-
+vii) Then, you can step up the web server,
 
 # Week 5
 ## Reflection
@@ -198,7 +198,7 @@ Thus, I needed to change the power circuit and that
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDU3MTM2NSwtMjAwOTYyMTc2MSwtND
+eyJoaXN0b3J5IjpbMTM2MzYwOTE2MCwtMjAwOTYyMTc2MSwtND
 YxMDg2MDcxLDczODI5MzIwNiwxNTM5NDc3NDA5LC0xMjkxOTI3
 NjM4LDMzOTQwOTA5NywtMTU4MjIxMTg3NywtNjUwMTEyNTE5LD
 EwOTYwNDM1NjMsMTExNDY4MTk4OCw2MzA1MDg3OTMsLTU0MjEx
