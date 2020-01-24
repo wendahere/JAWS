@@ -208,13 +208,12 @@ AC Source -> Level Conversion (Transformer) ->Rectifer (AC to DC) -> Voltage reg
 
 Wi-Fi Manager is not in the MicroPython library so we need to upload it ourself.
 
--> Firstly, check your Port & Micropython **(Search on your computer Device Manager then click on Port)**/**(Tools...Options...Interpreter)**
+&rarr; Firstly, check your Port & Micropython **(Search on your computer Device Manager then click on Port)**/**(Tools...Options...Interpreter)**
 
--> Secondly, [Copy This To Your Thonny](https://raw.githubusercontent.com/tayfunulu/WiFiManager/master/wifimgr.py) & save this file in **Micropython Device as wifimgr.py**
+&rarr; Secondly, [Copy This To Your Thonny](https://raw.githubusercontent.com/tayfunulu/WiFiManager/master/wifimgr.py) & save this file in **Mi&rarr;cropython Device as wifimgr.py**
+&rarr; Thirdly, [Open new file and Paste This File](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutorials/master/Projects/ESP-MicroPython/esp_wifimanager_example.py) & save this file in **Micropython Device as Main.py**
 
--> Thirdly, [Open new file and Paste This File](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutorials/master/Projects/ESP-MicroPython/esp_wifimanager_example.py) & save this file in **Micropython Device as Main.py**
-
--> Next, Press EN button on ESP32 and check your wifi settings on your computer, it will state as **WifiManager and Password is tayfunulu**
+&rarr; Next, Press EN button on ESP32 and check your wifi settings on your computer, it will state as **WifiManager and Password is tayfunulu**
 
 > #### Micropython Shell Will Show This
 > Connect to WiFi ssid WifiManager, default password: tayfunulu
@@ -223,9 +222,9 @@ Wi-Fi Manager is not in the MicroPython library so we need to upload it ourself.
 
 **In case, there is a socket left open, Reset the ESP32 with machine.reset(). This will “forget” the open socket**
 
--> When connected to the WifiManager, open your google chrome and paste 192.168.4.1. Next, choose a local network then enter the password to get access to the Wifi. **Getting a note stating: ESP Successfully connected to Wifi network**
+&rarr; When connected to the WifiManager, open your google chrome and paste 192.168.4.1. Next, choose a local network then enter the password to get access to the Wifi. **Getting a note stating: ESP Successfully connected to Wifi network**
 
--> Lastly, Reopen your browser and type the IP Address and you will get full access for ESP32 GPIO.
+&rarr; Lastly, Reopen your browser and type the IP Address and you will get full access for ESP32 GPIO.
 
 **WEEK 15**
 
