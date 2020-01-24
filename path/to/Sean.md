@@ -162,10 +162,10 @@ in the holiday blog. to learn about power sources, watch this video [here](https
 ## Reflection for mechanical homework
 Looking back at week 6, the design I chose was [the woodpecker](https://www.youtube.com/watch?v=zqnzgwYDKLY) and     ,[Straight line drawing mechanism 9](https://www.youtube.com/watch?v=Zwwnr262Wlc) from [Mr Thang's youtube channel](https://www.youtube.com/channel/UCli_RJkGWfZvw4IlDLHNCQg). The woodpecker was really hard as the woodpecker toy moves by gravity and it is a very unique motion. Even Mr Tune, the lecturer that assigned me this task, also did not know how to do this in fusion 360 so i gave up on creating motion links for thisdesign and instead did the other one.
 This one was actually much easier as because it only includes three types of joints: slide, revolution and ridgid.
-The hardest part of me was that you need to be very presice with the measurement if not you would have a straight line
+The hardest part of me was that you need to be very presice with the measurement if not you would have a straight line so reviewing the original file helped a lot
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODEyOTE5OCwxOTA0NTIyNzU3LDE4MD
+eyJoaXN0b3J5IjpbMTk0MjEzNDE0MiwxOTA0NTIyNzU3LDE4MD
 Q1NDk3MDIsLTE3MzIwMTAyNjQsOTEyODY3MzYyLC01ODY2Mzg1
 MzcsMTMzNjMzODMyNCwxNjI0MzQ3NDUwLDE5OTE5ODU3ODYsLT
 MzNTA2NDQxNSwtOTQ5Mzg1Mjc3LDg2OTYxMjIzOSw2MDU5OTk5
