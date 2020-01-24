@@ -170,14 +170,14 @@ The hardest part of me was that you need to be very presice with the measurement
 
 
 ## Reflection for electronics homework
-For the powe 
+For the power requirements, my team and I 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDY4MTk4OCw2MzA1MDg3OTMsLTU0Mj
-ExMDg5OCwyMTIzNDY5OCwxOTQyMTM0MTQyLDE5MDQ1MjI3NTcs
-MTgwNDU0OTcwMiwtMTczMjAxMDI2NCw5MTI4NjczNjIsLTU4Nj
-YzODUzNywxMzM2MzM4MzI0LDE2MjQzNDc0NTAsMTk5MTk4NTc4
-NiwtMzM1MDY0NDE1LC05NDkzODUyNzcsODY5NjEyMjM5LDYwNT
-k5OTkyNiwtNjcwMzg1MTg0LDQwMDM3MDg1LC02MDU5MTAxMl19
-
+eyJoaXN0b3J5IjpbMTA5NjA0MzU2MywxMTE0NjgxOTg4LDYzMD
+UwODc5MywtNTQyMTEwODk4LDIxMjM0Njk4LDE5NDIxMzQxNDIs
+MTkwNDUyMjc1NywxODA0NTQ5NzAyLC0xNzMyMDEwMjY0LDkxMj
+g2NzM2MiwtNTg2NjM4NTM3LDEzMzYzMzgzMjQsMTYyNDM0NzQ1
+MCwxOTkxOTg1Nzg2LC0zMzUwNjQ0MTUsLTk0OTM4NTI3Nyw4Nj
+k2MTIyMzksNjA1OTk5OTI2LC02NzAzODUxODQsNDAwMzcwODVd
+fQ==
 -->
