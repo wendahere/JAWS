@@ -172,9 +172,11 @@ The hardest part of me was that you need to be very presice with the measurement
 ## Reflection for electronics homework
 It was honestly quite hard and I took quite long to get a working power circuit as I did not want to remove the batteries while charging.
 
-My lecturer gave us a TP4056 charging module and two litiumlithium ion battery
+My lecturer gave us a TP4056 charging module and two 3.7V 18650 lithium ion batteries to start with our project.
+
+Firstly, I researched about the mode
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5OTY0MjQwLC02NTAxMTI1MTksMTA5Nj
+eyJoaXN0b3J5IjpbNjAzODYwMjM1LC02NTAxMTI1MTksMTA5Nj
 A0MzU2MywxMTE0NjgxOTg4LDYzMDUwODc5MywtNTQyMTEwODk4
 LDIxMjM0Njk4LDE5NDIxMzQxNDIsMTkwNDUyMjc1NywxODA0NT
 Q5NzAyLC0xNzMyMDEwMjY0LDkxMjg2NzM2MiwtNTg2NjM4NTM3
