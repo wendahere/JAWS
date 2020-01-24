@@ -318,14 +318,14 @@ Electronics &rarr; Sean
 Look at each of our blogs to see what we did!
 
 ## Week 15
-This week our lecturer, Mr Tune, gave us a task. Make the 
+This week our lecturer, Mr Tune, gave us a task. Make the entire chasis, incuding the motors, nuts, and all the washers. We managed to finish it on time. We also found out that the end goal for usi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU2NTczNzQsLTMyNzA0ODAyNiwtMz
-Y0NjE2MDEyLC0xMTc4Mzk1NjE4LDE4NDg3MzM1NjQsMzc1MTI0
-NjMwLC0yMDg5ODY5NTk1LC02OTI4Mjk1NTksLTE4NTE5MzI4OD
-AsMjA3NDI2OTc1MiwtMTUzMDcxNjg5NywtNjIyMTIxMTIxLDE4
-MDYwNjM5MjcsLTE1NzM1MzA2MTIsMjU4ODk0NzMyLC0xNTczNT
-MwNjEyXX0=
+eyJoaXN0b3J5IjpbMTUwMTI5MjAxOSwtMzI3MDQ4MDI2LC0zNj
+Q2MTYwMTIsLTExNzgzOTU2MTgsMTg0ODczMzU2NCwzNzUxMjQ2
+MzAsLTIwODk4Njk1OTUsLTY5MjgyOTU1OSwtMTg1MTkzMjg4MC
+wyMDc0MjY5NzUyLC0xNTMwNzE2ODk3LC02MjIxMjExMjEsMTgw
+NjA2MzkyNywtMTU3MzUzMDYxMiwyNTg4OTQ3MzIsLTE1NzM1Mz
+A2MTJdfQ==
 -->
