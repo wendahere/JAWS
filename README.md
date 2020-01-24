@@ -2,7 +2,7 @@
 >**SP Engineering Academy Year 2, Sem 2, Engineering Realisation Project**
 - [x] Discuss about our Problem Statement,Features,Reasons(mainly 3 reasons for the society)& who.
 - [x] Everyone learn about Markdown Guide
-- [ ] Meet up frequently to do our prototype during the Holidays (so that we dont do last minute)
+- [x] Meet up frequently to do our prototype during the Holidays (so that we dont do last minute)
 - [ ] Presentation Slides & Prototype ready to show off
 - [ ] Ready to Impress Everyone!!
 
@@ -315,10 +315,11 @@ During the holiday time, we each were doing our own parts for the track vehicle:
 Mechanical &rarr; Allen and Wen Da
 Coding &rarr; Jayvien and Wen Da
 Electronics &rarr; Sean
+Look at each of our blogs to see what we did!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzgwMTcxNTQsLTMyNzA0ODAyNiwtMz
+eyJoaXN0b3J5IjpbLTE5NzI2ODQwMjUsLTMyNzA0ODAyNiwtMz
 Y0NjE2MDEyLC0xMTc4Mzk1NjE4LDE4NDg3MzM1NjQsMzc1MTI0
 NjMwLC0yMDg5ODY5NTk1LC02OTI4Mjk1NTksLTE4NTE5MzI4OD
 AsMjA3NDI2OTc1MiwtMTUzMDcxNjg5NywtNjIyMTIxMTIxLDE4
