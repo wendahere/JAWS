@@ -182,13 +182,13 @@ Firstly, I researched about the module to understand about how to use it to powe
 3. If batteries were connected in series, they would not drain simultaneously, instead, the first battery would be the one to drain first. **Thus, the batteries would be in different voltages and would lead to overcharging. So all the more to get another charging module.**
 4. Reading the datasheet for the charging module, I found out that it has battery protection, meaning that it has a measure to deal with overcharging. However, the module battery protection only kicks in if the battery's voltage has reached 4.2 volts. **That means if my battery's max voltage(achieved when it reaches max capacity) is less than 4.2 volts, the battery is not protected at all, casuing overcharging**
 
-To conclude, I would need to make two modes for my power circuit, the first mode is for charging, the second mode is for powering up the moter
+To conclude, I would need to make two modes for my power circuit, the first mode is for charging, the second mode is for outputing the power to the rest of the components
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3NTIxMTczLDE1Mzk0Nzc0MDksLTEyOT
+eyJoaXN0b3J5IjpbNzM4MjkzMjA2LDE1Mzk0Nzc0MDksLTEyOT
 E5Mjc2MzgsMzM5NDA5MDk3LC0xNTgyMjExODc3LC02NTAxMTI1
 MTksMTA5NjA0MzU2MywxMTE0NjgxOTg4LDYzMDUwODc5MywtNT
 QyMTEwODk4LDIxMjM0Njk4LDE5NDIxMzQxNDIsMTkwNDUyMjc1
