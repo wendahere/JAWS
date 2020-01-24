@@ -311,11 +311,11 @@ This [link](https://docs.google.com/presentation/d/1G-Mtn2crr3oMn-h9OzoTzIzBxInW
 _insert feedback here_
 
 ## Week 8-14
-During the holiday time, we each were doing our own parts and have the 
+During the holiday time, we each were doing our own parts for the track vehicle and we 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTEyODIyNCwtMzI3MDQ4MDI2LC0zNj
+eyJoaXN0b3J5IjpbMTU0NzMzODA4NCwtMzI3MDQ4MDI2LC0zNj
 Q2MTYwMTIsLTExNzgzOTU2MTgsMTg0ODczMzU2NCwzNzUxMjQ2
 MzAsLTIwODk4Njk1OTUsLTY5MjgyOTU1OSwtMTg1MTkzMjg4MC
 wyMDc0MjY5NzUyLC0xNTMwNzE2ODk3LC02MjIxMjExMjEsMTgw
