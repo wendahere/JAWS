@@ -177,13 +177,14 @@ My lecturer gave us a TP4056 charging module and two 3.7V 18650 lithium ion batt
 Firstly, I researched about the module to understand about how to use it to power the track vehicle. I tried
  to see the [datasheet](http://www.haoyuelectronics.com/Attachment/TP4056-modules/TP4056.pdf) and youtube videos about it and I realised a couple of things:
 
-1. if 
+1. The TP4056 module only supports one cell charging and if I were to use two batteries I would need to have two modules
+2. The TP4056 o
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTE2Mzc5OCwtNjUwMTEyNTE5LDEwOT
+eyJoaXN0b3J5IjpbMTE4Mzk3ODYyOCwtNjUwMTEyNTE5LDEwOT
 YwNDM1NjMsMTExNDY4MTk4OCw2MzA1MDg3OTMsLTU0MjExMDg5
 OCwyMTIzNDY5OCwxOTQyMTM0MTQyLDE5MDQ1MjI3NTcsMTgwND
 U0OTcwMiwtMTczMjAxMDI2NCw5MTI4NjczNjIsLTU4NjYzODUz
