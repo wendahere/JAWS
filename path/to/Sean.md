@@ -166,14 +166,15 @@ The hardest part of me was that you need to be very presice with the measurement
 
 #### Lessons learnt:
 1. If you were designing a new design or recreating a certian design. It is best that you should try to source exsisting designs of certian things like gears to save time in your designing phase.
-2. Try to get a design that is not ext
+2. Try to get a design that is not extremely hard if you are under a dateline cause its going to be very hard to emulate it.
+3. If you are doing exsisting designs, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyODY1ODY1LDYzMDUwODc5MywtNTQyMT
-EwODk4LDIxMjM0Njk4LDE5NDIxMzQxNDIsMTkwNDUyMjc1Nywx
-ODA0NTQ5NzAyLC0xNzMyMDEwMjY0LDkxMjg2NzM2MiwtNTg2Nj
-M4NTM3LDEzMzYzMzgzMjQsMTYyNDM0NzQ1MCwxOTkxOTg1Nzg2
-LC0zMzUwNjQ0MTUsLTk0OTM4NTI3Nyw4Njk2MTIyMzksNjA1OT
-k5OTI2LC02NzAzODUxODQsNDAwMzcwODUsLTYwNTkxMDEyXX0=
+eyJoaXN0b3J5IjpbMTk2ODk3ODA4OSw2MzA1MDg3OTMsLTU0Mj
+ExMDg5OCwyMTIzNDY5OCwxOTQyMTM0MTQyLDE5MDQ1MjI3NTcs
+MTgwNDU0OTcwMiwtMTczMjAxMDI2NCw5MTI4NjczNjIsLTU4Nj
+YzODUzNywxMzM2MzM4MzI0LDE2MjQzNDc0NTAsMTk5MTk4NTc4
+NiwtMzM1MDY0NDE1LC05NDkzODUyNzcsODY5NjEyMjM5LDYwNT
+k5OTkyNiwtNjcwMzg1MTg0LDQwMDM3MDg1LC02MDU5MTAxMl19
 
 -->
