@@ -165,14 +165,15 @@ This one was actually much easier as because it only includes three types of joi
 The hardest part of me was that you need to be very presice with the measurement if not you would have a straight line so reviewing the original file helped a lot in recreating the deisgn
 
 #### Lessons learnt:
-1. If you were designing a new design or recreating a certian design. It is best that you should try to source exsisting designs of certian things like motors or the original files of the items
+1. If you were designing a new design or recreating a certian design. It is best that you should try to source exsisting designs of certian things like gears to save thime in your designing phase.
+2. You need to have a 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwNTA4NzkzLC01NDIxMTA4OTgsMjEyMz
-Q2OTgsMTk0MjEzNDE0MiwxOTA0NTIyNzU3LDE4MDQ1NDk3MDIs
-LTE3MzIwMTAyNjQsOTEyODY3MzYyLC01ODY2Mzg1MzcsMTMzNj
-MzODMyNCwxNjI0MzQ3NDUwLDE5OTE5ODU3ODYsLTMzNTA2NDQx
-NSwtOTQ5Mzg1Mjc3LDg2OTYxMjIzOSw2MDU5OTk5MjYsLTY3MD
-M4NTE4NCw0MDAzNzA4NSwtNjA1OTEwMTIsMTQ2MzAxNDY0OF19
+eyJoaXN0b3J5IjpbNTEyMDY1NjEwLDYzMDUwODc5MywtNTQyMT
+EwODk4LDIxMjM0Njk4LDE5NDIxMzQxNDIsMTkwNDUyMjc1Nywx
+ODA0NTQ5NzAyLC0xNzMyMDEwMjY0LDkxMjg2NzM2MiwtNTg2Nj
+M4NTM3LDEzMzYzMzgzMjQsMTYyNDM0NzQ1MCwxOTkxOTg1Nzg2
+LC0zMzUwNjQ0MTUsLTk0OTM4NTI3Nyw4Njk2MTIyMzksNjA1OT
+k5OTI2LC02NzAzODUxODQsNDAwMzcwODUsLTYwNTkxMDEyXX0=
 
 -->
