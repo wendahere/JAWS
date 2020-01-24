@@ -140,9 +140,8 @@ v) After that is done, type in ```esptool.py --chip esp32 --port /dev/ttyUSB0 wr
 
 vi) After that it will download the programe and now you have micropython on your ESP32
 
-vii) Then, you can step up the web server,**Wifi-Client**: [](https://randomnerdtutorials.com/micropython-wi-fi-manager-esp32-esp8266/) 
-[Copy This To Your Thonny](https://raw.githubusercontent.com/tayfunulu/WiFiManager/master/wifimgr.py) & save this file in **Mi&rarr;cropython Device as wifimgr.py**
-&rarr; Thirdly, [Open new file and Paste This File](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutorials/master/Projects/ESP-MicroPython/esp_wifimanager_example.py) & save this file in **Micropython Device as Main.py**
+vii) Then, you can step up the web server,**Wifi-Client**: [The full tutorial here.](https://randomnerdtutorials.com/micropython-wi-fi-manager-esp32-esp8266/) But otherwise, [copy this to your Thonny](https://raw.githubusercontent.com/tayfunulu/WiFiManager/master/wifimgr.py) & save this file in your **Micropython Device as wifimgr.py**
+[Open new file and Paste This File](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutorials/master/Projects/ESP-MicroPython/esp_wifimanager_example.py) & save this file in **Micropython Device as Main.py**
 
 &rarr; Next, Press EN button on ESP32 and check your wifi settings on your computer, it will state as **WifiManager and Password is tayfunulu**
 
@@ -214,7 +213,7 @@ Thus, I needed to change the power circuit and that
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTkyNjkxNTksLTIwMDk2MjE3NjEsLT
+eyJoaXN0b3J5IjpbLTE4NTI1ODEzNTksLTIwMDk2MjE3NjEsLT
 Q2MTA4NjA3MSw3MzgyOTMyMDYsMTUzOTQ3NzQwOSwtMTI5MTky
 NzYzOCwzMzk0MDkwOTcsLTE1ODIyMTE4NzcsLTY1MDExMjUxOS
 wxMDk2MDQzNTYzLDExMTQ2ODE5ODgsNjMwNTA4NzkzLC01NDIx
