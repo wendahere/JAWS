@@ -178,13 +178,13 @@ Firstly, I researched about the module to understand about how to use it to powe
  to see the [datasheet](http://www.haoyuelectronics.com/Attachment/TP4056-modules/TP4056.pdf) and youtube videos about it and I realised a couple of things:
 
 1. The TP4056 module only supports one cell or parallel charging and if I were to use two batteries I would need to have two modules
-2. if you were to charge multiple batteries in parallel, the voltages of the batteries must be **almost identical** if not there would be damages to the batteries as overchaging the battery will casue 
+2. if you were to charge multiple batteries in parallel, the voltages of the batteries must be **almost identical** as batteries have different charging capacities so charging a batteries with two 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0MTE2MzU2LC02NTAxMTI1MTksMTA5Nj
+eyJoaXN0b3J5IjpbOTE3MjIxMjI5LC02NTAxMTI1MTksMTA5Nj
 A0MzU2MywxMTE0NjgxOTg4LDYzMDUwODc5MywtNTQyMTEwODk4
 LDIxMjM0Njk4LDE5NDIxMzQxNDIsMTkwNDUyMjc1NywxODA0NT
 Q5NzAyLC0xNzMyMDEwMjY0LDkxMjg2NzM2MiwtNTg2NjM4NTM3
