@@ -182,13 +182,13 @@ Firstly, I researched about the module to understand about how to use it to powe
 3. If batteries were connected in series, they would not drain simultaneously, instead, the first battery would be the one to drain first. **Thus, the batteries would be in different voltages and would lead to overcharging. So all the more to get another charging module.**
 4. Reading the datasheet for the charging module, I found out that it has battery protection, meaning that it has a measure to deal with overcharging. However, the module battery protection only kicks in if the battery's voltage has reached 4.2 volts. **That means if my battery's max voltage(achieved when it reaches max capacity) is less than 4.2 volts, the battery is not protected at all, casuing overcharging**
 
-To conclude, I would need a circuit that charge
+To conclude, I would need a circuit that 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODk4OTEzOSwtMTI5MTkyNzYzOCwzMz
+eyJoaXN0b3J5IjpbMTUzOTQ3NzQwOSwtMTI5MTkyNzYzOCwzMz
 k0MDkwOTcsLTE1ODIyMTE4NzcsLTY1MDExMjUxOSwxMDk2MDQz
 NTYzLDExMTQ2ODE5ODgsNjMwNTA4NzkzLC01NDIxMTA4OTgsMj
 EyMzQ2OTgsMTk0MjEzNDE0MiwxOTA0NTIyNzU3LDE4MDQ1NDk3
