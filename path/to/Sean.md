@@ -170,14 +170,14 @@ The hardest part of me was that you need to be very presice with the measurement
 
 
 ## Reflection for electronics homework
-It was honestly quite hard and I took quite long to get a working circuit. I was
+It was honestly quite hard and I took quite long to get a working circuit. I wanted our charging station 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDY5NjYzLDEwOTYwNDM1NjMsMTExND
-Y4MTk4OCw2MzA1MDg3OTMsLTU0MjExMDg5OCwyMTIzNDY5OCwx
-OTQyMTM0MTQyLDE5MDQ1MjI3NTcsMTgwNDU0OTcwMiwtMTczMj
-AxMDI2NCw5MTI4NjczNjIsLTU4NjYzODUzNywxMzM2MzM4MzI0
-LDE2MjQzNDc0NTAsMTk5MTk4NTc4NiwtMzM1MDY0NDE1LC05ND
-kzODUyNzcsODY5NjEyMjM5LDYwNTk5OTkyNiwtNjcwMzg1MTg0
-XX0=
+eyJoaXN0b3J5IjpbLTE2MTkyNzM5MDIsMTA5NjA0MzU2MywxMT
+E0NjgxOTg4LDYzMDUwODc5MywtNTQyMTEwODk4LDIxMjM0Njk4
+LDE5NDIxMzQxNDIsMTkwNDUyMjc1NywxODA0NTQ5NzAyLC0xNz
+MyMDEwMjY0LDkxMjg2NzM2MiwtNTg2NjM4NTM3LDEzMzYzMzgz
+MjQsMTYyNDM0NzQ1MCwxOTkxOTg1Nzg2LC0zMzUwNjQ0MTUsLT
+k0OTM4NTI3Nyw4Njk2MTIyMzksNjA1OTk5OTI2LC02NzAzODUx
+ODRdfQ==
 -->
