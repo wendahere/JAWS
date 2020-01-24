@@ -165,12 +165,12 @@ This one was actually much easier as because it only includes three types of joi
 The hardest part of me was that you need to be very presice with the measurement if not you would have a straight line so reviewing the original file helped a lot in recreating the deisgn
 
 #### Lessons learnt:
-1. If you were designing a new design or 
+1. If you were designing a new design or recreating a certian design. It is best that you should try to source designs of certian t
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjQ0NTc1OSwyMTIzNDY5OCwxOTQyMT
-M0MTQyLDE5MDQ1MjI3NTcsMTgwNDU0OTcwMiwtMTczMjAxMDI2
-NCw5MTI4NjczNjIsLTU4NjYzODUzNywxMzM2MzM4MzI0LDE2Mj
-QzNDc0NTAsMTk5MTk4NTc4NiwtMzM1MDY0NDE1LC05NDkzODUy
-NzcsODY5NjEyMjM5LDYwNTk5OTkyNiwtNjcwMzg1MTg0XX0=
+eyJoaXN0b3J5IjpbLTE2NjcyNzM5OTUsMjEyMzQ2OTgsMTk0Mj
+EzNDE0MiwxOTA0NTIyNzU3LDE4MDQ1NDk3MDIsLTE3MzIwMTAy
+NjQsOTEyODY3MzYyLC01ODY2Mzg1MzcsMTMzNjMzODMyNCwxNj
+I0MzQ3NDUwLDE5OTE5ODU3ODYsLTMzNTA2NDQxNSwtOTQ5Mzg1
+Mjc3LDg2OTYxMjIzOSw2MDU5OTk5MjYsLTY3MDM4NTE4NF19
 -->
