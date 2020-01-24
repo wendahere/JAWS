@@ -181,7 +181,7 @@ Firstly, I researched about the module to understand about how to use it to powe
 2. If you were to charge multiple batteries in parallel, the voltages of the batteries must be *almost identical* as batteries have different charging capacities so while one battery may be full, the other battery in parallel may be still charging. This causes overcharging in that one battery and it will damage and reduce the life of that battery faster. **Thus, I can't use batteries with different voltages**
 3. If batteries were connected in series, they would not drain simultaneously, instead, the first battery would be the one to drain first. **Thus, the batteries would be in different voltages and would lead to overcharging. So all the more to get another charging module.**
 4. Reading the datasheet for the charging module, I found out that it has battery protection, meaning that it has a measure to deal with overcharging. However, the module battery protection only kicks in if the battery's voltage has reached 4.2 volts. **That means if my battery's max voltage(achieved when it reaches max capacity) is less than 4.2 volts, the battery is not protected at all, casuing overcharging**
-5. The output of the 
+5. The output of the Vout is always the voltage of one battery. **Thus, if you were to connect the negative terminal of the Vout of one module 
 To conclude, I would need to make two modes for my power circuit, the first mode is for charging which i will call rest mode, the second mode is for outputing the power to the rest of the components, I will call this active mode.
 The first circuit design I created was 
 
@@ -189,11 +189,11 @@ The first circuit design I created was
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyNTY5MDQyLC00NjEwODYwNzEsNzM4Mj
-kzMjA2LDE1Mzk0Nzc0MDksLTEyOTE5Mjc2MzgsMzM5NDA5MDk3
-LC0xNTgyMjExODc3LC02NTAxMTI1MTksMTA5NjA0MzU2MywxMT
-E0NjgxOTg4LDYzMDUwODc5MywtNTQyMTEwODk4LDIxMjM0Njk4
-LDE5NDIxMzQxNDIsMTkwNDUyMjc1NywxODA0NTQ5NzAyLC0xNz
-MyMDEwMjY0LDkxMjg2NzM2MiwtNTg2NjM4NTM3LDEzMzYzMzgz
-MjRdfQ==
+eyJoaXN0b3J5IjpbLTIwMDk2MjE3NjEsLTQ2MTA4NjA3MSw3Mz
+gyOTMyMDYsMTUzOTQ3NzQwOSwtMTI5MTkyNzYzOCwzMzk0MDkw
+OTcsLTE1ODIyMTE4NzcsLTY1MDExMjUxOSwxMDk2MDQzNTYzLD
+ExMTQ2ODE5ODgsNjMwNTA4NzkzLC01NDIxMTA4OTgsMjEyMzQ2
+OTgsMTk0MjEzNDE0MiwxOTA0NTIyNzU3LDE4MDQ1NDk3MDIsLT
+E3MzIwMTAyNjQsOTEyODY3MzYyLC01ODY2Mzg1MzcsMTMzNjMz
+ODMyNF19
 -->
