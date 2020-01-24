@@ -58,7 +58,7 @@ Arduino uses processing : https://processing.org/
 
 *1st Python website* 
 
->*Important*: Capital, Underscore,String(need ""), From math import *
+&rarr;*Important*: Capital, Underscore,String(need ""), From math import *
 
 	print("*-*") --> *-*
 	character_name = "John", character_age = 50/50.555/False.
@@ -197,10 +197,10 @@ The Author of these videos are Jamie Scherer, James Price who provide many video
 Voltages cannot be Low (Might not work properly) / Too High (Might destroy/burn)
 
 **Lithium Battery** : Good Speed control, High acceleration, High starting torque(Wide Speed Range (RPM))
-(Reacts to Air & Water) (Metal oxide + Lithium Ion = Lithium metal Oxide -> Stable) 
+(Reacts to Air & Water) (Metal oxide + Lithium Ion = Lithium metal Oxide &rarr; Stable) 
 Standard Cell (3V – 4.2V) produce a lot of heat (Use Battery Protection)
 
-AC Source -> Level Conversion (Transformer) ->Rectifer (AC to DC) -> Voltage regulator (To meet your voltage req)
+AC Source &rarr; Level Conversion (Transformer) &rarr;Rectifer (AC to DC) &rarr; Voltage regulator (To meet your voltage req)
 
 >**WEEK 8-14**
 
