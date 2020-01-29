@@ -312,9 +312,9 @@ _insert feedback here_
 
 ## Week 8-13
 During the holiday time, we each were doing our own parts for the track vehicle:
-Mechanical &rarr; Allen and Wen Da
-Coding &rarr; Jayvien and Wen Da
-Electronics &rarr; Sean
+* Mechanical &rarr; Allen and Wen Da
+* Coding &rarr; Jayvien and Wen Da
+* Electronics &rarr; Sean
 Look at each of our blogs to see what we did!
 
 ## Week 15
@@ -324,10 +324,10 @@ This week our lecturer, Mr Tune, gave us a task. Make the entire chasis, incudin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk1NDgwNDcsLTMyNzA0ODAyNiwtMz
-Y0NjE2MDEyLC0xMTc4Mzk1NjE4LDE4NDg3MzM1NjQsMzc1MTI0
-NjMwLC0yMDg5ODY5NTk1LC02OTI4Mjk1NTksLTE4NTE5MzI4OD
-AsMjA3NDI2OTc1MiwtMTUzMDcxNjg5NywtNjIyMTIxMTIxLDE4
-MDYwNjM5MjcsLTE1NzM1MzA2MTIsMjU4ODk0NzMyLC0xNTczNT
-MwNjEyXX0=
+eyJoaXN0b3J5IjpbMTgzNDczMTAyMywtMTczOTU0ODA0NywtMz
+I3MDQ4MDI2LC0zNjQ2MTYwMTIsLTExNzgzOTU2MTgsMTg0ODcz
+MzU2NCwzNzUxMjQ2MzAsLTIwODk4Njk1OTUsLTY5MjgyOTU1OS
+wtMTg1MTkzMjg4MCwyMDc0MjY5NzUyLC0xNTMwNzE2ODk3LC02
+MjIxMjExMjEsMTgwNjA2MzkyNywtMTU3MzUzMDYxMiwyNTg4OT
+Q3MzIsLTE1NzM1MzA2MTJdfQ==
 -->
