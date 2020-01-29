@@ -217,3 +217,10 @@ I will be working on the ultrasonic sensor web server control.
 #Week 16
 I had issues with the code. After researching the error message, I realized that I did not put a return on the ultrasonic sensor function. ![This is how the current html code looks like](https://raw.githubusercontent.com/wendahere/JAWS/master/Images/29-1.PNG).
 This is how the current code looks like.
+
+We were tasked to change the IP address of the esp32.
+Adding this line changes the IP address:
+ap.ifconfig(('192.168.16.4', '255.255.255.0', '192.168.16.1', '8.8.8.8'))
+
+We are group 6, this it is "16" after the second fool-stop at the IP address. 
+At first I had difficulties with this. The shell output had no error but I could not access the site, it kept writing connection failed even though it was working earlier in the morning. I realized only that I had removed all the connections and that made me unable to connect to the site. I reconnected the pins and I was able to access the site again.
