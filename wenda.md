@@ -14,7 +14,8 @@ I have downloaded both markdown and  git on my laptop so I will be using them. I
 
 # Week 2
 
-##TL:DR
+
+
 ##Conclusion: 
 My code was successful. The code can be seen below.
 
@@ -178,7 +179,7 @@ Step 4: Similar to step 3. [Open this](https://raw.githubusercontent.com/RuiSant
 
 Step 5: Press "EN" button on the ESP32 and look at the shell. If there is no error code, it is working. Check by opening wifi (bottom right) on your computer/phone. If there is "WifiManager" means it is working.
 
-![Such as this](https://raw.githubusercontent.com/wendahere/JAWS/master/Images/esp32wifi.png)
+[Such as this.](https://raw.githubusercontent.com/wendahere/JAWS/master/Images/esp32wifi.png)
 
 ### Hello World in browser.
 By default, IP Address is set to http://192.168.4.1/
@@ -190,15 +191,11 @@ Upload [this](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutor
 
 I followed this guide, [link](https://randomnerdtutorials.com/esp32-esp8266-micropython-web-server/). As my ESP32WROOM 32D has no inbuilt LED, I had to plug into a breadboard and control that LED instead. Have to change the [code](https://www.codepile.net/pile/J2GjNkVa). I modified the code such that the ESP32 does not connect to the internet but we connect to the ESP32 instead.
 
-<<<<<<< HEAD
 We completed the chassis for JAWS.
 
 #Week 14
 Milestone 1 Day.
 
-=======
-# Week 14
->>>>>>> a1a0b5163c45ba1e7f2f19acb51b09011986b144
 Coded ESP Webserver without motor controls yet. My teammate did manual control (WASD) input to control the motors. 
 [This was the code for HTML](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/motortest2withhtml.py)
 
@@ -208,7 +205,15 @@ The movement works for WASD controls, we ended up getting 75/100 for 15% of the 
 
 #Week 15
 I combined the codes to enable movement using the web server. 
-[Video](https://youtu.be/otZNYrKTPwY)
+
+
+
+[![Video!](http://img.youtube.com/vi/otZNYrKTPwY/0.jpg)](http://www.youtube.com/watch?v=otZNYrKTPwY)
+
 The circuit is powered using batteries, showing boost converter and buck converter working!
 
 I will be working on the ultrasonic sensor web server control.
+
+#Week 16
+I had issues with the code. After researching the error message, I realized that I did not put a return on the ultrasonic sensor function. ![This is how the current html code looks like](https://raw.githubusercontent.com/wendahere/JAWS/master/Images/29-1.PNG).
+This is how the current code looks like.
