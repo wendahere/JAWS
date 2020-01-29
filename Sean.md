@@ -209,17 +209,17 @@ There were two problems:
 1. It does not charge properly
 2. It does not output 8V and the voltage was always decreasing. It also does not have current flowing through when it is at active mode.
 
-Thus, I needed to change the power circuit and that 
+Thus, I needed to change the power circuit and that [[T
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDczNzM4MCwtMjAwOTYyMTc2MSwtND
-YxMDg2MDcxLDczODI5MzIwNiwxNTM5NDc3NDA5LC0xMjkxOTI3
-NjM4LDMzOTQwOTA5NywtMTU4MjIxMTg3NywtNjUwMTEyNTE5LD
-EwOTYwNDM1NjMsMTExNDY4MTk4OCw2MzA1MDg3OTMsLTU0MjEx
-MDg5OCwyMTIzNDY5OCwxOTQyMTM0MTQyLDE5MDQ1MjI3NTcsMT
-gwNDU0OTcwMiwtMTczMjAxMDI2NCw5MTI4NjczNjIsLTU4NjYz
-ODUzN119
+eyJoaXN0b3J5IjpbLTIwMDk2ODE0MjgsMTQ0NDczNzM4MCwtMj
+AwOTYyMTc2MSwtNDYxMDg2MDcxLDczODI5MzIwNiwxNTM5NDc3
+NDA5LC0xMjkxOTI3NjM4LDMzOTQwOTA5NywtMTU4MjIxMTg3Ny
+wtNjUwMTEyNTE5LDEwOTYwNDM1NjMsMTExNDY4MTk4OCw2MzA1
+MDg3OTMsLTU0MjExMDg5OCwyMTIzNDY5OCwxOTQyMTM0MTQyLD
+E5MDQ1MjI3NTcsMTgwNDU0OTcwMiwtMTczMjAxMDI2NCw5MTI4
+NjczNjJdfQ==
 -->
