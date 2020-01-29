@@ -224,3 +224,5 @@ ap.ifconfig(('192.168.16.4', '255.255.255.0', '192.168.16.1', '8.8.8.8'))
 
 We are group 6, this it is "16" after the second fool-stop at the IP address. 
 At first I had difficulties with this. The shell output had no error but I could not access the site, it kept writing connection failed even though it was working earlier in the morning. I realized only that I had removed all the connections and that made me unable to connect to the site. I reconnected the pins and I was able to access the site again.
+
+[This is the current code](https://github.com/wendahere/JAWS/blob/master/Content/MotorANDUltrasoniccodes/M%26TMARK3%23Version1.py).
