@@ -58,7 +58,7 @@ Arduino uses processing : https://processing.org/
 
 *1st Python website* 
 
->*Important*: Capital, Underscore,String(need ""), From math import *
+&rarr;*Important*: Capital, Underscore,String(need ""), From math import *
 
 	print("*-*") --> *-*
 	character_name = "John", character_age = 50/50.555/False.
@@ -197,24 +197,23 @@ The Author of these videos are Jamie Scherer, James Price who provide many video
 Voltages cannot be Low (Might not work properly) / Too High (Might destroy/burn)
 
 **Lithium Battery** : Good Speed control, High acceleration, High starting torque(Wide Speed Range (RPM))
-(Reacts to Air & Water) (Metal oxide + Lithium Ion = Lithium metal Oxide -> Stable) 
+(Reacts to Air & Water) (Metal oxide + Lithium Ion = Lithium metal Oxide &rarr; Stable) 
 Standard Cell (3V – 4.2V) produce a lot of heat (Use Battery Protection)
 
-AC Source -> Level Conversion (Transformer) ->Rectifer (AC to DC) -> Voltage regulator (To meet your voltage req)
+AC Source &rarr; Level Conversion (Transformer) &rarr;Rectifer (AC to DC) &rarr; Voltage regulator (To meet your voltage req)
 
->**WEEK 8-15**
+>**WEEK 8-14**
 
 **Wifi-Client**: [WIFI GUIDE](https://randomnerdtutorials.com/micropython-wi-fi-manager-esp32-esp8266/) 
 
 Wi-Fi Manager is not in the MicroPython library so we need to upload it ourself.
 
--> Firstly, check your Port & Micropython **(Search on your computer Device Manager then click on Port)**/**(Tools...Options...Interpreter)**
+&rarr; Firstly, check your Port & Micropython **(Search on your computer Device Manager then click on Port)**/**(Tools...Options...Interpreter)**
 
--> Secondly, [Copy This To Your Thonny](https://raw.githubusercontent.com/tayfunulu/WiFiManager/master/wifimgr.py) & save this file in **Micropython Device as wifimgr.py**
+&rarr; Secondly, [Copy This To Your Thonny](https://raw.githubusercontent.com/tayfunulu/WiFiManager/master/wifimgr.py) & save this file in **Mi&rarr;cropython Device as wifimgr.py**
+&rarr; Thirdly, [Open new file and Paste This File](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutorials/master/Projects/ESP-MicroPython/esp_wifimanager_example.py) & save this file in **Micropython Device as Main.py**
 
--> Thirdly, [Open new file and Paste This File](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutorials/master/Projects/ESP-MicroPython/esp_wifimanager_example.py) & save this file in **Micropython Device as Main.py**
-
--> Next, Press EN button on ESP32 and check your wifi settings on your computer, it will state as **WifiManager and Password is tayfunulu**
+&rarr; Next, Press EN button on ESP32 and check your wifi settings on your computer, it will state as **WifiManager and Password is tayfunulu**
 
 > #### Micropython Shell Will Show This
 > Connect to WiFi ssid WifiManager, default password: tayfunulu
@@ -223,7 +222,10 @@ Wi-Fi Manager is not in the MicroPython library so we need to upload it ourself.
 
 **In case, there is a socket left open, Reset the ESP32 with machine.reset(). This will “forget” the open socket**
 
--> When connected to the WifiManager, open your google chrome and paste 192.168.4.1. Next, choose a local network then enter the password to get access to the Wifi. **Getting a note stating: ESP Successfully connected to Wifi network**
+&rarr; When connected to the WifiManager, open your google chrome and paste 192.168.4.1. Next, choose a local network then enter the password to get access to the Wifi. **Getting a note stating: ESP Successfully connected to Wifi network**
 
--> Lastly, Reopen your browser and type the IP Address and you will get full access for ESP32 GPIO.
+&rarr; Lastly, Reopen your browser and type the IP Address and you will get full access for ESP32 GPIO.
+
+**WEEK 15**
+
 

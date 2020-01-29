@@ -134,10 +134,30 @@ ii) If it is working correctly, type ```pip install esptool``` into the command 
 iii) After that, type in the command ```esptool.py --port /dev/ttyUSB0 erase_flash``` if you are a mac user and ```esptool.py --port COM(port number) erase_flash``` if you are a windows user. if you do not know how to find a port number click [here](https://www.youtube.com/watch?v=VGW2dCGNBD0).
 
 iv) After that, go to this [page](http://micropython.org/download#esp32)
-  download 
-  s will be the firmware that your ESP32 can use micropython. **Make sure you remeber where you save the file your going to path it later**
+  download will be the firmware that your ESP32 can use micropython. **Make sure you remeber where you save the file your going to path it later**
+  
 v) After that is done, type in ```esptool.py --chip esp32 --port /dev/ttyUSB0 write_flash -z 0x1000 (firmware file name)``` if you are a mac user and ```esptool.py --chip esp32 --port COM(port number) write_flash -z 0x1000 (firmware file name, need to path it)``` .
-vi)After that it will download the programe and now you have micropython on your ESP32!!!
+
+vi) After that it will download the programe and now you have micropython on your ESP32
+
+vii) Then, you can step up the web server,**Wifi-Client**: [The full tutorial here.](https://randomnerdtutorials.com/micropython-wi-fi-manager-esp32-esp8266/) But otherwise, [copy this to your Thonny](https://raw.githubusercontent.com/tayfunulu/WiFiManager/master/wifimgr.py) & save this file in your **Micropython Device as wifimgr.py**
+[Open new file and Paste This File](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutorials/master/Projects/ESP-MicroPython/esp_wifimanager_example.py) & save this file in **Micropython Device as Main.py**
+
+Viii)Press EN button on ESP32 and check your wifi settings on your computer, it will state as **WifiManager and Password is tayfunulu**
+
+```Micropython Shell Will Show This
+Connect to WiFi ssid WifiManager, default password: tayfunulu
+(access the ESP via your favorite web browser at 192.168.4.1.)
+Listening on: ('0.0.0.0', 80)
+```
+**In the case, there is a socket left open, Reset the ESP32 with machine.reset(). This will “forget” the open socket**
+
+IX)After getting connected to the WifiManager, open your google chrome and paste 192.168.4.1. Next, choose a local network then enter the password to get access to the Wifi. **Getting a note stating: ESP Successfully connected to Wifi network**
+
+X) Reopen your browser and type the IP Address and you will get full access for ESP32 GPIO.
+
+Thats all for me, cya next week!
+
 
 # Week 5
 ## Reflection
@@ -157,15 +177,49 @@ For this week our lecturer went through on power sources more and how we should 
 in the holiday blog. to learn about power sources, watch this video [here](https://www.youtube.com/watch?v=IT19dg73nKU&feature=youtu.be). For now, see ya!
 
 # Week 8 - Week 14
+## Reflection for mechanical homework
+Looking back at week 6, the design I chose was [the woodpecker](https://www.youtube.com/watch?v=zqnzgwYDKLY) and     ,[Straight line drawing mechanism 9](https://www.youtube.com/watch?v=Zwwnr262Wlc) from [Mr Thang's youtube channel](https://www.youtube.com/channel/UCli_RJkGWfZvw4IlDLHNCQg). The woodpecker was really hard as the woodpecker toy moves by gravity and it is a very unique motion. Even Mr Tune, the lecturer that assigned me this task, also did not know how to do this in fusion 360 so i gave up on creating motion links for thisdesign and instead did the other one.
+This one was actually much easier as because it only includes three types of joints: slide, revolution and ridgid.
+The hardest part of me was that you need to be very presice with the measurement if not you would have a straight line so reviewing the original file helped a lot in recreating the deisgn
+
+#### Lessons learnt:
+1. If you were designing a new design or recreating a certian design. It is best that you should try to source exsisting designs of certian things like gears to save time in your designing phase.
+2. Try to get a design that is not extremely hard if you are under a dateline cause its going to be very hard to emulate it.
+
+
+## Reflection for electronics homework
+It was honestly quite hard and I took quite long to get a working power circuit as I did not want to remove the batteries while charging.
+
+My lecturer gave us a TP4056 charging module and two 3.7V 18650 lithium ion batteries to start with our project. **My goal was to create an internal charging station inside the track vehicle for two batteries to power the whole circuit**.
+
+Firstly, I researched about the module to understand about how to use it to power the track vehicle. I tried
+ to see the [datasheet](http://www.haoyuelectronics.com/Attachment/TP4056-modules/TP4056.pdf) and youtube videos about it and I realised a couple of things:
+
+1. The TP4056 module only supports one cell or parallel charging and **if I were to use two batteries I would need to have two modules**
+2. If you were to charge multiple batteries in parallel, the voltages of the batteries must be *almost identical* as batteries have different charging capacities so while one battery may be full, the other battery in parallel may be still charging. This causes overcharging in that one battery and it will damage and reduce the life of that battery faster. **Thus, I can't use batteries with different voltages**
+
+3. If batteries were connected in series, they would not drain simultaneously, instead, the first battery would be the one to drain first. **Thus, the batteries would be in different voltages and would lead to overcharging. So all the more to get another charging module.**
+4. Reading the datasheet for the charging module, I found out that it has battery protection, meaning that it has a measure to deal with overcharging. However, the module battery protection only kicks in if the battery's voltage has reached 4.2 volts. **That means if my battery's max voltage(achieved when it reaches max capacity) is less than 4.2 volts, the battery is not protected at all, casuing overcharging**
+5. The output of the Vout is always the voltage of one battery. **Thus, if you were to connect the negative terminal of the Vout of one module to a positive terminal of the Vout of another module, then the voltage would not add up and will still be the voltage of one battery.**
+
+To conclude, I would need to make two modes for my power circuit, the first mode is for charging which i will call rest mode, the second mode is for outputing the power to the rest of the components, I will call this active mode.
+The first circuit design I created was inspired from [this video.](https://www.youtube.com/watch?v=rpRYNMrVCk0) It looks like this:
+
+There were two problems:
+1. It does not charge properly
+2. It does not output 8V and the voltage was always decreasing. It also does not have current flowing through when it is at active mode.
+
+Thus, I needed to change the power circuit and that 
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjYzODUzNywxMzM2MzM4MzI0LDE2Mj
-QzNDc0NTAsMTk5MTk4NTc4NiwtMzM1MDY0NDE1LC05NDkzODUy
-NzcsODY5NjEyMjM5LDYwNTk5OTkyNiwtNjcwMzg1MTg0LDQwMD
-M3MDg1LC02MDU5MTAxMiwxNDYzMDE0NjQ4LDczMDM3MDk5OSwt
-NDY4OTY4MTE0LC0yOTczMzI3ODQsMzQ2NjgyMzgyLC0xNTk5Mz
-U0OSwtMTYxODAzNjU2NywtMTg1NjM5NDExMywxMTk2OTc3MzA1
-XX0=
+eyJoaXN0b3J5IjpbMTQ0NDczNzM4MCwtMjAwOTYyMTc2MSwtND
+YxMDg2MDcxLDczODI5MzIwNiwxNTM5NDc3NDA5LC0xMjkxOTI3
+NjM4LDMzOTQwOTA5NywtMTU4MjIxMTg3NywtNjUwMTEyNTE5LD
+EwOTYwNDM1NjMsMTExNDY4MTk4OCw2MzA1MDg3OTMsLTU0MjEx
+MDg5OCwyMTIzNDY5OCwxOTQyMTM0MTQyLDE5MDQ1MjI3NTcsMT
+gwNDU0OTcwMiwtMTczMjAxMDI2NCw5MTI4NjczNjIsLTU4NjYz
+ODUzN119
 -->

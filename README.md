@@ -2,7 +2,7 @@
 >**SP Engineering Academy Year 2, Sem 2, Engineering Realisation Project**
 - [x] Discuss about our Problem Statement,Features,Reasons(mainly 3 reasons for the society)& who.
 - [x] Everyone learn about Markdown Guide
-- [ ] Meet up frequently to do our prototype during the Holidays (so that we dont do last minute)
+- [x] Meet up frequently to do our prototype during the Holidays (so that we dont do last minute)
 - [ ] Presentation Slides & Prototype ready to show off
 - [ ] Ready to Impress Everyone!!
 
@@ -222,11 +222,34 @@ _placeholder text_
 
 ## Week 4 (4/11/19 - 10/11/19):
 
-Today our team recieved
+Today our team recieved our ESP32(DevKit V1) for our project. This will be the actual board that we will use for our project.
+Here's how it looks:
 ### ESP32
-![esp32_front](https://imgur.com/9oX23iu.png) ![esp32_back](https://imgur.com/aJdcXof.png)
-
+Front:
+![esp32_front](https://imgur.com/9oX23iu.png)
+ **&nbsp;**
+ Back:![esp32_back](https://imgur.com/aJdcXof.png)
+**&nbsp;**
+**&nbsp;**
+**&nbsp;**
+Here is the pin layout:
+![ESP32 board layout](https://user-images.githubusercontent.com/43029229/72858635-64df4380-3cfc-11ea-9816-811599423d33.jpeg)
+**&nbsp;**
+After that, our teacher gave us a mindmap for us that shows us the steps to download firmware and test our ESP32 with a simple code to make usre our boards are fully working
 ![Picture of Flowchart](https://imgur.com/rRrUc35.png)
+Our group downloaded the firmware and also set up the wifi server on the ESP32 by ourselves on each of [our personal blogs](https://github.com/wendahere/JAWS) we successfully lit up the LED! Here's the code:
+```
+from machine import Pin
+from time import sleep
+
+led = Pin(2, Pin.OUT)
+
+while True:
+  led.value(not led.value())
+  sleep(0.5)
+```
+credits to randomnerd tutorials
+We also did some code to light up an LED using a web server. It can be found [here](https://github.com/wendahere/JAWS/blob/master/Content/esp32%20as%20webserver%20to%20control%20LED%20on%20pin2.py). See you next week!
 
 _placeholder text_
 
@@ -287,12 +310,24 @@ This [link](https://docs.google.com/presentation/d/1G-Mtn2crr3oMn-h9OzoTzIzBxInW
 
 _insert feedback here_
 
+## Week 8-13
+During the holiday time, we each were doing our own parts for the track vehicle:
+Mechanical &rarr; Allen and Wen Da
+Coding &rarr; Jayvien and Wen Da
+Electronics &rarr; Sean
+Look at each of our blogs to see what we did!
 
+## Week 15
+This week our lecturer, Mr Tune, gave us a task. Make the entire chasis, incuding the motors, nuts, and all the washers. We managed to finish it on time. We also found out that the end goal for using fusion 360 was to make our design all in Fusion 360, every part of it. well then, see you next week!
+
+## Week 16
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDM5NDA1OCwtMjA4OTg2OTU5NSwtNj
-kyODI5NTU5LC0xODUxOTMyODgwLDIwNzQyNjk3NTIsLTE1MzA3
-MTY4OTcsLTYyMjEyMTEyMSwxODA2MDYzOTI3LC0xNTczNTMwNj
-EyLDI1ODg5NDczMiwtMTU3MzUzMDYxMl19
+eyJoaXN0b3J5IjpbLTE3Mzk1NDgwNDcsLTMyNzA0ODAyNiwtMz
+Y0NjE2MDEyLC0xMTc4Mzk1NjE4LDE4NDg3MzM1NjQsMzc1MTI0
+NjMwLC0yMDg5ODY5NTk1LC02OTI4Mjk1NTksLTE4NTE5MzI4OD
+AsMjA3NDI2OTc1MiwtMTUzMDcxNjg5NywtNjIyMTIxMTIxLDE4
+MDYwNjM5MjcsLTE1NzM1MzA2MTIsMjU4ODk0NzMyLC0xNTczNT
+MwNjEyXX0=
 -->
