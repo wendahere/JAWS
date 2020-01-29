@@ -204,3 +204,7 @@ The movement works for WASD controls, we ended up getting 75/100 for 15% of the 
 
 #Week 15
 I combined the codes to enable movement using the web server. 
+[Video](https://youtu.be/otZNYrKTPwY)
+The circuit is powered using batteries, showing boost converter and buck converter working!
+
+I will be working on the ultrasonic sensor web server control.
