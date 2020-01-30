@@ -226,3 +226,13 @@ We are group 6, this it is "16" after the second fool-stop at the IP address.
 At first I had difficulties with this. The shell output had no error but I could not access the site, it kept writing connection failed even though it was working earlier in the morning. I realized only that I had removed all the connections and that made me unable to connect to the site. I reconnected the pins and I was able to access the site again.
 
 [This is the current code](https://github.com/wendahere/JAWS/blob/master/Content/MotorANDUltrasoniccodes/M%26TMARK3%23Version1.py).
+
+###More progress on dropdown menu
+Initially Jayvien added a dropdown menu with no functions. (below) The dropdown portion also has problems, it is too far to the left.
+![functions.](
+https://raw.githubusercontent.com/wendahere/JAWS/master/Images/25-1.PNG) 
+
+I made changes to the code to enable the dropdown menu to select medium to detect distance. I also change style of the button and changed position of the dropdown to relative instead of absolute. I had troubles changing the style of the button at first as if I removed :hover, the dropdown will not work properly, it will display the list without hovering the button.
+
+I learned that I should not ONLY change the hover button but also the button itself without putting the class infront. Putting the class will disable the dropdown function, it will act as if hover was not written. Below is the working version. [CUrrent code.](https://github.com/wendahere/JAWS/blob/master/Content/MotorANDUltrasoniccodes/M%26TMARK5%23Version1.py)
+ ![dropdown](https://raw.githubusercontent.com/wendahere/JAWS/master/Images/30-1withdropdown.PNG)
