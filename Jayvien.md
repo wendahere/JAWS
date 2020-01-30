@@ -232,23 +232,12 @@ As all vehicles needed to be moved using a command.
 
 I decided to take this opportunity to make a code that will move the Track Vehicle to what the user wants ("Forward","Left","Right"&"Backward")
 
-This is my code that i came out with using REPL **[Motor Movement Code]**(https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/Jayvien%20WASD%20Movement.py)
+This is my code that i came out with using REPL: [Motor Movement Code](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/Jayvien%20WASD%20Movement.py)
 
 Users can have the ability to move the Vehicle by using keys on the laptop (Got inspired by most game main key functions).
 
 *TYPE THIS LETTERS ON YOUR REPL*
 
-Forward --> 'w'
-
-Left --> 'a'
-
-Right --> 'd'
-
-Backward --> 's'
-
-Stop --> 'q'
-
+Forward --> 'w' / Left --> 'a' / Right --> 'd' / Backward --> 's' / Stop --> 'q'
 
 >**WEEK 15**
-
-
