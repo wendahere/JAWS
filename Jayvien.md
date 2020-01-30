@@ -252,8 +252,8 @@ After That, I tried to place the [Motor Movement Code](https://github.com/wendah
 
 WENDA bought his ultrasonic Sensor and tried to code it with the help of this [Website](). 
 He tried the following codes inside:
-[Code1](https://github.com/wendahere/JAWS/blob/master/Content/Ultrasonic%20codes/ultrasonictransducer.py)
-[Code2](https://github.com/wendahere/JAWS/blob/master/Content/Ultrasonic%20codes/ultrasonictransducermark2.py)
+[Code1](https://github.com/wendahere/JAWS/blob/master/Content/Ultrasonic%20codes/ultrasonictransducer.py)/
+[Code2](https://github.com/wendahere/JAWS/blob/master/Content/Ultrasonic%20codes/ultrasonictransducermark2.py)/
 [Code3](https://github.com/wendahere/JAWS/blob/master/Content/Ultrasonic%20codes/ultrasonictransducerworking151.py)
 
 He did it successfully after trying it multiple times :0
