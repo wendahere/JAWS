@@ -242,7 +242,7 @@ This is my code that i came out with using REPL: [Motor Movement Code](https://g
 
 Users can have the ability to move the Vehicle by using keys on the laptop (Got inspired by most game main key functions).
 
-*TYPE THIS LETTERS IN YOUR REPL*:
+*TYPE THESE LETTERS IN YOUR REPL*:
 
 **Forward --> 'w' / Left --> 'a' / Right --> 'd' / Backward --> 's' / Stop --> 'q'**
 
