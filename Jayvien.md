@@ -136,6 +136,8 @@ TTE [Ib] = RR [Ib] + GR [Ib] + Fa [Ib]
 
 3rd Step: [Further application of MicroPython to ESP32](https://docs.micropython.org/en/latest/esp32/tutorial/intro.html)
 
+*DOWNLOAD LINK TO BIN ACCESS PLS SCROLL DOWN*: [ESP32 FLASH BIN](http://micropython.org/download#esp32)
+
 Open your Device Manager and locate your USB Port Number (Eg: COM13) & put the following commands: 
 
 | Commands    | Description |
