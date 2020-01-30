@@ -242,9 +242,9 @@ This is my code that i came out with using REPL: [Motor Movement Code](https://g
 
 Users can have the ability to move the Vehicle by using keys on the laptop (Got inspired by most game main key functions).
 
-*TYPE THIS LETTERS ON YOUR REPL*
+*TYPE THIS LETTERS IN YOUR REPL*:
 
-Forward --> 'w' / Left --> 'a' / Right --> 'd' / Backward --> 's' / Stop --> 'q'
+**Forward --> 'w' / Left --> 'a' / Right --> 'd' / Backward --> 's' / Stop --> 'q'**
 
 After That, I tried to place the [Motor Movement Code](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/Jayvien%20WASD%20Movement.py) together with the HTML [HTML+MOTOR](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/MotorcontrolHTMLMark3.py) with WENDA assisting me to allocate the positioning yet again :9
 
@@ -264,14 +264,14 @@ While I researched more about other things to code for the next part of our proj
 
 Our Teacher, Mr Rodney Dorville. He showed us some videos in youtube that will teach us to use different types of devices that the experts used before to improve their project.
 
-One example is [rdagger68](https://www.youtube.com/channel/UCp2rS5TxRt6W8fieAk74bIw). He mainly uses Raspberry Pi & Other items that teaches viewers on things that we can do with different types of devices through his tutorials.
+One example is [rdagger68](https://www.youtube.com/channel/UCp2rS5TxRt6W8fieAk74bIw). *He mainly uses Raspberry Pi & Other items that teaches viewers on things that we can do with different types of devices through his tutorials.*
 
 
 >**WEEK 15**
 
 Our Teacher, Mr Chien Jung Tune. He told us the importance of showing our track vehicle and other parts in FUSION 360. [FUSION 360 DOWNLOAD](https://www.autodesk.com/products/fusion-360/students-teachers-educators)
 
-He told us that we need to show a sketch of how it looks like because it mainly describes clearly to viewers as well as teammates on how the physical parts looks like and the implentation of it as well. Presenting the entire chasis, motors, nuts, and all the parts required in our track vehicle.
+He told us that we need to show a sketch of how it looks like because it mainly describes clearly to viewers as well as teammates on how the physical parts looks like and the implentation of it as well. **Presenting the entire chasis, motors, nuts, and all the parts required in our track vehicle.**
  
 >**WEEK 16**
 
@@ -279,8 +279,8 @@ This Week, I did the OLED Coding Tasks that Mr Rodney assigned each team to do.
 
 Firstly, in order to have the OLED working with ESP32 we need to create a [OLED Library](http://github.com/wendahere/JAWS/blob/master/Content/MAIN%20OLED%20ssd1306.py) for it. **Save this file as ssd1306.py.**
 
-The main purpose of this is to allow ESP32 to access the OLED to print something on the screen , set its sizes & dimensions.
+*The main purpose of this is to allow ESP32 to access the OLED to print something on the screen , set its sizes & dimensions.*
 
 After doing that, it is important to display something on your screen to show the output of it. So I asked my team what output they want to see in the OLED Display and they decided they want 'SAFE' & 'NOT SAFE'. And I Showed the [OLED MAIN CODE](https://github.com/wendahere/JAWS/blob/master/Content/Jay%20OLED%20main.py) to them.
 
-However, there is one more important step after doing all of these. It is very important to press the EN button on your ESP32 to enable it to the OLED Display. This will pop out the words you type inside the [OLED MAIN CODE](https://github.com/wendahere/JAWS/blob/master/Content/Jay%20OLED%20main.py) that i given to you before.
+However, there is one more important step after doing all of these. It is very important to **Press the EN button on your ESP32** to enable it to the OLED Display. This will pop out the words you type inside the [OLED MAIN CODE](https://github.com/wendahere/JAWS/blob/master/Content/Jay%20OLED%20main.py) that i given to you before.
