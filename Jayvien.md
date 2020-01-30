@@ -202,7 +202,7 @@ Standard Cell (3V – 4.2V) produce a lot of heat (Use Battery Protection)
 
 AC Source &rarr; Level Conversion (Transformer) &rarr;Rectifer (AC to DC) &rarr; Voltage regulator (To meet your voltage req)
 
->**WEEK 8-14**
+>**WEEK 8**
 
 **Wifi-Client**: [WIFI GUIDE](https://randomnerdtutorials.com/micropython-wi-fi-manager-esp32-esp8266/) 
 
@@ -226,6 +226,25 @@ Wi-Fi Manager is not in the MicroPython library so we need to upload it ourself.
 
 &rarr; Lastly, Reopen your browser and type the IP Address and you will get full access for ESP32 GPIO.
 
-**WEEK 15**
+>**WEEK 9**
+
+As all vehicles needed to be moved using a command. 
+
+I decided to take this opportunity to make a code that will move the Track Vehicle to what the user wants ("Forward","Left","Right"&"Backward")
+
+This is my code that i came out with using REPL [Motor Movement Code](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/Jayvien%20WASD%20Movement.py)
+
+Users can have the ability to move the Vehicle by using keys on the laptop (Got inspired by most game main key functions).
+
+*TYPE THIS LETTERS ON YOUR REPL*
+
+Forward --> 'w'
+Left --> 'a'
+Right --> 'd'
+Backward --> 's'
+Stop --> 'q'
+
+
+>**WEEK 15**
 
 
