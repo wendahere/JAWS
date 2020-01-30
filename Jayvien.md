@@ -269,4 +269,9 @@ One example is [rdagger68](https://www.youtube.com/channel/UCp2rS5TxRt6W8fieAk74
 
 >**WEEK 15**
 
+Our Teacher, Mr Chien Jung Tune. He told us the importance of showing our track vehicle and other parts in FUSION 360. [FUSION 360 DOWNLOAD](https://www.autodesk.com/products/fusion-360/students-teachers-educators)
+
+He told us that we need to show a sketch of how it looks like because it mainly describes clearly to viewers as well as teammates on how the physical parts looks like and the implentation of it as well. Presenting the entire chasis, motors, nuts, and all the parts required in our track vehicle.
+ 
 >**WEEK 16**
+
