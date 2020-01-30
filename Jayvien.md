@@ -275,3 +275,4 @@ He told us that we need to show a sketch of how it looks like because it mainly 
  
 >**WEEK 16**
 
+This Week, I did the OLED Coding Tasks that Mr Rodney passed it to us to do for my Team. 
