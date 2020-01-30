@@ -262,6 +262,10 @@ While I researched more about other things to code for the next part of our proj
 
 >**WEEK 14**
 
+Our Teacher, Mr Rodney Dorville. He showed us some videos in youtube that will teach us to use different types of devices that the experts used before to improve their project.
+
+One example is [rdagger68](https://www.youtube.com/channel/UCp2rS5TxRt6W8fieAk74bIw). He mainly uses Raspberry Pi & Other items that teaches viewers on things that we can do with different types of devices through his tutorials.
+
 
 >**WEEK 15**
 
