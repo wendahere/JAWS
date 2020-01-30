@@ -248,5 +248,20 @@ Forward --> 'w' / Left --> 'a' / Right --> 'd' / Backward --> 's' / Stop --> 'q'
 
 After That, I tried to place the [Motor Movement Code](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/Jayvien%20WASD%20Movement.py) together with the HTML [HTML+MOTOR](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/MotorcontrolHTMLMark3.py) with WENDA assisting me to allocate the positioning yet again :9
 
+>**WEEK 11-13**
+
+WENDA bought his ultrasonic Sensor and tried to code it with the help of this [Website](). 
+He tried the following codes inside:
+[Code1](https://github.com/wendahere/JAWS/blob/master/Content/Ultrasonic%20codes/ultrasonictransducer.py)
+[Code2](https://github.com/wendahere/JAWS/blob/master/Content/Ultrasonic%20codes/ultrasonictransducermark2.py)
+[Code3](https://github.com/wendahere/JAWS/blob/master/Content/Ultrasonic%20codes/ultrasonictransducerworking151.py)
+
+He did it successfully after trying it multiple times :0
+
+While I researched more about other things to code for the next part of our project and tidy up some of the wires and labelled them on my previous code so that my teammates can do it themselves.
+
+>**WEEK 14**
+
+
 >**WEEK 15**
 
