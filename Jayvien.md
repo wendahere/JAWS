@@ -224,9 +224,15 @@ Wi-Fi Manager is not in the MicroPython library so we need to upload it ourself.
 
 &rarr; When connected to the WifiManager, open your google chrome and paste 192.168.4.1. Next, choose a local network then enter the password to get access to the Wifi. **Getting a note stating: ESP Successfully connected to Wifi network**
 
-&rarr; Lastly, Reopen your browser and type the IP Address and you will get full access for ESP32 GPIO.
+Lastly, Reopen your browser and type the IP Address and you will get full access for ESP32 GPIO.
 
 >**WEEK 9**
+
+After doing the successful connection to the HTML webpage we try the LED method, Users click on the button in the HTML while controlling the LED to 'ON' or 'OFF'.[HTML+LED](https://github.com/wendahere/JAWS/blob/master/Content/esp32%20as%20webserver%20to%20control%20LED%20on%20pin2.py)
+
+This is just a follow up to check whether the HTML works well. We learn from this [Website](https://randomnerdtutorials.com/esp32-esp8266-micropython-web-server/)
+
+>**WEEK 10**
 
 As all vehicles needed to be moved using a command. 
 
@@ -243,3 +249,4 @@ Forward --> 'w' / Left --> 'a' / Right --> 'd' / Backward --> 's' / Stop --> 'q'
 After That, I tried to place the [Motor Movement Code](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/Jayvien%20WASD%20Movement.py) together with the HTML [HTML+MOTOR](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/MotorcontrolHTMLMark3.py) with WENDA assisting me to allocate the positioning yet again :9
 
 >**WEEK 15**
+
