@@ -236,3 +236,9 @@ I made changes to the code to enable the dropdown menu to select medium to detec
 
 I learned that I should not ONLY change the hover button but also the button itself without putting the class infront. Putting the class will disable the dropdown function, it will act as if hover was not written. Below is the working version. [CUrrent code.](https://github.com/wendahere/JAWS/blob/master/Content/MotorANDUltrasoniccodes/M%26TMARK5%23Version1.py)
  ![dropdown](https://raw.githubusercontent.com/wendahere/JAWS/master/Images/30-1withdropdown.PNG)
+
+###1st Feb 2020
+
+I Met up with Sean to do more work.
+I did soldering while Sean did design for stripboard.
+After showing my html web controller I realized that the distance unit was wrong. It was mm instead of cm.
