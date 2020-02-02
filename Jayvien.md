@@ -285,4 +285,4 @@ Firstly, in order to have the OLED working with ESP32 we need to create a [OLED 
 
 After doing that, it is important to display something on your screen to show the output of it. So I asked my team what output they want to see in the OLED Display and they decided they want 'SAFE' & 'NOT SAFE'. And I Showed the [OLED MAIN CODE](https://github.com/wendahere/JAWS/blob/master/Content/Jay%20OLED%20main.py) to them.
 
-However, there is one more important step after doing all of these. It is very important to **Press the EN button on your ESP32** to enable it to the OLED Display. This will pop out the words you type inside the [OLED MAIN CODE](https://github.com/wendahere/JAWS/blob/master/Content/Jay%20OLED%20main.py) that i given to you before.
+However, there is one more important step after doing all of these. It is very important to **Press the EN button on your ESP32** to enable it to the OLED Display. This will pop out the words you type inside the [OLED MAIN CODE](https://github.com/wendahere/JAWS/blob/master/Content/Jay%20OLED%20main.py) that i given to you before. [MORE GUIDES](https://randomnerdtutorials.com/micropython-oled-display-esp32-esp8266/)
