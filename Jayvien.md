@@ -285,4 +285,7 @@ Firstly, in order to have the OLED working with ESP32 we need to create a [OLED 
 
 After doing that, it is important to display something on your screen to show the output of it. So I asked my team what output they want to see in the OLED Display and they decided they want 'SAFE' & 'NOT SAFE'. And I Showed the [OLED MAIN CODE](https://github.com/wendahere/JAWS/blob/master/Content/Jay%20OLED%20main.py) to them.
 
-However, there is one more important step after doing all of these. It is very important to **Press the EN button on your ESP32** to enable it to the OLED Display. This will pop out the words you type inside the [OLED MAIN CODE](https://github.com/wendahere/JAWS/blob/master/Content/Jay%20OLED%20main.py) that i given to you before.
+However, there is one more important step after doing all of these. It is very important to **Press the EN button on your ESP32** to enable it to the OLED Display. This will pop out the words you type inside the [OLED MAIN CODE](https://github.com/wendahere/JAWS/blob/master/Content/Jay%20OLED%20main.py) that i given to you before. [MORE GUIDES](https://randomnerdtutorials.com/micropython-oled-display-esp32-esp8266/)
+
+
+[ULN2003 MOTOR DRIVER](https://www.google.com/search?q=ULN2003+driver+pinout&rlz=1C1NDCM_enSG809SG809&tbm=isch&source=iu&ictx=1&fir=kgwz541PNmwbyM%253A%252CTpIyhKIj55w4qM%252C_&vet=1&usg=AI4_-kQFJ28WLiIUOHT33_YMlS3NzBUyjA&sa=X&ved=2ahUKEwjh1N7r0rLnAhVj7XMBHVyMDy0Q9QEwBXoECAkQDg#imgrc=mXENAulIXQIhOM:&vet=1)
