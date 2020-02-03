@@ -247,7 +247,11 @@ After showing my html web controller I realized that the distance unit was wrong
 
 Did laser cutting, had error in designs, so Allen had to redesign and re-cut tomorrow. Did 3D printing at home for sensor casing.
 
-Met up online to do code. We discusses and decided not to use PCA9685 as it adds more difficulty and reduces usage of few pins only. 
+Met up online to do code. 
+
+Initially I tried using PCA9685, I used pip to install adafruit_pca96685 to control the servo.
+
+We later discussed and decided not to use PCA9685 as it adds more difficulty and reduces usage of few pins only. 
 
 I did standalone code for servo control, move clockwise and anti-clockwise.
 
