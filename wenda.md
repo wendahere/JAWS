@@ -256,4 +256,5 @@ We later discussed and decided not to use PCA9685 as it adds more difficulty and
 I did standalone code for servo control, move clockwise and anti-clockwise.
 
 Added buttons to control servo on web, changed Stop to red. 
-[Current code](https://github.com/wendahere/JAWS/blob/master/Content/MotorANDUltrasoniccodes/M%26TMARK7%23Version1.py).
+[Current code](https://github.com/wendahere/JAWS/blob/master/Content/MotorANDUltrasoniccodes/M%26TMARK7%23Version1.py). Below is the most updated image.
+![Image update](https://raw.githubusercontent.com/wendahere/JAWS/master/Images/4%20feb%20update.PNG)
