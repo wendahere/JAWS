@@ -176,7 +176,7 @@ I'll explain more in my holiday part of the blog
 For this week our lecturer went through on power sources more and how we should use this knowledge and construct a rechargable power supply for our tracked vehicle and it will also be also be covered more in detail 
 in the holiday blog. to learn about power sources, watch this video [here](https://www.youtube.com/watch?v=IT19dg73nKU&feature=youtu.be). For now, see ya!
 
-# Week 8 - Week 14
+# Week 8 - Week 15
 ## Reflection for mechanical homework
 Looking back at week 6, the design I chose was [the woodpecker](https://www.youtube.com/watch?v=zqnzgwYDKLY) and     ,[Straight line drawing mechanism 9](https://www.youtube.com/watch?v=Zwwnr262Wlc) from [Mr Thang's youtube channel](https://www.youtube.com/channel/UCli_RJkGWfZvw4IlDLHNCQg). The woodpecker was really hard as the woodpecker toy moves by gravity and it is a very unique motion. Even Mr Tune, the lecturer that assigned me this task, also did not know how to do this in fusion 360 so i gave up on creating motion links for thisdesign and instead did the other one.
 This one was actually much easier as because it only includes three types of joints: slide, revolution and ridgid.
@@ -209,17 +209,17 @@ There were two problems:
 1. It does not charge properly
 2. It does not output 8V and the voltage was always decreasing. It also does not have current flowing through when it is at active mode. I tried to make another design but to no avail
 
-# Week 15
-
+# Week 16
+Now that my circuit worked, I worked on connecting the remaining components and also have 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjUwNjkzOCwxMDg2NzY3ODE4LC0xMT
-QzMTk2MDE0LC0yMDA5NjgxNDI4LDE0NDQ3MzczODAsLTIwMDk2
-MjE3NjEsLTQ2MTA4NjA3MSw3MzgyOTMyMDYsMTUzOTQ3NzQwOS
-wtMTI5MTkyNzYzOCwzMzk0MDkwOTcsLTE1ODIyMTE4NzcsLTY1
-MDExMjUxOSwxMDk2MDQzNTYzLDExMTQ2ODE5ODgsNjMwNTA4Nz
-kzLC01NDIxMTA4OTgsMjEyMzQ2OTgsMTk0MjEzNDE0MiwxOTA0
-NTIyNzU3XX0=
+eyJoaXN0b3J5IjpbMTQzMDIxOTQyNSwxMDQyNTA2OTM4LDEwOD
+Y3Njc4MTgsLTExNDMxOTYwMTQsLTIwMDk2ODE0MjgsMTQ0NDcz
+NzM4MCwtMjAwOTYyMTc2MSwtNDYxMDg2MDcxLDczODI5MzIwNi
+wxNTM5NDc3NDA5LC0xMjkxOTI3NjM4LDMzOTQwOTA5NywtMTU4
+MjIxMTg3NywtNjUwMTEyNTE5LDEwOTYwNDM1NjMsMTExNDY4MT
+k4OCw2MzA1MDg3OTMsLTU0MjExMDg5OCwyMTIzNDY5OCwxOTQy
+MTM0MTQyXX0=
 -->
