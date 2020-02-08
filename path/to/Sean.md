@@ -210,12 +210,12 @@ There were two problems:
 2. It does not output 8V and the voltage was always decreasing. It also does not have current flowing through when it is at active mode. I tried to make another design but to no avail
 
 # Week 15
-This was
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTQwNzQ0MywxMDg2NzY3ODE4LC0xMT
+eyJoaXN0b3J5IjpbMTA0MjUwNjkzOCwxMDg2NzY3ODE4LC0xMT
 QzMTk2MDE0LC0yMDA5NjgxNDI4LDE0NDQ3MzczODAsLTIwMDk2
 MjE3NjEsLTQ2MTA4NjA3MSw3MzgyOTMyMDYsMTUzOTQ3NzQwOS
 wtMTI5MTkyNzYzOCwzMzk0MDkwOTcsLTE1ODIyMTE4NzcsLTY1
