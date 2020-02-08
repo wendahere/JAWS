@@ -207,9 +207,7 @@ The first circuit design I created was inspired from [this video.](https://www.y
 
 There were two problems:
 1. It does not charge properly
-2. It does not output 8V and the voltage was always decreasing. It also does not have current flowing through when it is at active mode.
-
-Thus, I needed to change the power circuit and that 
+2. It does not output 8V and the voltage was always decreasing. It also does not have current flowing through when it is at active mode. I tried to make another design but to no avail
 
 # Week 15
 This was
@@ -217,11 +215,11 @@ This was
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4Njc2NzgxOCwtMTE0MzE5NjAxNCwtMj
-AwOTY4MTQyOCwxNDQ0NzM3MzgwLC0yMDA5NjIxNzYxLC00NjEw
-ODYwNzEsNzM4MjkzMjA2LDE1Mzk0Nzc0MDksLTEyOTE5Mjc2Mz
-gsMzM5NDA5MDk3LC0xNTgyMjExODc3LC02NTAxMTI1MTksMTA5
-NjA0MzU2MywxMTE0NjgxOTg4LDYzMDUwODc5MywtNTQyMTEwOD
-k4LDIxMjM0Njk4LDE5NDIxMzQxNDIsMTkwNDUyMjc1NywxODA0
-NTQ5NzAyXX0=
+eyJoaXN0b3J5IjpbMTg0OTQwNzQ0MywxMDg2NzY3ODE4LC0xMT
+QzMTk2MDE0LC0yMDA5NjgxNDI4LDE0NDQ3MzczODAsLTIwMDk2
+MjE3NjEsLTQ2MTA4NjA3MSw3MzgyOTMyMDYsMTUzOTQ3NzQwOS
+wtMTI5MTkyNzYzOCwzMzk0MDkwOTcsLTE1ODIyMTE4NzcsLTY1
+MDExMjUxOSwxMDk2MDQzNTYzLDExMTQ2ODE5ODgsNjMwNTA4Nz
+kzLC01NDIxMTA4OTgsMjEyMzQ2OTgsMTk0MjEzNDE0MiwxOTA0
+NTIyNzU3XX0=
 -->
