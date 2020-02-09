@@ -210,16 +210,16 @@ There were two problems:
 2. It does not output 8V and the voltage was always decreasing. It also does not have current flowing through when it is at active mode. I tried to make another design but to no avail
 
 # Week 16
-Now that my circuit worked, I worked on connecting the remaining components and also have 
+Now that my circuit worked, I worked on connecting the remaining components and soldering it into the stripboard
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDIxOTQyNSwxMDQyNTA2OTM4LDEwOD
-Y3Njc4MTgsLTExNDMxOTYwMTQsLTIwMDk2ODE0MjgsMTQ0NDcz
-NzM4MCwtMjAwOTYyMTc2MSwtNDYxMDg2MDcxLDczODI5MzIwNi
-wxNTM5NDc3NDA5LC0xMjkxOTI3NjM4LDMzOTQwOTA5NywtMTU4
-MjIxMTg3NywtNjUwMTEyNTE5LDEwOTYwNDM1NjMsMTExNDY4MT
-k4OCw2MzA1MDg3OTMsLTU0MjExMDg5OCwyMTIzNDY5OCwxOTQy
-MTM0MTQyXX0=
+eyJoaXN0b3J5IjpbMTI5NzM2MTQ5NywxNDMwMjE5NDI1LDEwND
+I1MDY5MzgsMTA4Njc2NzgxOCwtMTE0MzE5NjAxNCwtMjAwOTY4
+MTQyOCwxNDQ0NzM3MzgwLC0yMDA5NjIxNzYxLC00NjEwODYwNz
+EsNzM4MjkzMjA2LDE1Mzk0Nzc0MDksLTEyOTE5Mjc2MzgsMzM5
+NDA5MDk3LC0xNTgyMjExODc3LC02NTAxMTI1MTksMTA5NjA0Mz
+U2MywxMTE0NjgxOTg4LDYzMDUwODc5MywtNTQyMTEwODk4LDIx
+MjM0Njk4XX0=
 -->
