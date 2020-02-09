@@ -218,17 +218,18 @@ In also discussing the stripboards with Allen, we agreed that there would be a s
 The stripboards are shown below:
 
 # Week 17
-I did soldering of the circuit this we
+I did soldering of the circuit this week and have finished it!
+I tested out the circuit and it functioned well
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1Nzk3ODY3LC0xNzY4OTk5NTcyLC00Mj
-c1Nzc0MzksOTI2NTY1MjgzLC01OTcyNzg4NjMsMTI2NTU0OTkz
-NiwtMjA4NzYyMzc4OCw3MzE4OTA3OTgsLTE3MTM4ODI5MzcsLT
-M1Njk5ODc3MSwtNDkxNjg5MDU5LC02OTE1ODU5OTksMTI5NzM2
-MTQ5NywxNDMwMjE5NDI1LDEwNDI1MDY5MzgsMTA4Njc2NzgxOC
-wtMTE0MzE5NjAxNCwtMjAwOTY4MTQyOCwxNDQ0NzM3MzgwLC0y
-MDA5NjIxNzYxXX0=
+eyJoaXN0b3J5IjpbLTExNzIxODQ4MTksLTE3Njg5OTk1NzIsLT
+QyNzU3NzQzOSw5MjY1NjUyODMsLTU5NzI3ODg2MywxMjY1NTQ5
+OTM2LC0yMDg3NjIzNzg4LDczMTg5MDc5OCwtMTcxMzg4MjkzNy
+wtMzU2OTk4NzcxLC00OTE2ODkwNTksLTY5MTU4NTk5OSwxMjk3
+MzYxNDk3LDE0MzAyMTk0MjUsMTA0MjUwNjkzOCwxMDg2NzY3OD
+E4LC0xMTQzMTk2MDE0LC0yMDA5NjgxNDI4LDE0NDQ3MzczODAs
+LTIwMDk2MjE3NjFdfQ==
 -->
