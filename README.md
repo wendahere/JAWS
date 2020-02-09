@@ -321,13 +321,13 @@ Look at each of our blogs to see what we did!
 This week our lecturer, Mr Tune, gave us a task. Make the entire chasis, incuding the motors, nuts, and all the washers. We managed to finish it on time. We also found out that the end goal for using fusion 360 was to make our design all in Fusion 360, every part of it. well then, see you next week!
 
 ## Week 16
-
+Our lecturer 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDczMTAyMywtMTczOTU0ODA0NywtMz
-I3MDQ4MDI2LC0zNjQ2MTYwMTIsLTExNzgzOTU2MTgsMTg0ODcz
-MzU2NCwzNzUxMjQ2MzAsLTIwODk4Njk1OTUsLTY5MjgyOTU1OS
-wtMTg1MTkzMjg4MCwyMDc0MjY5NzUyLC0xNTMwNzE2ODk3LC02
-MjIxMjExMjEsMTgwNjA2MzkyNywtMTU3MzUzMDYxMiwyNTg4OT
-Q3MzIsLTE1NzM1MzA2MTJdfQ==
+eyJoaXN0b3J5IjpbLTQ2NzU0NjI5NSwxODM0NzMxMDIzLC0xNz
+M5NTQ4MDQ3LC0zMjcwNDgwMjYsLTM2NDYxNjAxMiwtMTE3ODM5
+NTYxOCwxODQ4NzMzNTY0LDM3NTEyNDYzMCwtMjA4OTg2OTU5NS
+wtNjkyODI5NTU5LC0xODUxOTMyODgwLDIwNzQyNjk3NTIsLTE1
+MzA3MTY4OTcsLTYyMjEyMTEyMSwxODA2MDYzOTI3LC0xNTczNT
+MwNjEyLDI1ODg5NDczMiwtMTU3MzUzMDYxMl19
 -->
