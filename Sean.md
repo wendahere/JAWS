@@ -210,13 +210,13 @@ There were two problems:
 2. It does not output 8V and the voltage was always decreasing. It also does not have current flowing through when it is at active mode. I tried to make another design but to no avail
 
 # Week 16
-Now that my rechargable power supply worked, I worked on supplying power onto the remaining c the remaining components and tried to connect all of the items using stripboards. I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just the batteries and the voltage changes and a different board for the connection of the esp32 to the other non-power related compoments like our ultrasonic sensor and our OLED display. Thus, I decided to start planning on how to solder it.
+Now that my rechargable power supply worked, I worked on supplying the current need to the other components while also doing the cicuit on stripboards. I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just the batteries and the voltage changes and a different board for the connection of the esp32 to the other non-power related compoments like our ultrasonic sensor and our OLED display. Thus, I decided to start planning on how to solder it.
 Here is how the schematic looks like:
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjIyNjM4NCwtNDkxNjg5MDU5LC02OT
+eyJoaXN0b3J5IjpbLTM1Njk5ODc3MSwtNDkxNjg5MDU5LC02OT
 E1ODU5OTksMTI5NzM2MTQ5NywxNDMwMjE5NDI1LDEwNDI1MDY5
 MzgsMTA4Njc2NzgxOCwtMTE0MzE5NjAxNCwtMjAwOTY4MTQyOC
 wxNDQ0NzM3MzgwLC0yMDA5NjIxNzYxLC00NjEwODYwNzEsNzM4
