@@ -214,18 +214,18 @@ There were two problems:
 Now that my rechargable power supply worked, I worked on supplying the current need to the other components while also doing the cicuit on stripboards.  I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just the batteries and the voltage changes and a different board for the connection of the esp32 to the other non-power related compoments like our ultrasonic sensor and our OLED display. Thus, I decided to start planning on how to solder it.
 Here is how the schematic looks like:
 ![new 1week 16 power](https://user-images.githubusercontent.com/43029229/74098849-cfdfa580-4b57-11ea-81a2-da7e051668ba.jpeg)
-I also tried planning the stripboard for the circuit. This is what i came up wit
+In also discussing the stripboards with Allen, we agreed that there would be a stripboard for the esp
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTUwNjQ1NzgsLTE3Njg5OTk1NzIsLT
-QyNzU3NzQzOSw5MjY1NjUyODMsLTU5NzI3ODg2MywxMjY1NTQ5
-OTM2LDczMTg5MDc5OCwtMTcxMzg4MjkzNywtNDkxNjg5MDU5LC
-02OTE1ODU5OTksMTI5NzM2MTQ5NywxNDMwMjE5NDI1LDEwNDI1
-MDY5MzgsMTA4Njc2NzgxOCwtMTE0MzE5NjAxNCwtMjAwOTY4MT
-QyOCwxNDQ0NzM3MzgwLC0yMDA5NjIxNzYxLC00NjEwODYwNzEs
-NzM4MjkzMjA2XX0=
+eyJoaXN0b3J5IjpbNjAxNjE5NjAzLC0xNzY4OTk5NTcyLC00Mj
+c1Nzc0MzksOTI2NTY1MjgzLC01OTcyNzg4NjMsMTI2NTU0OTkz
+Niw3MzE4OTA3OTgsLTE3MTM4ODI5MzcsLTQ5MTY4OTA1OSwtNj
+kxNTg1OTk5LDEyOTczNjE0OTcsMTQzMDIxOTQyNSwxMDQyNTA2
+OTM4LDEwODY3Njc4MTgsLTExNDMxOTYwMTQsLTIwMDk2ODE0Mj
+gsMTQ0NDczNzM4MCwtMjAwOTYyMTc2MSwtNDYxMDg2MDcxLDcz
+ODI5MzIwNl19
 -->
