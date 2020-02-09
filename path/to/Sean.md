@@ -210,16 +210,17 @@ There were two problems:
 2. It does not output 8V and the voltage was always decreasing. It also does not have current flowing through when it is at active mode. I tried to make another design but to no avail
 
 # Week 16
-Now that my circuit worked, I worked on connecting the remaining components and tried to connect all of the items using stripboards. I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just the batteries and the voltage changes and a different board for the connection of the esp32 to the other non-power related compo
+Now that my circuit worked, I worked on connecting the remaining components and tried to connect all of the items using stripboards. I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just the batteries and the voltage changes and a different board for the connection of the esp32 to the other non-power related compoments like our ultrasonic sensor and our OLED display. Thus, I decided to start planning on how to solder it.
+Here is how the schematic looks like
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjAyMzQxMDAsMTI5NzM2MTQ5NywxND
-MwMjE5NDI1LDEwNDI1MDY5MzgsMTA4Njc2NzgxOCwtMTE0MzE5
-NjAxNCwtMjAwOTY4MTQyOCwxNDQ0NzM3MzgwLC0yMDA5NjIxNz
-YxLC00NjEwODYwNzEsNzM4MjkzMjA2LDE1Mzk0Nzc0MDksLTEy
-OTE5Mjc2MzgsMzM5NDA5MDk3LC0xNTgyMjExODc3LC02NTAxMT
-I1MTksMTA5NjA0MzU2MywxMTE0NjgxOTg4LDYzMDUwODc5Mywt
-NTQyMTEwODk4XX0=
+eyJoaXN0b3J5IjpbLTY5MTU4NTk5OSwxMjk3MzYxNDk3LDE0Mz
+AyMTk0MjUsMTA0MjUwNjkzOCwxMDg2NzY3ODE4LC0xMTQzMTk2
+MDE0LC0yMDA5NjgxNDI4LDE0NDQ3MzczODAsLTIwMDk2MjE3Nj
+EsLTQ2MTA4NjA3MSw3MzgyOTMyMDYsMTUzOTQ3NzQwOSwtMTI5
+MTkyNzYzOCwzMzk0MDkwOTcsLTE1ODIyMTE4NzcsLTY1MDExMj
+UxOSwxMDk2MDQzNTYzLDExMTQ2ODE5ODgsNjMwNTA4NzkzLC01
+NDIxMTA4OThdfQ==
 -->
