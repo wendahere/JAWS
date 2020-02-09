@@ -204,6 +204,7 @@ Firstly, I researched about the module to understand about how to use it to powe
 
 To conclude, I would need to make two modes for my power circuit, the first mode is for charging which i will call rest mode, the second mode is for outputing the power to the rest of the components, I will call this active mode.
 The first circuit design I created was inspired from [this video.](https://www.youtube.com/watch?v=rpRYNMrVCk0) It looks like this:
+![failed circuit](https://user-images.githubusercontent.com/43029229/74098921-a2472c00-4b58-11ea-9d55-2faaaf36eef6.jpeg)
 
 There were two problems:
 1. It does not charge properly
@@ -220,11 +221,11 @@ Here is how the schematic looks like:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzI3ODg2MywxMjY1NTQ5OTM2LDczMT
-g5MDc5OCwtMTcxMzg4MjkzNywtNDkxNjg5MDU5LC02OTE1ODU5
-OTksMTI5NzM2MTQ5NywxNDMwMjE5NDI1LDEwNDI1MDY5MzgsMT
-A4Njc2NzgxOCwtMTE0MzE5NjAxNCwtMjAwOTY4MTQyOCwxNDQ0
-NzM3MzgwLC0yMDA5NjIxNzYxLC00NjEwODYwNzEsNzM4MjkzMj
-A2LDE1Mzk0Nzc0MDksLTEyOTE5Mjc2MzgsMzM5NDA5MDk3LC0x
-NTgyMjExODc3XX0=
+eyJoaXN0b3J5IjpbOTI2NTY1MjgzLC01OTcyNzg4NjMsMTI2NT
+U0OTkzNiw3MzE4OTA3OTgsLTE3MTM4ODI5MzcsLTQ5MTY4OTA1
+OSwtNjkxNTg1OTk5LDEyOTczNjE0OTcsMTQzMDIxOTQyNSwxMD
+QyNTA2OTM4LDEwODY3Njc4MTgsLTExNDMxOTYwMTQsLTIwMDk2
+ODE0MjgsMTQ0NDczNzM4MCwtMjAwOTYyMTc2MSwtNDYxMDg2MD
+cxLDczODI5MzIwNiwxNTM5NDc3NDA5LC0xMjkxOTI3NjM4LDMz
+OTQwOTA5N119
 -->
