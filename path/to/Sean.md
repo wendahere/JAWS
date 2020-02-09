@@ -211,16 +211,16 @@ There were two problems:
 
 # Week 16
 Now that my circuit worked, I worked on connecting the remaining components and tried to connect all of the items using stripboards. I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just the batteries and the voltage changes and a different board for the connection of the esp32 to the other non-power related compoments like our ultrasonic sensor and our OLED display. Thus, I decided to start planning on how to solder it.
-Here is how the schematic looks like
+Here is how the schematic looks like:
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTU4NTk5OSwxMjk3MzYxNDk3LDE0Mz
-AyMTk0MjUsMTA0MjUwNjkzOCwxMDg2NzY3ODE4LC0xMTQzMTk2
-MDE0LC0yMDA5NjgxNDI4LDE0NDQ3MzczODAsLTIwMDk2MjE3Nj
-EsLTQ2MTA4NjA3MSw3MzgyOTMyMDYsMTUzOTQ3NzQwOSwtMTI5
-MTkyNzYzOCwzMzk0MDkwOTcsLTE1ODIyMTE4NzcsLTY1MDExMj
-UxOSwxMDk2MDQzNTYzLDExMTQ2ODE5ODgsNjMwNTA4NzkzLC01
-NDIxMTA4OThdfQ==
+eyJoaXN0b3J5IjpbLTQ5MTY4OTA1OSwtNjkxNTg1OTk5LDEyOT
+czNjE0OTcsMTQzMDIxOTQyNSwxMDQyNTA2OTM4LDEwODY3Njc4
+MTgsLTExNDMxOTYwMTQsLTIwMDk2ODE0MjgsMTQ0NDczNzM4MC
+wtMjAwOTYyMTc2MSwtNDYxMDg2MDcxLDczODI5MzIwNiwxNTM5
+NDc3NDA5LC0xMjkxOTI3NjM4LDMzOTQwOTA5NywtMTU4MjIxMT
+g3NywtNjUwMTEyNTE5LDEwOTYwNDM1NjMsMTExNDY4MTk4OCw2
+MzA1MDg3OTNdfQ==
 -->
