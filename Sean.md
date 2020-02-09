@@ -215,14 +215,16 @@ Now that my rechargable power supply worked, I worked on supplying the current n
 Here is how the schematic looks like:
 ![new 1week 16 power](https://user-images.githubusercontent.com/43029229/74098849-cfdfa580-4b57-11ea-81a2-da7e051668ba.jpeg)
 In also discussing the stripboards with Allen, we agreed that there would be a stripboard for the esp 32 , the power source and the components except for the servo motor.
-We decide
+The stripboards are shown below:
 
+# Week 17
+I did soldering of the circuit this we
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0MzIzNzU2LC0xNzY4OTk5NTcyLC00Mj
+eyJoaXN0b3J5IjpbOTY1Nzk3ODY3LC0xNzY4OTk5NTcyLC00Mj
 c1Nzc0MzksOTI2NTY1MjgzLC01OTcyNzg4NjMsMTI2NTU0OTkz
 NiwtMjA4NzYyMzc4OCw3MzE4OTA3OTgsLTE3MTM4ODI5MzcsLT
 M1Njk5ODc3MSwtNDkxNjg5MDU5LC02OTE1ODU5OTksMTI5NzM2
