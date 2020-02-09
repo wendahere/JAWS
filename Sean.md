@@ -210,17 +210,17 @@ There were two problems:
 2. It does not output 8V and the voltage was always decreasing. It also does not have current flowing through when it is at active mode. I tried to make another design but to no avail
 
 # Week 16
-Now that my circuit worked, I worked on connecting the remaining components and tried to connect all of the items using stripboards. I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just the batteries and the voltage changes and a different board for the connection of the esp32 to the other non-power related compoments like our ultrasonic sensor and our OLED display. Thus, I decided to start planning on how to solder it.
+Now that my rechargable power supply worked, I worked on supplying power onto the remaining c the remaining components and tried to connect all of the items using stripboards. I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just the batteries and the voltage changes and a different board for the connection of the esp32 to the other non-power related compoments like our ultrasonic sensor and our OLED display. Thus, I decided to start planning on how to solder it.
 Here is how the schematic looks like:
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTY4OTA1OSwtNjkxNTg1OTk5LDEyOT
-czNjE0OTcsMTQzMDIxOTQyNSwxMDQyNTA2OTM4LDEwODY3Njc4
-MTgsLTExNDMxOTYwMTQsLTIwMDk2ODE0MjgsMTQ0NDczNzM4MC
-wtMjAwOTYyMTc2MSwtNDYxMDg2MDcxLDczODI5MzIwNiwxNTM5
-NDc3NDA5LC0xMjkxOTI3NjM4LDMzOTQwOTA5NywtMTU4MjIxMT
-g3NywtNjUwMTEyNTE5LDEwOTYwNDM1NjMsMTExNDY4MTk4OCw2
-MzA1MDg3OTNdfQ==
+eyJoaXN0b3J5IjpbMTk0NjIyNjM4NCwtNDkxNjg5MDU5LC02OT
+E1ODU5OTksMTI5NzM2MTQ5NywxNDMwMjE5NDI1LDEwNDI1MDY5
+MzgsMTA4Njc2NzgxOCwtMTE0MzE5NjAxNCwtMjAwOTY4MTQyOC
+wxNDQ0NzM3MzgwLC0yMDA5NjIxNzYxLC00NjEwODYwNzEsNzM4
+MjkzMjA2LDE1Mzk0Nzc0MDksLTEyOTE5Mjc2MzgsMzM5NDA5MD
+k3LC0xNTgyMjExODc3LC02NTAxMTI1MTksMTA5NjA0MzU2Mywx
+MTE0NjgxOTg4XX0=
 -->
