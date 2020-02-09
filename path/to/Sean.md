@@ -219,13 +219,13 @@ The stripboards are shown below:
 
 # Week 17
 I did soldering of the circuit this week and have finished it!
-I tested out the circuit and it functioned wel
+I tested out the circuit and it functioned 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjkyOTQ1NDksLTExNzIxODQ4MTksLT
+eyJoaXN0b3J5IjpbLTEzOTY5NTgzMDksLTExNzIxODQ4MTksLT
 E3Njg5OTk1NzIsLTQyNzU3NzQzOSw5MjY1NjUyODMsLTU5NzI3
 ODg2MywxMjY1NTQ5OTM2LDczMTg5MDc5OCwtMTcxMzg4MjkzNy
 wtNDkxNjg5MDU5LC02OTE1ODU5OTksMTI5NzM2MTQ5NywxNDMw
