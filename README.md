@@ -321,13 +321,13 @@ Look at each of our blogs to see what we did!
 This week our lecturer, Mr Tune, gave us a task. Make the entire chasis, incuding the motors, nuts, and all the washers. We managed to finish it on time. We also found out that the end goal for using fusion 360 was to make our design all in Fusion 360, every part of it. well then, see you next week!
 
 ## Week 16
-This week our lecturer task us with amking sure that our motors for our car is able to drive enough torque so that it can carry all of our components 
+This week our lecturer task us with making sure that our motors for our car is able to drive enough torque so that it can move. Allen has already made the calculations already which will be found [here]()
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTM0MTMxMiwxODM0NzMxMDIzLC0xNz
-M5NTQ4MDQ3LC0zMjcwNDgwMjYsLTM2NDYxNjAxMiwtMTE3ODM5
-NTYxOCwxODQ4NzMzNTY0LDM3NTEyNDYzMCwtMjA4OTg2OTU5NS
-wtNjkyODI5NTU5LC0xODUxOTMyODgwLDIwNzQyNjk3NTIsLTE1
-MzA3MTY4OTcsLTYyMjEyMTEyMSwxODA2MDYzOTI3LC0xNTczNT
-MwNjEyLDI1ODg5NDczMiwtMTU3MzUzMDYxMl19
+eyJoaXN0b3J5IjpbMzcwMzkyMjE5LDE4MzQ3MzEwMjMsLTE3Mz
+k1NDgwNDcsLTMyNzA0ODAyNiwtMzY0NjE2MDEyLC0xMTc4Mzk1
+NjE4LDE4NDg3MzM1NjQsMzc1MTI0NjMwLC0yMDg5ODY5NTk1LC
+02OTI4Mjk1NTksLTE4NTE5MzI4ODAsMjA3NDI2OTc1MiwtMTUz
+MDcxNjg5NywtNjIyMTIxMTIxLDE4MDYwNjM5MjcsLTE1NzM1Mz
+A2MTIsMjU4ODk0NzMyLC0xNTczNTMwNjEyXX0=
 -->
