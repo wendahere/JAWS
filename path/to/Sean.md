@@ -210,16 +210,16 @@ There were two problems:
 2. It does not output 8V and the voltage was always decreasing. It also does not have current flowing through when it is at active mode. I tried to make another design but to no avail
 
 # Week 16
-Now that my circuit worked, I worked on connecting the remaining components and tried to connect all of the items using stripboards. I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just
+Now that my circuit worked, I worked on connecting the remaining components and tried to connect all of the items using stripboards. I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just the batteries and the voltage changes and a different board for the connection of the esp32 to the other non-power related compo
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODQwMzA1LDEyOTczNjE0OTcsMTQzMD
-IxOTQyNSwxMDQyNTA2OTM4LDEwODY3Njc4MTgsLTExNDMxOTYw
-MTQsLTIwMDk2ODE0MjgsMTQ0NDczNzM4MCwtMjAwOTYyMTc2MS
-wtNDYxMDg2MDcxLDczODI5MzIwNiwxNTM5NDc3NDA5LC0xMjkx
-OTI3NjM4LDMzOTQwOTA5NywtMTU4MjIxMTg3NywtNjUwMTEyNT
-E5LDEwOTYwNDM1NjMsMTExNDY4MTk4OCw2MzA1MDg3OTMsLTU0
-MjExMDg5OF19
+eyJoaXN0b3J5IjpbLTE4NjAyMzQxMDAsMTI5NzM2MTQ5NywxND
+MwMjE5NDI1LDEwNDI1MDY5MzgsMTA4Njc2NzgxOCwtMTE0MzE5
+NjAxNCwtMjAwOTY4MTQyOCwxNDQ0NzM3MzgwLC0yMDA5NjIxNz
+YxLC00NjEwODYwNzEsNzM4MjkzMjA2LDE1Mzk0Nzc0MDksLTEy
+OTE5Mjc2MzgsMzM5NDA5MDk3LC0xNTgyMjExODc3LC02NTAxMT
+I1MTksMTA5NjA0MzU2MywxMTE0NjgxOTg4LDYzMDUwODc5Mywt
+NTQyMTEwODk4XX0=
 -->
