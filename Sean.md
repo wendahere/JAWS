@@ -210,17 +210,17 @@ There were two problems:
 2. It does not output 8V and the voltage was always decreasing. It also does not have current flowing through when it is at active mode. I tried to make another design but to no avail
 
 # Week 16
-Now that my rechargable power supply worked, I worked on supplying the current need to the other components while also doing the cicuit on stripboards. I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just the batteries and the voltage changes and a different board for the connection of the esp32 to the other non-power related compoments like our ultrasonic sensor and our OLED display. Thus, I decided to start planning on how to solder it.
+Now that my rechargable power supply worked, I worked on supplying the current need to the other components while also doing the cicuit on stripboards.  I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just the batteries and the voltage changes and a different board for the connection of the esp32 to the other non-power related compoments like our ultrasonic sensor and our OLED display. Thus, I decided to start planning on how to solder it.
 Here is how the schematic looks like:
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Njk5ODc3MSwtNDkxNjg5MDU5LC02OT
-E1ODU5OTksMTI5NzM2MTQ5NywxNDMwMjE5NDI1LDEwNDI1MDY5
-MzgsMTA4Njc2NzgxOCwtMTE0MzE5NjAxNCwtMjAwOTY4MTQyOC
-wxNDQ0NzM3MzgwLC0yMDA5NjIxNzYxLC00NjEwODYwNzEsNzM4
-MjkzMjA2LDE1Mzk0Nzc0MDksLTEyOTE5Mjc2MzgsMzM5NDA5MD
-k3LC0xNTgyMjExODc3LC02NTAxMTI1MTksMTA5NjA0MzU2Mywx
-MTE0NjgxOTg4XX0=
+eyJoaXN0b3J5IjpbLTE3MTM4ODI5MzcsLTM1Njk5ODc3MSwtND
+kxNjg5MDU5LC02OTE1ODU5OTksMTI5NzM2MTQ5NywxNDMwMjE5
+NDI1LDEwNDI1MDY5MzgsMTA4Njc2NzgxOCwtMTE0MzE5NjAxNC
+wtMjAwOTY4MTQyOCwxNDQ0NzM3MzgwLC0yMDA5NjIxNzYxLC00
+NjEwODYwNzEsNzM4MjkzMjA2LDE1Mzk0Nzc0MDksLTEyOTE5Mj
+c2MzgsMzM5NDA5MDk3LC0xNTgyMjExODc3LC02NTAxMTI1MTks
+MTA5NjA0MzU2M119
 -->
