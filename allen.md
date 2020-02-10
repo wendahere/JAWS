@@ -182,10 +182,33 @@ Below are the steps that I've use to prepare my ESP32 so that I could do python 
 ## Week 5 (11/11/19 - 17/11/19):
 ###
 
-## Week 6 (18/11/19 - 25/11/19):
+## Week 6 (18/11/19 - 24/11/19):
 ###
 
-## Week 7 (26/11/19 - 1/12/19):
+## Week 7 (25/11/19 - 1/12/19):
 ###
 
-## Week 
+## Week 8 (2/12/19 - 8/12/19):
+### MST Week
+This week was our mid-semester, as such I took a short hiatus from doing the project to focus during on my studies.
+
+## Week 9 - 13 (9/12/19 - 12/1/20):
+### Holiday Week
+
+## Week 14 (13/1/20 - 19/1/20):
+### Milestone 1
+
+## Week 15 (20/1/20 - 26/1/20):
+### 
+
+## Week 16 (27/1/20 - 2/2/20):
+###
+
+## Week 17 (3/2/20 - 9/2/20):
+###
+
+## Week 18 (10/2/20 - 16/2/20):
+### 
+
+## Week 19 (17/2/20 - 23/2/20):
+### Presentation
