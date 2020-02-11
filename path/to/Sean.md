@@ -219,17 +219,17 @@ The stripboards are shown below:
 
 # Week 17
 I did soldering of the circuit this week and have finished it!
-I tested out the circuit and it functioned well the only 
+I tested out the circuit and it functioned well 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDM0MTA0MjQsLTEzOTY5NTgzMDksLT
-ExNzIxODQ4MTksLTE3Njg5OTk1NzIsLTQyNzU3NzQzOSw5MjY1
-NjUyODMsLTU5NzI3ODg2MywxMjY1NTQ5OTM2LDczMTg5MDc5OC
-wtMTcxMzg4MjkzNywtNDkxNjg5MDU5LC02OTE1ODU5OTksMTI5
-NzM2MTQ5NywxNDMwMjE5NDI1LDEwNDI1MDY5MzgsMTA4Njc2Nz
-gxOCwtMTE0MzE5NjAxNCwtMjAwOTY4MTQyOCwxNDQ0NzM3Mzgw
-LC0yMDA5NjIxNzYxXX0=
+eyJoaXN0b3J5IjpbMTE1ODMyMTk3NSwtMTI0MzQxMDQyNCwtMT
+M5Njk1ODMwOSwtMTE3MjE4NDgxOSwtMTc2ODk5OTU3MiwtNDI3
+NTc3NDM5LDkyNjU2NTI4MywtNTk3Mjc4ODYzLDEyNjU1NDk5Mz
+YsNzMxODkwNzk4LC0xNzEzODgyOTM3LC00OTE2ODkwNTksLTY5
+MTU4NTk5OSwxMjk3MzYxNDk3LDE0MzAyMTk0MjUsMTA0MjUwNj
+kzOCwxMDg2NzY3ODE4LC0xMTQzMTk2MDE0LC0yMDA5NjgxNDI4
+LDE0NDQ3MzczODBdfQ==
 -->
