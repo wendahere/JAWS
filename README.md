@@ -22,7 +22,7 @@ This is our group blog where we post our group discussion for our project. For m
 - [Sean's Blog](https://github.com/wendahere/JAWS/blob/master/Sean.md)
 - [Wen Da's Blog](https://github.com/wendahere/JAWS/blob/master/wenda.md)
 
-[THIS IS OUR DAILY JOURNAL](
+[THIS IS OUR DAILY JOURNAL](https://docs.google.com/document/d/1CuwkPwpdGzopnQklSF0BprGdneGbs09RgtukLm4UbbA/edit?usp=sharing)
 
 ## Week 1 (14/10/19 - 20/10/19):
 ### Brainstorming Session:
