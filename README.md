@@ -244,6 +244,7 @@ Here is the pin layout:
 **&nbsp;**
 After that, our teacher gave us a mindmap for us that shows us the steps to download firmware and test our ESP32 with a simple code to make usre our boards are fully working
 ![Picture of Flowchart](https://imgur.com/rRrUc35.png)
+
 Our group downloaded the firmware and also set up the wifi server on the ESP32 by ourselves on each of [our personal blogs](https://github.com/wendahere/JAWS) we successfully lit up the LED! Here's the code:
 ```
 from machine import Pin
@@ -261,6 +262,7 @@ We also did some code to light up an LED using a web server. It can be found [he
 _placeholder text_
 
 ## Week 5 (11/11/19 - 17/11/19):
+
 There was not as much content gone through but our lecturer dabbled on the inputs and outputs how you should supply power to your circuit depending on your circuit.
 For I/O ---> Fan In (Number of inputs a logic gate can handle) & Fan Out (Number of gate inputs that the output of a logic gate drives)
 ### The two ways were:
@@ -278,8 +280,8 @@ These two opetions refer to the direction of current flow between an I/O point o
 _Solution_: Schottky diode ( It has a low forward voltage drop and a very fast switching action), Fuseable Diodes
 
 
-
 ## Week 6 (18/11/19 - 24/11/19)
+
 This week, our lectuer Mr Tune went through with us the software Fusion 360 which you can learn what is it about [here]([https://www.autodesk.com/products/fusion-360/overview#banner](https://www.autodesk.com/products/fusion-360/overview#banner)). 
 If you are an enginner, we highly recommend this 3D software because:
 1) It is cheap(or even free if you are a student or an educator), it offers a lot of features and modes you can use to make your product with that price.
