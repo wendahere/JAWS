@@ -243,7 +243,8 @@ I Met up with Sean to do more work.
 I did soldering while Sean did design for stripboard.
 After showing my html web controller I realized that the distance unit was wrong. It was mm instead of cm.
 
-###3rd Feb 2020
+
+#Week 17
 
 Did laser cutting, had error in designs, so Allen had to redesign and re-cut tomorrow. Did 3D printing at home for sensor casing.
 
@@ -257,4 +258,12 @@ I did standalone code for servo control, move clockwise and anti-clockwise.
 
 Added buttons to control servo on web, changed Stop to red. 
 [Current code](https://github.com/wendahere/JAWS/blob/master/Content/MotorANDUltrasoniccodes/M%26TMARK7%23Version1.py). Below is the most updated image.
+
 ![Image update](https://raw.githubusercontent.com/wendahere/JAWS/master/Images/4%20feb%20update.PNG)
+
+Jayvien made OLED code with Ultrasonic sensor.
+I helped to make it into a function.
+
+#Week 18
+
+I used the OLED function and put it into the main code. Current code has Motors, Ultrasonic sensor, OLED and servo. It is currently at first version.
