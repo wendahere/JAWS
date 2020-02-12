@@ -289,3 +289,7 @@ However, there is one more important step after doing all of these. It is very i
 
 
 [ULN2003 MOTOR DRIVER](https://www.google.com/search?q=ULN2003+driver+pinout&rlz=1C1NDCM_enSG809SG809&tbm=isch&source=iu&ictx=1&fir=kgwz541PNmwbyM%253A%252CTpIyhKIj55w4qM%252C_&vet=1&usg=AI4_-kQFJ28WLiIUOHT33_YMlS3NzBUyjA&sa=X&ved=2ahUKEwjh1N7r0rLnAhVj7XMBHVyMDy0Q9QEwBXoECAkQDg#imgrc=mXENAulIXQIhOM:&vet=1)
+
+>**WEEK 17**
+
+I combined both the Ultrasonic Seonsor & OLED together and changed a little to show the display of the status of the vehicle as well as the value of the ultrasonice sensor in the OLED. [OLED+ULTRASONIC](https://github.com/wendahere/JAWS/blob/master/Content/Jay's%20Oled+Ultrasonic%20Sensor.py)
