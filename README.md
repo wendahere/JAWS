@@ -13,7 +13,7 @@ AMBTan (DME)
 
 SWoo (DEEE)
 
-JNg (DEEE)
+JayNg (DEEE)
 
 This is our group blog where we post our group discussion for our project. For more further information of each team member's weekly reflection/progress please refer to the following links.
 
@@ -39,9 +39,12 @@ Features:
 4. Lightweight
 
 How we brainstorm our ideas (based on): 
-Demographics
-Types of terrain
-Situations
+
+~Demographics
+
+~Types of terrain
+
+~Situations
 
 ![alt text](https://i.imgur.com/mrkp1fu.jpg)
 
