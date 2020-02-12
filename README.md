@@ -75,9 +75,7 @@ It have a protocol to communicate with everyone
 >Advantages of Python:
  Much easier/simple, function type, object-oriented approach and readable 
 
-[Processing](https://processing.org/):
-
-Processing is a flexible software sketchbook and learn how to code within the context of the visual arts.
+[Processing](https://processing.org/) is a flexible software sketchbook and learn how to code within the context of the visual arts.
 
 **(Important)** : from microbit import *
 
