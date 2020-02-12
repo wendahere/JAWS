@@ -317,7 +317,16 @@ On top of going through the lecture about power, each group also presented what 
 
 This [link](https://docs.google.com/presentation/d/1G-Mtn2crr3oMn-h9OzoTzIzBxInWUobSz7nGN9KObng/edit?usp=sharing) is our presentation slides. After our presentation, we were given feedback by our lecturers and classmates.
 
-_insert feedback here_
+These are the feedbacks:
+
+>Position/Distance for sensor
+
+>Medium affected when the sensor scans (Eg. Cold wind in between Ice) 
+
+>*Recommend to put sensors near the ice to prevent medium disruptions*
+
+>Ultrasonic sensor not feasible??  Research other ways, (Drills?) 
+
 
 ## Week 8-13
 During the holiday time, we each were doing our own parts for the track vehicle:
