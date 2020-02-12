@@ -75,9 +75,11 @@ It have a protocol to communicate with everyone
 >Advantages of Python:
  Much easier/simple, function type, object-oriented approach and readable 
 
-[Processing](https://processing.org/) is a flexible software sketchbook and learn how to code within the context of the visual arts.
+[Processing](https://processing.org/) is a flexible software sketchbook which teaches how to code within the context of the visual arts.
 
-**(Important)** : from microbit import *
+**(Important)** : 
+
+from microbit import *
 
 display.show(Image.HEART)/display.show(Image.SQUARE)
 sleep(500)
@@ -140,9 +142,13 @@ while True:
     sleep(500)
 
 **Arrays**
+
 -List is a collection which is ordered and changeable. Allows duplicate members.
+
 -Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
+
 -Set is a collection which is unordered and unindexed. No duplicate members.
+
 -Dictionary is a collection which is unordered, changeable and indexed. No duplicate members.
 
 *Microbit.display class*:
