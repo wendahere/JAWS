@@ -292,4 +292,9 @@ However, there is one more important step after doing all of these. It is very i
 
 >**WEEK 17**
 
-I combined both the Ultrasonic Seonsor & OLED together and changed a little to show the display of the status of the vehicle as well as the value of the ultrasonice sensor in the OLED. [OLED+ULTRASONIC](https://github.com/wendahere/JAWS/blob/master/Content/Jay's%20Oled+Ultrasonic%20Sensor.py)
+I combined both the Ultrasonic Seonsor & OLED together and changed a little to show the display of the status of the vehicle as well as the value of the ultrasonice sensor in the OLED. [Combined OLED+ULTRASONIC Code](https://github.com/wendahere/JAWS/blob/master/Content/Jay's%20Oled+Ultrasonic%20Sensor.py).
+It worked prefectly showing what i want.
+
+>**WEEK 17**
+
+This week, i passed my [Combined OLED+ULTRASONIC Code](https://github.com/wendahere/JAWS/blob/master/Content/Jay's%20Oled+Ultrasonic%20Sensor.py) to WenDa so that he can help me combined it with our HTML. So i can help Sean with his electronics as an assistant and update some of our slides as well.
