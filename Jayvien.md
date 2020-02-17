@@ -209,7 +209,8 @@ Wi-Fi Manager is not in the MicroPython library so we need to upload it ourself.
 
 &rarr; Firstly, check your Port & Micropython **(Search on your computer Device Manager then click on Port)**/**(Tools...Options...Interpreter)**
 
-&rarr; Secondly, [Copy This To Your Thonny](https://raw.githubusercontent.com/tayfunulu/WiFiManager/master/wifimgr.py) & save this file in **Mi&rarr;cropython Device as wifimgr.py**
+&rarr; Secondly, [Copy This To Your Thonny](https://raw.githubusercontent.com/tayfunulu/WiFiManager/master/wifimgr.py) & save this file in **Micropython Device as wifimgr.py**
+
 &rarr; Thirdly, [Open new file and Paste This File](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutorials/master/Projects/ESP-MicroPython/esp_wifimanager_example.py) & save this file in **Micropython Device as Main.py**
 
 &rarr; Next, Press EN button on ESP32 and check your wifi settings on your computer, it will state as **WifiManager and Password is tayfunulu**
@@ -245,7 +246,7 @@ Users can have the ability to move the Vehicle by using keys on the laptop (Got 
 
 **Forward --> 'w' / Left --> 'a' / Right --> 'd' / Backward --> 's' / Stop --> 'q'**
 
-After That, I tried to place the [Motor Movement Code](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/Jayvien%20WASD%20Movement.py) together with the HTML [HTML+MOTOR](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/MotorcontrolHTMLMark3.py) with WENDA assisting me to allocate the positioning yet again :9
+After that, I tried to place the [Motor Movement Code](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/Jayvien%20WASD%20Movement.py) together with the HTML [HTML+MOTOR](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/MotorcontrolHTMLMark3.py). 
 
 ![HTML+MOVEMENT](https://github.com/wendahere/JAWS/blob/master/Images/29-1.PNG)
 
@@ -253,7 +254,7 @@ After That, I tried to place the [Motor Movement Code](https://github.com/wendah
 
 While I researched more about other things to code for the next part of our project and tidy up some of the wires and labelled them on my previous code so that my teammates can do it themselves.
 
-I input the dropdown menu for our team so to allow users to choose the mediums.
+I input the dropdown menu for our team so to allow users to choose the mediums & Wenda helped me to align the position of the dropdown menu.
 
 ![HTML+Functions](https://github.com/wendahere/JAWS/blob/master/Images/30-1withdropdown.PNG)
 
@@ -262,7 +263,9 @@ I input the dropdown menu for our team so to allow users to choose the mediums.
 
 Our Teacher, Mr Rodney Dorville. He showed us some videos in youtube that will teach us to use different types of devices that the experts used before to improve their project.
 
-One example is [rdagger68](https://www.youtube.com/channel/UCp2rS5TxRt6W8fieAk74bIw). *He mainly uses Raspberry Pi & Other items that teaches viewers on things that we can do with different types of devices through his tutorials.*
+One example is [rdagger68](https://www.youtube.com/channel/UCp2rS5TxRt6W8fieAk74bIw). 
+
+>*He mainly uses Raspberry Pi & Other items that teaches viewers on things that we can do with different types of devices through his tutorials.*
 
 
 # *Week 15*
