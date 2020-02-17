@@ -1,4 +1,4 @@
-# >**WEEK 1**
+#>**WEEK 1**<
 
 
 - Brainstorming Ideas(Together with my teammates):
