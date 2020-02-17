@@ -301,4 +301,4 @@ This week, i passed my [Combined OLED+ULTRASONIC Code](https://github.com/wendah
 
 >**WEEK 19**
 
-This week, i countinued helping sean in his electronics and changed the lengthy sentences of the poster to something sweet and short for the readers. Wenda did the poster deisgn which look quite amazing.
+This week, i countinued helping sean in his electronics and changed the lengthy sentences of the poster to something sweet and short for the readers.
