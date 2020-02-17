@@ -295,6 +295,10 @@ However, there is one more important step after doing all of these. It is very i
 I combined both the Ultrasonic Seonsor & OLED together and changed a little to show the display of the status of the vehicle as well as the value of the ultrasonice sensor in the OLED. [Combined OLED+ULTRASONIC Code](https://github.com/wendahere/JAWS/blob/master/Content/Jay's%20Oled+Ultrasonic%20Sensor.py).
 It worked prefectly showing what i want.
 
->**WEEK 17**
+>**WEEK 18**
 
 This week, i passed my [Combined OLED+ULTRASONIC Code](https://github.com/wendahere/JAWS/blob/master/Content/Jay's%20Oled+Ultrasonic%20Sensor.py) to WenDa so that he can help me combined it with our HTML. So i can help Sean with his electronics as an assistant and update some of our slides as well. I also stayed back to help sean with his electronics so that we can get tested all our components & codes.
+
+>**WEEK 19**
+
+This week, i countinued helping sean in his electronics and changed the lengthy sentences of the poster to something sweet and short for the readers. Wenda did the poster deisgn which look quite amazing.
