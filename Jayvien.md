@@ -1,4 +1,4 @@
-#**WEEK 1**
+# *Week 1*
 
 
 - Brainstorming Ideas(Together with my teammates):
@@ -13,7 +13,7 @@
 ![Brainstorming Ideas](https://i.imgur.com/mrkp1fu.jpg)
 
 
->**WEEK 2**
+# *Week 2*
 
 
 >Learning Python:
@@ -101,7 +101,7 @@ Arduino uses processing : https://processing.org/
 
 *2nd Python website* 
 
->**WEEK 3** (MECHANICAL)
+# *Week 3* (MECHANICAL)
 
 
 Friction Important (Cause of Traction) 
@@ -122,7 +122,7 @@ TTE (Total Tractive Effort), RR (Force necessary to overcome Rolling Resistance)
 
 TTE [Ib] = RR [Ib] + GR [Ib] + Fa [Ib]
 
->**WEEK 4** (Applying MicroPython In ESP32)
+# *Week 4* (Applying MicroPython In ESP32)
 
 
 [ESP32 Reference](http://esp32.net/): This might help beginners to undestand more about ESP32
@@ -146,7 +146,7 @@ Open your Device Manager and locate your USB Port Number (Eg: COM13) & put the f
 |Secondly, --chip esp32 --port (COM 13) write_flash -z 0x1000 (esp32-20180511-v1.9.4.bin) | Deploying the new firmware to your ESP32 |
 >**ALL IN BRACKETS IS SUBJECTED TO CHANGE TO THE INDIVIDUAL'S USB Port Number & File Bin**
 
->**WEEK 5**
+# *Week 5*
 
 -Fan In (Number of inputs a logic gate can handle) & Fan Out (Number of gate inputs that the output of a logic gate drives)
 
@@ -168,7 +168,7 @@ Note: Some losses when conversion
 
 [Power Your Electronics](http://youtube.com/watch?v=IT19dg73nKU&feature=youtu.be) 
 
->**WEEK 6**
+# *Week 6*
 
 -We learn how to use the different functions in the AutoCad:
 
@@ -178,7 +178,7 @@ The Author of these videos are Jamie Scherer, James Price who provide many video
 
 [Homework for December Holiday](http://507movements.com/) 
 
->**WEEK 7**
+# *Week 7*
 
 **Buck Switch Mode Power Supply**:
 - Reduce DC High Voltage to Low
@@ -204,7 +204,7 @@ Standard Cell (3V – 4.2V) produce a lot of heat (Use Battery Protection)
 
 AC Source &rarr; Level Conversion (Transformer) &rarr;Rectifer (AC to DC) &rarr; Voltage regulator (To meet your voltage req)
 
->**WEEK 8**
+# *Week 8*
 
 **Wifi-Client**: [WIFI GUIDE](https://randomnerdtutorials.com/micropython-wi-fi-manager-esp32-esp8266/) 
 
@@ -228,13 +228,13 @@ Wi-Fi Manager is not in the MicroPython library so we need to upload it ourself.
 
 Lastly, Reopen your browser and type the IP Address and you will get full access for ESP32 GPIO.
 
->**WEEK 9**
+# *Week 9*
 
 After doing the successful connection to the HTML webpage we try the LED method, Users click on the button in the HTML while controlling the LED to 'ON' or 'OFF':  [HTML+LED](https://github.com/wendahere/JAWS/blob/master/Content/esp32%20as%20webserver%20to%20control%20LED%20on%20pin2.py)
 
 This is just a follow up to check whether the HTML works well. We learn from this [Website](https://randomnerdtutorials.com/esp32-esp8266-micropython-web-server/)
 
->**WEEK 10**
+# *Week 10*
 
 As all vehicles needed to be moved using a command. 
 
@@ -252,7 +252,7 @@ After That, I tried to place the [Motor Movement Code](https://github.com/wendah
 
 ![HTML+MOVEMENT](https://github.com/wendahere/JAWS/blob/master/Images/29-1.PNG)
 
->**WEEK 11-13**
+# *Week 11-13*
 
 While I researched more about other things to code for the next part of our project and tidy up some of the wires and labelled them on my previous code so that my teammates can do it themselves.
 
@@ -261,20 +261,20 @@ I input the dropdown menu for our team so to allow users to choose the mediums.
 ![HTML+Functions](https://github.com/wendahere/JAWS/blob/master/Images/30-1withdropdown.PNG)
 
 
->**WEEK 14**
+# *Week 14*
 
 Our Teacher, Mr Rodney Dorville. He showed us some videos in youtube that will teach us to use different types of devices that the experts used before to improve their project.
 
 One example is [rdagger68](https://www.youtube.com/channel/UCp2rS5TxRt6W8fieAk74bIw). *He mainly uses Raspberry Pi & Other items that teaches viewers on things that we can do with different types of devices through his tutorials.*
 
 
->**WEEK 15**
+# *Week 15*
 
 Our Teacher, Mr Chien Jung Tune. He told us the importance of showing our track vehicle and other parts in FUSION 360. [FUSION 360 DOWNLOAD](https://www.autodesk.com/products/fusion-360/students-teachers-educators)
 
 He told us that we need to show a sketch of how it looks like because it mainly describes clearly to viewers as well as teammates on how the physical parts looks like and the implentation of it as well. **Presenting the entire chasis, motors, nuts, and all the parts required in our track vehicle.**
  
->**WEEK 16**
+# *Week 16*
 
 This Week, I did the OLED Coding Tasks that Mr Rodney assigned each team to do. 
 
@@ -289,16 +289,16 @@ However, there is one more important step after doing all of these. It is very i
 
 [ULN2003 MOTOR DRIVER](https://www.google.com/search?q=ULN2003+driver+pinout&rlz=1C1NDCM_enSG809SG809&tbm=isch&source=iu&ictx=1&fir=kgwz541PNmwbyM%253A%252CTpIyhKIj55w4qM%252C_&vet=1&usg=AI4_-kQFJ28WLiIUOHT33_YMlS3NzBUyjA&sa=X&ved=2ahUKEwjh1N7r0rLnAhVj7XMBHVyMDy0Q9QEwBXoECAkQDg#imgrc=mXENAulIXQIhOM:&vet=1)
 
->**WEEK 17**
+# *Week 17*
 
 I combined both the Ultrasonic Seonsor & OLED together and changed a little to show the display of the status of the vehicle as well as the value of the ultrasonice sensor in the OLED. [Combined OLED+ULTRASONIC Code](https://github.com/wendahere/JAWS/blob/master/Content/Jay's%20Oled+Ultrasonic%20Sensor.py).
 It worked prefectly showing what i want.
 
->**WEEK 18**
+# *Week 18*
 
 This week, i passed my [Combined OLED+ULTRASONIC Code](https://github.com/wendahere/JAWS/blob/master/Content/Jay's%20Oled+Ultrasonic%20Sensor.py) to WenDa so that he can help me combined it with our HTML. So i can help Sean with his electronics as an assistant and update some of our slides as well. I also stayed back to help sean with his electronics so that we can get tested all our components & codes.
 
->**WEEK 19**
+# *Week 19*
 
 This week, i countinued helping sean in his electronics and changed the lengthy sentences of the poster to something sweet and short for the readers. We assembled our prototype together so that we can put it in our poster.
 
