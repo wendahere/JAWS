@@ -303,4 +303,4 @@ This week, i passed my [Combined OLED+ULTRASONIC Code](https://github.com/wendah
 
 This week, i countinued helping sean in his electronics and changed the lengthy sentences of the poster to something sweet and short for the readers. We assembled our prototype together so that we can put it in our poster.
 
-![Brainstorming Ideas]()
+[Full COnstruction Of Vehicle](https://github.com/wendahere/JAWS/blob/master/Images/FULL%20CONSTRUCTION.jpg)
