@@ -36,7 +36,7 @@ Readability is important for everyone (clear understanding)
 
 Arduino uses processing : https://processing.org/
 
-## Two videos (Python): 
+## Video (Python): 
 
  [4 Hours Python ](https://www.youtube.com/watch?v=rfscVS0vtbw):
 
@@ -98,11 +98,8 @@ Arduino uses processing : https://processing.org/
 	friends.sort/reverse() --> ascending order/alphabetical order
 
 	def --> function?
-
-*2nd Python website* 
-
+	
 # *Week 3* (MECHANICAL)
-
 
 Friction Important (Cause of Traction) 
 
