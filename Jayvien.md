@@ -250,6 +250,8 @@ Users can have the ability to move the Vehicle by using keys on the laptop (Got 
 
 After That, I tried to place the [Motor Movement Code](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/Jayvien%20WASD%20Movement.py) together with the HTML [HTML+MOTOR](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/MotorcontrolHTMLMark3.py) with WENDA assisting me to allocate the positioning yet again :9
 
+![HTML+MOVEMENT](https://github.com/wendahere/JAWS/blob/master/Images/29-1.PNG)
+
 >**WEEK 11-13**
 
 WENDA bought his ultrasonic Sensor and tried to code it with the help of this [Website](). 
@@ -303,4 +305,5 @@ This week, i passed my [Combined OLED+ULTRASONIC Code](https://github.com/wendah
 
 This week, i countinued helping sean in his electronics and changed the lengthy sentences of the poster to something sweet and short for the readers. We assembled our prototype together so that we can put it in our poster.
 
-[Full COnstruction Of Vehicle](https://github.com/wendahere/JAWS/blob/master/Images/FULL%20CONSTRUCTION.jpg)
+![Done Construction](https://github.com/wendahere/JAWS/blob/master/Images/FULL%20CONSTRUCTION.jpg)
+![HTML+Functions](https://github.com/wendahere/JAWS/blob/master/Images/30-1withdropdown.PNG)
