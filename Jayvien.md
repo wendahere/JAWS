@@ -1,7 +1,7 @@
 # *Week 1*
 
 
-- Brainstorming Ideas(Together with my teammates):
+- Brainstorming Ideas (Together with my teammates):
 1. Deliver food in kitchen (due to oil in floor)
 2. Automatic ward bed (less stress for nurses)
 3. Stable rescue stretcher (reduce unnecessary movement of casualty)
