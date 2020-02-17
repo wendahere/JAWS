@@ -301,4 +301,6 @@ This week, i passed my [Combined OLED+ULTRASONIC Code](https://github.com/wendah
 
 >**WEEK 19**
 
-This week, i countinued helping sean in his electronics and changed the lengthy sentences of the poster to something sweet and short for the readers.
+This week, i countinued helping sean in his electronics and changed the lengthy sentences of the poster to something sweet and short for the readers. We assembled our prototype together so that we can put it in our poster.
+
+![Brainstorming Ideas]()
