@@ -230,7 +230,7 @@ Lastly, Reopen your browser and type the IP Address and you will get full access
 
 >**WEEK 9**
 
-After doing the successful connection to the HTML webpage we try the LED method, Users click on the button in the HTML while controlling the LED to 'ON' or 'OFF':[HTML+LED](https://github.com/wendahere/JAWS/blob/master/Content/esp32%20as%20webserver%20to%20control%20LED%20on%20pin2.py)
+After doing the successful connection to the HTML webpage we try the LED method, Users click on the button in the HTML while controlling the LED to 'ON' or 'OFF':  [HTML+LED](https://github.com/wendahere/JAWS/blob/master/Content/esp32%20as%20webserver%20to%20control%20LED%20on%20pin2.py)
 
 This is just a follow up to check whether the HTML works well. We learn from this [Website](https://randomnerdtutorials.com/esp32-esp8266-micropython-web-server/)
 
