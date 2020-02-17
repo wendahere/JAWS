@@ -267,3 +267,11 @@ I helped to make it into a function.
 #Week 18
 
 I used the OLED function and put it into the main code. Current code has Motors, Ultrasonic sensor, OLED and servo. It is currently at first version.
+
+Finally tested the code and it had trouble running. I was very frustrated as I kept pushing for a test but the electrical components were not soldered and changing to breadboard was very troublesome.
+
+I asked Vincent for help and he told me my indentation was wrong. I used an older working version of the code and slowly copied the new code into the working version while editing the indentation. The HTML portion works and I am confident the motors will work but we have to wait till tomorrow to test.
+
+[Current Code Mark 9](https://github.com/wendahere/JAWS/blob/master/Content/MotorANDUltrasoniccodes/M%26TMARK9%23Version1.py)
+
+I plan to test the motors first, thus the other components in the code are in comment, when the motors work, I will remove the comments for servo and test that and so on.
