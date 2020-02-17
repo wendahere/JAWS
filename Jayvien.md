@@ -254,15 +254,12 @@ After That, I tried to place the [Motor Movement Code](https://github.com/wendah
 
 >**WEEK 11-13**
 
-WENDA bought his ultrasonic Sensor and tried to code it with the help of this [Website](). 
-He tried the following codes inside:
-[Code1](https://github.com/wendahere/JAWS/blob/master/Content/Ultrasonic%20codes/ultrasonictransducer.py)/
-[Code2](https://github.com/wendahere/JAWS/blob/master/Content/Ultrasonic%20codes/ultrasonictransducermark2.py)/
-[Code3](https://github.com/wendahere/JAWS/blob/master/Content/Ultrasonic%20codes/ultrasonictransducerworking151.py)
-
-He did it successfully after trying it multiple times :0
-
 While I researched more about other things to code for the next part of our project and tidy up some of the wires and labelled them on my previous code so that my teammates can do it themselves.
+
+I input the dropdown menu for our team so to allow users to choose the mediums.
+
+![HTML+Functions](https://github.com/wendahere/JAWS/blob/master/Images/30-1withdropdown.PNG)
+
 
 >**WEEK 14**
 
@@ -306,4 +303,3 @@ This week, i passed my [Combined OLED+ULTRASONIC Code](https://github.com/wendah
 This week, i countinued helping sean in his electronics and changed the lengthy sentences of the poster to something sweet and short for the readers. We assembled our prototype together so that we can put it in our poster.
 
 ![Done Construction](https://github.com/wendahere/JAWS/blob/master/Images/FULL%20CONSTRUCTION.jpg)
-![HTML+Functions](https://github.com/wendahere/JAWS/blob/master/Images/30-1withdropdown.PNG)
