@@ -124,6 +124,27 @@ I rewrote the code from scratch after finding out my mistake, was stumped and co
 
 [![Space Invaders!](http://img.youtube.com/vi/JxIyh3bOaRo/0.jpg)](http://www.youtube.com/watch?v=JxIyh3bOaRo)
 
+# Week 3 (28/10/19 - 4/11/19)
+
+This week we were taught the history of track vehicles, its development throughout the years, and its wide variety of applications.
+
+Furthermore we also [assembled](https://github.com/wendahere/JAWS/blob/master/README.md#assembly) the T100 continous track vehicle which wil be used for learning and prototyping.
+
+### Individual Assignment
+
+A grocery transportation drone is being designed. It will have continuous tracks as the method of propulsion. Only one sprocket axis is powered.
+
+Determine the type of electrical motor(s) to be bought to power it? Budget constraint for motor(s): USD100 in total.
+
+Functional constraint:
+
+- Vmax = as fast as possible but limited only to motor's max rpm
+- Acceleration time to Vmax = any number between 1 to 5 seconds (should be unique between students).
+- Maximum incline = BCA-approved wheelchair ramp incline (find out and cite source)
+- Weight = 1kg + weight of groceries
+- Weight of groceries = combined weight of 5-6 randomly choose bulky goods from Redmart or Fairprice's website and cite their individual weights and their combined weight. 
+- Graph of Tw vs Acceleration times need to be done in Excel (may need enough points for a best-fit graph), illustrating the range of viable Tw.
+
 
 
 # Week 4
@@ -194,6 +215,8 @@ I followed this guide, [link](https://randomnerdtutorials.com/esp32-esp8266-micr
 We completed the chassis for JAWS.
 
 #Week 14
+
+
 Milestone 1 Day.
 
 Coded ESP Webserver without motor controls yet. My teammate did manual control (WASD) input to control the motors. 
@@ -204,6 +227,8 @@ We did the boost converter and batteries chargers this week.
 The movement works for WASD controls, we ended up getting 75/100 for 15% of the project.
 
 #Week 15
+
+
 I combined the codes to enable movement using the web server. 
 
 
@@ -215,6 +240,8 @@ The circuit is powered using batteries, showing boost converter and buck convert
 I will be working on the ultrasonic sensor web server control.
 
 #Week 16
+
+
 I had issues with the code. After researching the error message, I realized that I did not put a return on the ultrasonic sensor function. ![This is how the current html code looks like](https://raw.githubusercontent.com/wendahere/JAWS/master/Images/29-1.PNG).
 This is how the current code looks like.
 
@@ -246,6 +273,7 @@ After showing my html web controller I realized that the distance unit was wrong
 
 #Week 17
 
+
 Did laser cutting, had error in designs, so Allen had to redesign and re-cut tomorrow. Did 3D printing at home for sensor casing.
 
 Met up online to do code. 
@@ -268,6 +296,16 @@ I helped to make it into a function.
 
 I used the OLED function and put it into the main code. Current code has Motors, Ultrasonic sensor, OLED and servo. It is currently at first version.
 
+I did the voltage divider code and soldered the circuit. I have added heat shrink and tape to cover any exposed wires. [!VoltDivider]()
+
+Voltage Divider code is here. ESP32 pins can read input up to 3.3v. The batteries in series is 8.4v. The voltage divider is made such that 8.4v will be reduced to 3.3vs. ESP32 will read. If 3.3v is read, it means that batteries are at max capacity, 8.4v . Math is CVolt= (value/4095)*3.3*4 . Output will be from 0 to 4095, we have to change this to show the current battery voltage. Voltage is stepped down about 4 times, thus (value/4095)*3.3*4, will get voltage out of 8.4v.
+
+I followed this [guide](https://randomnerdtutorials.com/esp8266-adc-reading-analog-values-with-nodemcu/)
+
+#Week 19
+
+###Monday 17/2/2020
+
 Finally tested the code and it had trouble running. I was very frustrated as I kept pushing for a test but the electrical components were not soldered and changing to breadboard was very troublesome.
 
 I asked Vincent for help and he told me my indentation was wrong. I used an older working version of the code and slowly copied the new code into the working version while editing the indentation. The HTML portion works and I am confident the motors will work but we have to wait till tomorrow to test.
@@ -275,3 +313,17 @@ I asked Vincent for help and he told me my indentation was wrong. I used an olde
 [Current Code Mark 9](https://github.com/wendahere/JAWS/blob/master/Content/MotorANDUltrasoniccodes/M%26TMARK9%23Version1.py)
 
 I plan to test the motors first, thus the other components in the code are in comment, when the motors work, I will remove the comments for servo and test that and so on.
+
+###Tuesday 18/2/2020
+
+I used mark9 code.
+
+The motors initially only ran on one side, but was fixed. Error was the pins for one side of the motor was wrong.
+
+I then tested the ultrasonic transducer and it works.
+
+The servo does not work.
+
+The error was int was not callable. My mistake was I set the function name for moving servos and if else statement for moving servo to be the same, thus had that error. I made updated the code to mark10 and it worked.
+
+However, there was issue stopping the servo. When I pressed stop button, the web link will change but JAWS state remained the same. I realised that the capital letter for if else statement was different and I standardized it and it worked.
