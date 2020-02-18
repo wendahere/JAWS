@@ -199,7 +199,9 @@ This week was our mid-semester, as such I took a short hiatus from doing the pro
 ### Milestone 1
 
 ## Week 15 (20/1/20 - 26/1/20):
+Afteer our first milestone, I started work on modelling 
 ### Tank Chasis Modeling
+
 
 
 ## Week 16 (27/1/20 - 2/2/20):
