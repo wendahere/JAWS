@@ -310,7 +310,7 @@ The code was quite messy and less comments which are quite hard to understand wh
 
 Since i did the OLED for my team i realised that we dont need the switching screen idea since we got enough space so i just changed the positioning of the STATUS, Battery value, Ultrasonic Transducer value in the code. 
 
-> And the OLED finally shows what i wanted to see:
+>OLED finally shows what i wanted to see:
 
 *little Bit Blur Sorry :9*
 
