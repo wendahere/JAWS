@@ -199,16 +199,46 @@ This week was our mid-semester, as such I took a short hiatus from doing the pro
 ### Milestone 1
 
 ## Week 15 (20/1/20 - 26/1/20):
-### 
+### Tank Chasis Modeling
+
 
 ## Week 16 (27/1/20 - 2/2/20):
-###
+### Mechanism Modeling
+After I finished the modelling the tank chasis, it is now time to model the main part of our vehicle, which is the box that will house all the electronics and any other mechanisms that we need. All of the electronic models are taken courtesy of the wonderful GrabCAD community, [insert link].
+#### Box
+For the box itself, I decided to go for an transparent acrylic box shape.
+
+The reason for it because:
+1) The panels can be laser cut individually, allowing small incremental changes to certain sides of the box to be easier, as I do not need to reprint an entire box if we 3D printed it.
+2) Lesser time 
+3) 
+
+#### Electrical Component Holder
+
+#### Stripboards
+
+#### Mechanism
+
+### Reflections
+Should have made a dirty prototype first bla bla
 
 ## Week 17 (3/2/20 - 9/2/20):
-###
+### Fabrication of Parts
+With the first few designs of my parts finished in fusion, 
+
+#### Changes made to the laser cut parts
+
+#### Changes made to 3D printed parts
+
+### Mechanical Calculation
+Using the knowledge gained from week 3, I calculated the required torque of our tracker vehicle in order to determine if the provided motors were able to output the torque required.
+
+Furthermore taking into consideration of other factors such as human walking speed.
 
 ## Week 18 (10/2/20 - 16/2/20):
-### 
+### Testing and Assembly
+
 
 ## Week 19 (17/2/20 - 23/2/20):
+### Final Assembly
 ### Presentation

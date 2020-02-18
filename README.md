@@ -353,3 +353,9 @@ NDI2OTc1MiwtMTUzMDcxNjg5NywtNjIyMTIxMTIxLDE4MDYwNj
 M5MjcsLTE1NzM1MzA2MTIsMjU4ODk0NzMyLC0xNTczNTMwNjEy
 XX0=
 -->
+## Week 18-19
+In these last 2 weeks, we focused on testing and assemblying our track vehicle.
+
+### Mechanical Side:
+
+### Electrical Side:
