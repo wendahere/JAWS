@@ -308,6 +308,8 @@ Before testing of all our codes in HTML MAIN CODE, Wenda collate the code togeth
 
 The code was quite messy and less comments which are quite hard to understand what wenda trying to achieve. This, however lead to Wenda's code having a few problems (mainly capital letters, OLED positioning clashes, one of the servo's command doesnt work) during our testing. Also Sean's soldering circuit have some minor problems that he fixed while we was testing.
 
+Wenda even admit to Vincent that he mostly copy and paste codes from internet...this shows why he wasnt able to understand what he was doing all this time.
+
 Since i did the OLED for my team i realised that we dont need the switching screen idea since we got enough space so i just changed the positioning of the STATUS, Battery value, Ultrasonic Transducer value in the code. 
 
 >OLED finally shows what i wanted to see:
