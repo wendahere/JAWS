@@ -356,6 +356,8 @@ XX0=
 ## Week 18-19
 In these last 2 weeks, we focused on testing and assemblying our track vehicle.
 
+Test Video: [![Working Demo!](http://i3.ytimg.com/vi/qm3RDykjh20/hqdefault.jpg)](https://youtu.be/qm3RDykjh20)
+
 ### Mechanical Side:
 
 ### Electrical Side:
