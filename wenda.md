@@ -296,7 +296,7 @@ I helped to make it into a function.
 
 I used the OLED function and put it into the main code. Current code has Motors, Ultrasonic sensor, OLED and servo. It is currently at first version.
 
-I did the voltage divider code and soldered the circuit. I have added heat shrink and tape to cover any exposed wires. [!VoltDivider]()
+I did the voltage divider code and soldered the circuit. I have added heat shrink and tape to cover any exposed wires. ![VoltDivider](https://raw.githubusercontent.com/wendahere/JAWS/master/Images/VoltageDivider.jpeg)
 
 Voltage Divider code is here. ESP32 pins can read input up to 3.3v. The batteries in series is 8.4v. The voltage divider is made such that 8.4v will be reduced to 3.3vs. ESP32 will read. If 3.3v is read, it means that batteries are at max capacity, 8.4v . Math is CVolt= (value/4095)*3.3*4 . Output will be from 0 to 4095, we have to change this to show the current battery voltage. Voltage is stepped down about 4 times, thus (value/4095)*3.3*4, will get voltage out of 8.4v.
 
@@ -324,6 +324,8 @@ I then tested the ultrasonic transducer and it works.
 
 The servo does not work.
 
-The error was int was not callable. My mistake was I set the function name for moving servos and if else statement for moving servo to be the same, thus had that error. I made updated the code to mark10 and it worked.
+The error was int was not callable. My mistake was I set the function name for moving servos and if else statement for moving servo to be the same, thus had that error. I made updated the code to [mark10](https://github.com/wendahere/JAWS/blob/master/Content/MotorANDUltrasoniccodes/M%26TMARK10%23Version1.py) and it worked.
 
-However, there was issue stopping the servo. When I pressed stop button, the web link will change but JAWS state remained the same. I realised that the capital letter for if else statement was different and I standardized it and it worked.
+However, there was issue stopping the servo. When I pressed stop button, the web link will change but JAWS state remained the same. I realised that the capital letter for if else statement was different and I standardized it and it worked. [Mark 11](https://github.com/wendahere/JAWS/blob/master/Content/MotorANDUltrasoniccodes/M%26TMARK11%23Version1.py)
+
+I added voltage divider code to the main code, [Mark 12](https://github.com/wendahere/JAWS/blob/master/Content/MotorANDUltrasoniccodes/M%26TMARK12%23Version1.py).
