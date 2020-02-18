@@ -333,3 +333,5 @@ However, there was issue stopping the servo. When I pressed stop button, the web
 [![Working Demo!](http://i3.ytimg.com/vi/qm3RDykjh20/hqdefault.jpg)](https://youtu.be/qm3RDykjh20)
 
 I added voltage divider code to the main code, [Mark 12](https://github.com/wendahere/JAWS/blob/master/Content/MotorANDUltrasoniccodes/M%26TMARK12%23Version1.py).
+
+Jayvien told me he didn't know how to add the oled code to the main code, so I did it. I made it display Voltage in battery, distance in ultrasonic sensor and JAWS state. We will test this soon. [Main#3](https://github.com/wendahere/JAWS/blob/master/Content/MAIN/Main%233.py)
