@@ -287,6 +287,8 @@ So i was interested with the PCA9685 it with the servor motor.
 
 --> So i read it and tried to do the code also listen to [Youtuber,Robojax](https://www.youtube.com/channel/UCkcBSig_Iu4ZnAIeCeG1TVg)...I actually saw one of the led in the ULN2003 Motor Driver lit up but i totally forget to take a picture and video which lose my effort for proving it. 
 
+[pca9685.py](https://github.com/wendahere/JAWS/blob/master/Content/SERVO/pca9685.py)
+
 [ULN2003 MOTOR DRIVER](https://www.google.com/search?q=ULN2003+driver+pinout&rlz=1C1NDCM_enSG809SG809&tbm=isch&source=iu&ictx=1&fir=kgwz541PNmwbyM%253A%252CTpIyhKIj55w4qM%252C_&vet=1&usg=AI4_-kQFJ28WLiIUOHT33_YMlS3NzBUyjA&sa=X&ved=2ahUKEwjh1N7r0rLnAhVj7XMBHVyMDy0Q9QEwBXoECAkQDg#imgrc=mXENAulIXQIhOM:&vet=1). This will show the pinouts needed to be placed.
 
 
