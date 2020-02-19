@@ -329,7 +329,7 @@ Wenda even admit to Vincent that he mostly copy and paste codes from internet...
 
 Since i did the OLED for my team i realised that we dont need the switching screen idea. And i checked another time and realised that the code didnt import the ssd1306 file in the ESP32 so i just changed the positioning of the STATUS, Ultrasonic Transducer & Battery Life value in the code as well as put in the OLED ssd1306 library to the ESP32.
 
-[Main#5 Updated](https://github.com/wendahere/JAWS/blob/master/Content/MAIN/Main%235.py)
+&rarr; **[Main#5 Updated](https://github.com/wendahere/JAWS/blob/master/Content/MAIN/Main%235.py)**
 
 >OLED finally shows what i wanted to see:
 
