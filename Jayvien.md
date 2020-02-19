@@ -145,7 +145,9 @@ Open your Device Manager and locate your USB Port Number (Eg: COM13) & put the f
 
 # *Week 5*
 
--Fan In (Number of inputs a logic gate can handle) & Fan Out (Number of gate inputs that the output of a logic gate drives)
+- Fan In (Number of inputs a logic gate can handle) 
+
+- Fan Out (Number of gate inputs that the output of a logic gate drives)
 
 >Two Options for ESP32 Devices:
 
