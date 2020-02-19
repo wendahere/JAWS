@@ -327,3 +327,13 @@ We recheck by testing the servor motor movement and the wheel movement just to c
 # *Presentation Week*
 
 [Here](https://docs.google.com/presentation/d/1Lq_Oh_S7RbmHg3k1PEp-lbV-0LjMcQh1vjn0CY7_IiM/edit?usp=sharing) is the link to our Presentation Slides.
+
+Before our team's presentation start, Wenda tested to see whether his own servo motor working but unfortunately there is some error in the calulatations & the commands for the ultrasonic transducer.
+
+Our Teacher, Mr Rodney Dorville & Mr Chien Jung Tune was kind enough to give every group some time to make amends because VIPs & Directors of different school are coming to see it on Friday, *(21 Feb 2020)* .
+
+Since Wenda code the servo motor and the ultrasonic transducer before giving me to make it finalise it to the OLED display, he have some experience with it and wanted to spot his own mistake. So he redo our [Our Main Code](https://github.com/wendahere/JAWS/blob/master/Content/MAIN/Main%237.py).
+
+
+
+#*SPECIAL THANKS TO OUR TEACHER, <MR RODNEY DORVILLE & MR CHIEN JUNG TUNE> FOR SHARING EXPERIENCES,TIPS & ADVICES TO IMPROVE ON OUR PRODUCT*
