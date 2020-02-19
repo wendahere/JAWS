@@ -313,6 +313,8 @@ I also read up the [Display Analog value Tips](https://randomnerdtutorials.com/e
 
 This is for the voltage divider to show battery life value which requires about 3 different ohm resistors since the website suggests us to use 1k potentiometer.
 
+It gave the code for micopython and explains it clearly to readers.
+
 # *Week 19*
 
 This week, i countinued helping sean in his electronics and changed the lengthy sentences of the poster to something sweet and short for the readers. We assembled our prototype together so that we can put it in our poster.
