@@ -271,6 +271,16 @@ One example is [rdagger68](https://www.youtube.com/channel/UCp2rS5TxRt6W8fieAk74
 
 >*He mainly uses Raspberry Pi & Other items that teaches viewers on things that we can do with different types of devices through his tutorials.*
 
+So i was kinda interested with the PCA9685 and wanted to test and try out with the servor motor.
+
+**[AdaFruit PCA9685 Explain](https://learn.adafruit.com/16-channel-pwm-servo-driver?view=all)
+
+**[Further More Explaination](https://www.youtube.com/watch?v=y8X9X10Tn1k)
+
+So i read it and tried to do the code also listen to [Youtuber,Robojax](https://www.youtube.com/channel/UCkcBSig_Iu4ZnAIeCeG1TVg)...I actually saw the ULN2003 Motor Driver lit up but i totally forget to take a picture and video which lose my effort for proving it.
+
+[ULN2003 MOTOR DRIVER](https://www.google.com/search?q=ULN2003+driver+pinout&rlz=1C1NDCM_enSG809SG809&tbm=isch&source=iu&ictx=1&fir=kgwz541PNmwbyM%253A%252CTpIyhKIj55w4qM%252C_&vet=1&usg=AI4_-kQFJ28WLiIUOHT33_YMlS3NzBUyjA&sa=X&ved=2ahUKEwjh1N7r0rLnAhVj7XMBHVyMDy0Q9QEwBXoECAkQDg#imgrc=mXENAulIXQIhOM:&vet=1)
+
 
 # *Week 15*
 
@@ -289,9 +299,6 @@ This Week, I did the OLED Coding Tasks that Mr Rodney assigned each team to do.
 - After doing that, it is important to display something on your screen to show the output of it. So I asked my team what output they want to see in the OLED Display and they decided they want 'SAFE' & 'NOT SAFE'. And I Showed the [OLED MAIN CODE](https://github.com/wendahere/JAWS/blob/master/Content/Jay%20OLED%20main.py) to them.
 
 However, there is one more important step after doing all of these. It is very important to **Press the EN button on your ESP32** to enable it to the OLED Display. This will pop out the words you type inside the [OLED MAIN CODE](https://github.com/wendahere/JAWS/blob/master/Content/Jay%20OLED%20main.py) that i given to you before. [MORE GUIDES](https://randomnerdtutorials.com/micropython-oled-display-esp32-esp8266/)
-
-
-[ULN2003 MOTOR DRIVER](https://www.google.com/search?q=ULN2003+driver+pinout&rlz=1C1NDCM_enSG809SG809&tbm=isch&source=iu&ictx=1&fir=kgwz541PNmwbyM%253A%252CTpIyhKIj55w4qM%252C_&vet=1&usg=AI4_-kQFJ28WLiIUOHT33_YMlS3NzBUyjA&sa=X&ved=2ahUKEwjh1N7r0rLnAhVj7XMBHVyMDy0Q9QEwBXoECAkQDg#imgrc=mXENAulIXQIhOM:&vet=1)
 
 # *Week 17*
 
