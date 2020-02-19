@@ -246,9 +246,11 @@ Users can have the ability to move the Vehicle by using keys on the laptop (Got 
 
 **Forward --> 'w' / Left --> 'a' / Right --> 'd' / Backward --> 's' / Stop --> 'q'**
 
-After that, I tried to place the [Motor Movement Code](https://github.com/wendahere/JAWS/blob/master/Content/Jay's%20REPL%20MotorControl.py) together with the [HTML+MOTOR](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/MotorcontrolHTMLMark3.py). 
+After that, I tried to place the [Motor Movement Code](https://github.com/wendahere/JAWS/blob/master/Content/Jay's%20REPL%20MotorControl.py) together with the [HTML+MOTOR](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/MotorcontrolHTMLMark3.py). OR [HTMLMOTOR](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/motortest2withhtml.py)
 
-I also placed more buttons so that we can click different buttons to work.
+*Totally forget which HTML+MOTOR CODE already*
+
+I also placed more buttons so that we can click different buttons to work. 
 
 ![HTML+MOVEMENT](https://github.com/wendahere/JAWS/blob/master/Images/29-1.PNG)
 
