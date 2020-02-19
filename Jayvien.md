@@ -147,7 +147,7 @@ Open your Device Manager and locate your USB Port Number (Eg: COM13) & put the f
 
 -Fan In (Number of inputs a logic gate can handle) & Fan Out (Number of gate inputs that the output of a logic gate drives)
 
--Two Options for ESP32 Devices:
+>Two Options for ESP32 Devices:
 
 1. Sink (Able to effectively reduce large currents & Also use small currents)  **Recommended**
 2. Source (Relies on the main supply)
