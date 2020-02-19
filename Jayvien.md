@@ -318,8 +318,10 @@ Since i did the OLED for my team i realised that we dont need the switching scre
 
 ![Jay's Oled Prove](https://github.com/wendahere/JAWS/blob/master/Images/Jayvien%20OLED%20Prove.jpeg)
 
+We recheck by testing the servor motor movement and the wheel movement just to check before going home. 
+
+[HERE IS THE YOUTUBE VIDEO](https://www.youtube.com/watch?v=qm3RDykjh20&feature=youtu.be)
+
 # *Presentation Week*
 
 [Here](https://docs.google.com/presentation/d/1Lq_Oh_S7RbmHg3k1PEp-lbV-0LjMcQh1vjn0CY7_IiM/edit?usp=sharing) is the link to our Presentation Slides.
-
-
