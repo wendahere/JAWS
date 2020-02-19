@@ -73,23 +73,27 @@ I have watched a video on Python programming and would like to recommend it. Thi
 [![Or below here](http://img.youtube.com/vi/IMGzzK9Wn4w/0.jpg)](http://www.youtube.com/watch?v=IMGzzK9Wn4w)
 
 #### Pros:
+
 - Goes through everything of Python, including installation of the program required
 - Very clear on explanation and understandable English
 - Considered short, compared to 4 hours tutorial 
 - Everything packed into 1 hour 30mins
 - Rather new video (2019) and updated channel
 #### Cons: 
+
 - Video volume not consistent, start and end of video is VERY loud, please be careful
 - Have to pause the video if you are following
 
 
 ## Journal for Week 2
+
 Learned about micropython and using the BBC Microbit.
 We used Thonny to program the Microbit. I was really interested and invested in this as it was a fun topic for me. I liked that I could create simple games and displays using the Microbit with little effort. 
 
 Our assignment was to download the python editor, I used Thonny during class but I am thinking of using MU editor instead as it was for more beginners like me.
 
 ###  Week 2 - Second half of the week
+
 I used Thonny to code this.
 
 I have done the space invader game (Below)
@@ -152,6 +156,7 @@ Functional constraint:
 ##### For class, we used ESP32.
 
 ### Tutorial to use ESP32
+
 Follow this [guide](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation) if unclear, there are picture and clear steps. This is a good guide.
 
 1. [Install Python](https://www.python.org/downloads/) (Make sure to tick Path installation)
@@ -184,6 +189,7 @@ I did 2 designs. [Easier one](https://youtu.be/9oUzNAoKIjM) for practice and [Ma
 # Week (8-13)
 
 ### Installing wifimanager and main on ESP32.
+
 I used Thonny for this.
 Guide followed: [Link](https://randomnerdtutorials.com/micropython-wi-fi-manager-esp32-esp8266/)
 
@@ -203,6 +209,7 @@ Step 5: Press "EN" button on the ESP32 and look at the shell. If there is no err
 [Such as this.](https://raw.githubusercontent.com/wendahere/JAWS/master/Images/esp32wifi.png)
 
 ### Hello World in browser.
+
 By default, IP Address is set to http://192.168.4.1/
 Follow [this](https://randomnerdtutorials.com/micropython-esp32-esp8266-access-point-ap/) guide. I made the ESP32 into a web server, an access point and printed "Hello World" in that address.
 
@@ -255,6 +262,7 @@ At first I had difficulties with this. The shell output had no error but I could
 [This is the current code](https://github.com/wendahere/JAWS/blob/master/Content/MotorANDUltrasoniccodes/M%26TMARK3%23Version1.py).
 
 ###More progress on dropdown menu
+
 Initially Jayvien added a dropdown menu with no functions. (below) The dropdown portion also has problems, it is too far to the left.
 ![functions.](
 https://raw.githubusercontent.com/wendahere/JAWS/master/Images/25-1.PNG) 
@@ -335,3 +343,19 @@ However, there was issue stopping the servo. When I pressed stop button, the web
 I added voltage divider code to the main code, [Mark 12](https://github.com/wendahere/JAWS/blob/master/Content/MotorANDUltrasoniccodes/M%26TMARK12%23Version1.py).
 
 Jayvien told me he didn't know how to add the oled code to the main code, so I did it. I made it display Voltage in battery, distance in ultrasonic sensor and JAWS state. We will test this soon. [Main#3](https://github.com/wendahere/JAWS/blob/master/Content/MAIN/Main%233.py)
+
+###Wednesday 19/2/2020
+
+We met up early in the morning to test the the final code, and after a few  revisions, got it working.
+Version is Main#5. Our presentation went well, the transducer portion still can be improved. I will change it tonight.
+
+##More about JSN-SR04T- 2.0
+
+This is the model of the ultrasonic transducer we are using. We are using this due to lack of budget, if I could choose, I would get any of the industry standard NDT Testing Transducer. My dad part of his job entails using one of these single element pulse echo transducer to test for thickness of boilers and pressure vessels. I have tried using it and it is very accurate. I have asked him if there was any possibility of using any spares for my project but he was unable to find his other transducers. I have asked about the probe only and the shop said that they dont sell probe alone but was able to order for me, however it costed about $100 SGD, so I decided against it.
+
+This transducer can be used to prove the concept that using an NDT probe will work. I have checked the wires for NDT probes and it is the same, there are 4 wires, same as ultrasonic transducer. 
+
+I have searched online and there are videos of people testing depth of water and working.
+
+However, minimum depth is 20cm. I have tested on wood and it worked but only sometimes, I have to keep testing till I get a good value. This is not very reliable but is good to prove the concept that using a better probe will work.
+
