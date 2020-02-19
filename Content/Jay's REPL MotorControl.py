@@ -13,8 +13,8 @@ def Forward():
     
     Motor1a.value(1)
     Motor1b.value(0)
-    Motor2a.value(0)
-    Motor2b.value(1)
+    Motor2a.value(1)
+    Motor2b.value(0)
     eA.value(1)
     eB.value(1)
 
