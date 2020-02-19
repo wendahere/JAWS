@@ -347,7 +347,7 @@ Jayvien told me he didn't know how to add the oled code to the main code, so I d
 ###Wednesday 19/2/2020
 
 We met up early in the morning to test the the final code, and after a few  revisions, got it working.
-Version is Main#5. Our presentation went well, the transducer portion still can be improved. I will change it tonight.
+Version is [Main#5](https://raw.githubusercontent.com/wendahere/JAWS/master/Content/MAIN/Main%236.py). Our presentation went well, the transducer portion still can be improved. I will change it tonight.
 
 ##More about JSN-SR04T- 2.0
 
@@ -358,4 +358,8 @@ This transducer can be used to prove the concept that using an NDT probe will wo
 I have searched online and there are videos of people testing depth of water and working.
 
 However, minimum depth is 20cm. I have tested on wood and it worked but only sometimes, I have to keep testing till I get a good value. This is not very reliable but is good to prove the concept that using a better probe will work.
+[Here is the datasheet.](https://github.com/wendahere/JAWS/blob/master/Content/JSN-SR04T-2.0%20(2).pdf)
 
+###More Elaboration 
+
+It has operating temperature of -20 to 70 degrees Celsius, it will be able to work on ice, furthermore, this is waterproof. If any water comes in contact with the transducer, it will be fine. 
