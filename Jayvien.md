@@ -280,11 +280,11 @@ He told us that we need to show a sketch of how it looks like because it mainly 
 
 This Week, I did the OLED Coding Tasks that Mr Rodney assigned each team to do. 
 
-Firstly, in order to have the OLED working with ESP32 we need to create a [OLED Library](http://github.com/wendahere/JAWS/blob/master/Content/MAIN%20OLED%20ssd1306.py) for it. **Save this file as ssd1306.py.**
+- Firstly, in order to have the OLED working with ESP32 we need to create a [OLED Library](http://github.com/wendahere/JAWS/blob/master/Content/MAIN%20OLED%20ssd1306.py) for it. **Save this file as ssd1306.py.**
 
 *The main purpose of this is to allow ESP32 to access the OLED to print something on the screen , set its sizes & dimensions.*
 
-After doing that, it is important to display something on your screen to show the output of it. So I asked my team what output they want to see in the OLED Display and they decided they want 'SAFE' & 'NOT SAFE'. And I Showed the [OLED MAIN CODE](https://github.com/wendahere/JAWS/blob/master/Content/Jay%20OLED%20main.py) to them.
+- After doing that, it is important to display something on your screen to show the output of it. So I asked my team what output they want to see in the OLED Display and they decided they want 'SAFE' & 'NOT SAFE'. And I Showed the [OLED MAIN CODE](https://github.com/wendahere/JAWS/blob/master/Content/Jay%20OLED%20main.py) to them.
 
 However, there is one more important step after doing all of these. It is very important to **Press the EN button on your ESP32** to enable it to the OLED Display. This will pop out the words you type inside the [OLED MAIN CODE](https://github.com/wendahere/JAWS/blob/master/Content/Jay%20OLED%20main.py) that i given to you before. [MORE GUIDES](https://randomnerdtutorials.com/micropython-oled-display-esp32-esp8266/)
 
