@@ -276,19 +276,19 @@ Everything works well but Sean do his part very last minute which causes our tea
 
 I showed my [Working Movement Code](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/Jayvien%20WASD%20Movement.py) to Mr Rodney and he was impressed with it. Also showed the [HTML+MOTOR](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/MotorcontrolHTMLMark3.py) to him as well.
 
-I asked for the components from Mr Rodney so that i can try it my own.
 
-So i was kinda interested with the PCA9685 and wanted to test and try out with the servor motor.
+So i was interested with the PCA9685 it with the servor motor.
+
+*I asked for the components from Mr Rodney so that i can try it my own at home*
 
 **[AdaFruit PCA9685 Explain](https://learn.adafruit.com/16-channel-pwm-servo-driver?view=all)
 
 **[Further More Explaination](https://www.youtube.com/watch?v=y8X9X10Tn1k)
 
-So i read it and tried to do the code also listen to [Youtuber,Robojax](https://www.youtube.com/channel/UCkcBSig_Iu4ZnAIeCeG1TVg)...I actually saw one of the led in the ULN2003 Motor Driver lit up but i totally forget to take a picture and video which lose my effort for proving it. 
+--> So i read it and tried to do the code also listen to [Youtuber,Robojax](https://www.youtube.com/channel/UCkcBSig_Iu4ZnAIeCeG1TVg)...I actually saw one of the led in the ULN2003 Motor Driver lit up but i totally forget to take a picture and video which lose my effort for proving it. 
 
 [ULN2003 MOTOR DRIVER](https://www.google.com/search?q=ULN2003+driver+pinout&rlz=1C1NDCM_enSG809SG809&tbm=isch&source=iu&ictx=1&fir=kgwz541PNmwbyM%253A%252CTpIyhKIj55w4qM%252C_&vet=1&usg=AI4_-kQFJ28WLiIUOHT33_YMlS3NzBUyjA&sa=X&ved=2ahUKEwjh1N7r0rLnAhVj7XMBHVyMDy0Q9QEwBXoECAkQDg#imgrc=mXENAulIXQIhOM:&vet=1). This will show the pinouts needed to be placed.
 
-Wenda told me to add a code but he just copy and paste from the adafruit website. It didnt work
 
 # *Week 15*
 
@@ -312,6 +312,8 @@ However, there is one more important step after doing all of these. It is very i
 
 I combined both the Ultrasonic Seonsor & OLED together and changed a little to show the display of the status of the vehicle as well as the value of the ultrasonice sensor in the OLED. [Combined OLED+ULTRASONIC Code](https://github.com/wendahere/JAWS/blob/master/Content/Jay's%20Oled+Ultrasonic%20Sensor.py).
 It worked prefectly showing what i want.
+
+Wenda wanted to try do the PCA9685. So he used the codes that i did it before and he just copy and paste a long string of code without understanding it, of course it didnt work anything for him since he didnt take time to understand it clearly. Then he just gave up it and said he will just do a normal servor motor basic code.
 
 # *Week 18*
 
