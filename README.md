@@ -17,10 +17,10 @@ JayNg (DEEE)
 
 This is our group blog where we post our group discussion for our project. For more further information of each team member's weekly reflection/progress please refer to the following links.
 
-- [Allen's Blog](https://github.com/wendahere/JAWS/blob/master/allen.md)
 - [Jayvien's Blog](https://github.com/wendahere/JAWS/blob/master/Jayvien.md)
 - [Sean's Blog](https://github.com/wendahere/JAWS/blob/master/Sean.md)
 - [Wen Da's Blog](https://github.com/wendahere/JAWS/blob/master/wenda.md)
+- [Allen's Blog](https://github.com/wendahere/JAWS/blob/master/allen.md)
 
 [THIS IS OUR DAILY JOURNAL](https://docs.google.com/document/d/1CuwkPwpdGzopnQklSF0BprGdneGbs09RgtukLm4UbbA/edit?usp=sharing)
 
@@ -361,3 +361,7 @@ Test Video: [![Working Demo!](http://i3.ytimg.com/vi/qm3RDykjh20/hqdefault.jpg)]
 ### Mechanical Side:
 
 ### Electrical Side:
+
+# *Presentation Week*
+
+[Here](https://docs.google.com/presentation/d/1Lq_Oh_S7RbmHg3k1PEp-lbV-0LjMcQh1vjn0CY7_IiM/edit?usp=sharing) is the link to our Presentation Slides.
