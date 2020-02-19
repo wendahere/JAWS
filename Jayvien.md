@@ -169,9 +169,7 @@ Note: Some losses when conversion
 
 # *Week 6*
 
--We learn how to use the different functions in the AutoCad:
-
-The Author of these videos are Jamie Scherer, James Price who provide many videos for beginners.
+We learn how to use the different functions in the AutoCad:
 
 [AutoCad Video Tutorial-Mechanical Assemblies](https://f360ap.autodesk.com/courses/mechanical-assemblies-fundamentals/lessons/lesson-1-create-component) 
 
@@ -195,7 +193,7 @@ The Author of these videos are Jamie Scherer, James Price who provide many video
 - Buck Converters (Cheap / Converts High to Low DC Voltage)
 - Boost Converters (Converts Low to High / Common in Li-ion Battery Banks (3.70V - 5V)
 
-Voltages cannot be Low (Might not work properly) / Too High (Might destroy/burn)
+- Voltages cannot be Low (Might not work properly) / Too High (Might destroy/burn)
 
 **Lithium Battery** : Good Speed control, High acceleration, High starting torque(Wide Speed Range (RPM))
 (Reacts to Air & Water) (Metal oxide + Lithium Ion = Lithium metal Oxide &rarr; Stable) 
