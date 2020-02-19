@@ -199,7 +199,7 @@ We learn how to use the different functions in the AutoCad:
 (Reacts to Air & Water) (Metal oxide + Lithium Ion = Lithium metal Oxide &rarr; Stable) 
 Standard Cell (3V – 4.2V) produce a lot of heat (Use Battery Protection)
 
-AC Source &rarr; Level Conversion (Transformer) &rarr;Rectifer (AC to DC) &rarr; Voltage regulator (To meet your voltage req)
+**AC Source &rarr; Level Conversion (Transformer) &rarr; Rectifer (AC to DC) &rarr; Voltage regulator (To meet your voltage req)**
 
 # *Week 8*
 
