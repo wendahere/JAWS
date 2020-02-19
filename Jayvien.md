@@ -105,12 +105,12 @@ Friction Important (Cause of Traction)
 
 Forces Calculation 
 
-Aerodynamic Forces (Extra Marks):
+&rarr; Aerodynamic Forces (Extra Marks):
 -Motion Resistance
 -Lift Force
 -Lateral Force
 
-Tyre behaviour (Rolling Resistance)
+&rarr; Tyre behaviour (Rolling Resistance)
 ~Contact Pressure distribution of non-moving tyre
 (Need Calculate)
 
@@ -127,15 +127,15 @@ TTE [Ib] = RR [Ib] + GR [Ib] + Fa [Ib]
 **Beginners Help (Steps Below:)**
 
 1st Step: [Download Python Programe](https://www.python.org/downloads/) 
->Remember to **Tick** the pip box so do not need to reinstall pip again!!
+> Remember to **Tick** the pip box so do not need to reinstall pip again!!
 
 2nd Step: [Understand about ESP32 & Installation of Python in ESP32](http://github.com/espressif/esptool/)
 
 3rd Step: [Further application of MicroPython to ESP32](https://docs.micropython.org/en/latest/esp32/tutorial/intro.html)
 
-*DOWNLOAD LINK TO BIN ACCESS PLS SCROLL DOWN*: [ESP32 FLASH BIN](http://micropython.org/download#esp32)
+***DOWNLOAD LINK TO BIN ACCESS PLS SCROLL DOWN*: [ESP32 FLASH BIN](http://micropython.org/download#esp32)
 
-Open your Device Manager and locate your USB Port Number (Eg: COM13) & put the following commands: 
+&rarr; Open your Device Manager and locate your USB Port Number (Eg: COM13) & put the following commands: 
 
 | Commands    | Description |
 | ----------- | ----------- |
