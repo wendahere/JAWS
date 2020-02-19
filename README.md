@@ -358,10 +358,6 @@ In these last 2 weeks, we focused on testing and assemblying our track vehicle.
 
 Test Video: [![Working Demo!](http://i3.ytimg.com/vi/qm3RDykjh20/hqdefault.jpg)](https://youtu.be/qm3RDykjh20)
 
-### Mechanical Side:
-
-### Electrical Side:
-
-# *Presentation Week*
+##Presentation Week
 
 [Here](https://docs.google.com/presentation/d/1Lq_Oh_S7RbmHg3k1PEp-lbV-0LjMcQh1vjn0CY7_IiM/edit?usp=sharing) is the link to our Presentation Slides.
