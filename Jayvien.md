@@ -258,6 +258,8 @@ While I researched more about other things to code for the next part of our proj
 
 I input the dropdown menu for our team so to allow users to choose the mediums & Wenda helped me to align the position of the dropdown menu.
 
+- I learned that the button and changed position of the dropdown should be relative not absolute. 
+
 ![HTML+Functions](https://github.com/wendahere/JAWS/blob/master/Images/30-1withdropdown.PNG)
 
 
