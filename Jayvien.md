@@ -304,13 +304,15 @@ This week, i countinued helping sean in his electronics and changed the lengthy 
 
 ![Done Construction](https://github.com/wendahere/JAWS/blob/master/Images/FULL%20CONSTRUCTION.jpg)
 
-Before testing of all our codes in HTML MAIN CODE, Wenda collate the code together in [Main#3](https://github.com/wendahere/JAWS/blob/master/Content/MAIN/Main%233.py). He told me to change the code when needed so to show values in the OLED. At first, i thought i dont need to change anything after reading through [It](https://github.com/wendahere/JAWS/blob/master/Content/MAIN/Main%233.py) also since i figured out the [OLED SWITCH SCREEN](https://github.com/wendahere/JAWS/blob/master/Content/Jay's%20Oled%20skip%20timing.py) and my teammate wanted the switching screen idea as well. 
+Before testing of all our codes in HTML MAIN CODE, Wenda collate the code together in [Main#4](https://github.com/wendahere/JAWS/blob/master/Content/MAIN/Main%234.py). He told me to change the code when needed so to show values in the OLED. At first, i thought i dont need to change anything after reading through [It](https://github.com/wendahere/JAWS/blob/master/Content/MAIN/Main%234.py) also since i figured out the [OLED SWITCH SCREEN](https://github.com/wendahere/JAWS/blob/master/Content/Jay's%20Oled%20skip%20timing.py) and my teammate wanted the switching screen idea as well. 
 
 The code was quite messy and less comments which are quite hard to understand what wenda trying to achieve. This, however lead to Wenda's code having a few problems (mainly capital letters, OLED positioning clashes, one of the servo's command doesnt work) during our testing. Also Sean's soldering circuit have some minor problems that he fixed while we was testing.
 
 Wenda even admit to Vincent that he mostly copy and paste codes from internet...this shows why he wasnt able to understand what he was doing all this time.
 
-Since i did the OLED for my team i realised that we dont need the switching screen idea since we got enough space so i just changed the positioning of the STATUS, Ultrasonic Transducer & Battery Life value in the code. 
+Since i did the OLED for my team i realised that we dont need the switching screen idea. And i checked another time and realised that the code didnt import the ssd1306 file in the ESP32 so i just changed the positioning of the STATUS, Ultrasonic Transducer & Battery Life value in the code as well as put in the OLED ssd1306 library to the ESP32.
+
+[Main#5 Updated](https://github.com/wendahere/JAWS/blob/master/Content/MAIN/Main%235.py)
 
 >OLED finally shows what i wanted to see:
 
