@@ -317,3 +317,9 @@ Since i did the OLED for my team i realised that we dont need the switching scre
 *little Bit Blur Sorry :9*
 
 ![Jay's Oled Prove](https://github.com/wendahere/JAWS/blob/master/Images/Jay's%20Oled%20Prove.jpeg)
+
+# *Presentation Week*
+
+[Here](https://docs.google.com/presentation/d/1Lq_Oh_S7RbmHg3k1PEp-lbV-0LjMcQh1vjn0CY7_IiM/edit?usp=sharing) is the link to our Presentation Slides.
+
+
