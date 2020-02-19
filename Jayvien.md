@@ -325,7 +325,7 @@ I also read up the [Display Analog value Tips](https://randomnerdtutorials.com/e
 
 This is for the voltage divider to show battery life value which requires about 3 different ohm resistors since the website suggests us to use 1k potentiometer.
 
-It gave the code for micopython and explains it clearly to readers.
+[Battery Reader](https://github.com/wendahere/JAWS/blob/master/Content/batteryreaderforSERIES.py). This uses voltage divider where one resistors point goes to 8v battery & another with two resistors solder together goes to ground.
 
 # *Week 19*
 
