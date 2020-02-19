@@ -193,7 +193,7 @@ We learn how to use the different functions in the AutoCad:
 - Buck Converters (Cheap / Converts High to Low DC Voltage)
 - Boost Converters (Converts Low to High / Common in Li-ion Battery Banks (3.70V - 5V)
 
-- Voltages cannot be Low (Might not work properly) / Too High (Might destroy/burn)
+*Voltages cannot be Low (Might not work properly) / Too High (Might destroy/burn)*
 
 **Lithium Battery** : Good Speed control, High acceleration, High starting torque(Wide Speed Range (RPM))
 (Reacts to Air & Water) (Metal oxide + Lithium Ion = Lithium metal Oxide &rarr; Stable) 
