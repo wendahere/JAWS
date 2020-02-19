@@ -271,6 +271,13 @@ One example is [rdagger68](https://www.youtube.com/channel/UCp2rS5TxRt6W8fieAk74
 
 >*He mainly uses Raspberry Pi & Other items that teaches viewers on things that we can do with different types of devices through his tutorials.*
 
+**&rarr; 1st Milestone:
+Everything works well but Sean do his part very last minute which causes our team to lose 15 marks for it.**
+
+I showed my [Working Movement Code](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/Jayvien%20WASD%20Movement.py) to Mr Rodney and he was impressed with it. Also showed the [HTML+MOTOR](https://github.com/wendahere/JAWS/blob/master/Content/ESPMOTORCODES/MotorcontrolHTMLMark3.py) to him as well.
+
+I asked for the components from Mr Rodney so that i can try it my own.
+
 So i was kinda interested with the PCA9685 and wanted to test and try out with the servor motor.
 
 **[AdaFruit PCA9685 Explain](https://learn.adafruit.com/16-channel-pwm-servo-driver?view=all)
@@ -281,6 +288,7 @@ So i read it and tried to do the code also listen to [Youtuber,Robojax](https://
 
 [ULN2003 MOTOR DRIVER](https://www.google.com/search?q=ULN2003+driver+pinout&rlz=1C1NDCM_enSG809SG809&tbm=isch&source=iu&ictx=1&fir=kgwz541PNmwbyM%253A%252CTpIyhKIj55w4qM%252C_&vet=1&usg=AI4_-kQFJ28WLiIUOHT33_YMlS3NzBUyjA&sa=X&ved=2ahUKEwjh1N7r0rLnAhVj7XMBHVyMDy0Q9QEwBXoECAkQDg#imgrc=mXENAulIXQIhOM:&vet=1). This will show the pinouts needed to be placed.
 
+Wenda told me to add a code but he just copy and paste from the adafruit website. It didnt work
 
 # *Week 15*
 
