@@ -210,7 +210,7 @@ There were two problems:
 1. It does not charge properly as the batteries will discharge to charge the other battery and it will keep doing this as the voltage levels are different
 2. It does not output 8V and the voltage was always decreasing. It also does not have current flowing through when it is at active mode. 
 
-I tried to make another design but to no avail until I saw an idea for the circuit, Vincent, a classmate from another group(his blog [here] )), 
+I tried to make another design but to no avail until I saw an idea for the circuit, Vincent, a classmate from another group(his team blog [here] )), 
 
 # Week 16
 Now that my rechargable power supply worked, I worked on supplying the current need to the other components while also doing the cicuit on stripboards.  I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just the batteries and the voltage changes and a different board for the connection of the esp32 to the other non-power related compoments like our ultrasonic sensor and our OLED display. Thus, I decided to start planning on how to solder it.
@@ -227,11 +227,11 @@ I tested out the circuit and it functioned well
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDU0Mzc5LDExNTgzMjE5NzUsLTEyND
-M0MTA0MjQsLTEzOTY5NTgzMDksLTExNzIxODQ4MTksLTE3Njg5
-OTk1NzIsLTQyNzU3NzQzOSw5MjY1NjUyODMsLTU5NzI3ODg2My
-wxMjY1NTQ5OTM2LC0yMDg3NjIzNzg4LDczMTg5MDc5OCwtMTcx
-Mzg4MjkzNywtMzU2OTk4NzcxLC00OTE2ODkwNTksLTY5MTU4NT
-k5OSwxMjk3MzYxNDk3LDE0MzAyMTk0MjUsMTA0MjUwNjkzOCwx
-MDg2NzY3ODE4XX0=
+eyJoaXN0b3J5IjpbLTEwMDUxNDIwMTQsLTU2NDU0Mzc5LDExNT
+gzMjE5NzUsLTEyNDM0MTA0MjQsLTEzOTY5NTgzMDksLTExNzIx
+ODQ4MTksLTE3Njg5OTk1NzIsLTQyNzU3NzQzOSw5MjY1NjUyOD
+MsLTU5NzI3ODg2MywxMjY1NTQ5OTM2LC0yMDg3NjIzNzg4LDcz
+MTg5MDc5OCwtMTcxMzg4MjkzNywtMzU2OTk4NzcxLC00OTE2OD
+kwNTksLTY5MTU4NTk5OSwxMjk3MzYxNDk3LDE0MzAyMTk0MjUs
+MTA0MjUwNjkzOF19
 -->
