@@ -175,9 +175,13 @@ We learn how to use the different functions in the AutoCad:
 
 [AutoCad Video Tutorial-Mechanical Assemblies](https://f360ap.autodesk.com/courses/mechanical-assemblies-fundamentals/lessons/lesson-1-create-component) 
 
-[Homework for December Holiday](http://507movements.com/) 
+[Homework for December Holiday](https://www.youtube.com/channel/UCli_RJkGWfZvw4IlDLHNCQg)
+
+We supposed to choose one or two designs from this youtuber. i picked the [Motorized Gate](https://www.youtube.com/watch?v=2SnwGDIvYgs)  because it looks cool like an automatic door when car enters to a landed property.
 
 [PHOTO OF MY DESIGN](https://myhub.autodesk360.com/ue2dec881/g/shares/SH56a43QTfd62c1cd96867926022368c8787?viewState=NoIgbgDAdAjCA0IDeAdEAXAngBwKZoC40ARXAZwEsBzAOzXjQEMyzd1C0AWAVgA5OATACMAzAE4AtI14wAbBM6yBAMymdcjCbKGNuAdlndlAY17K9aAL4gAukA)
+
+
 
 # *Week 7*
 
