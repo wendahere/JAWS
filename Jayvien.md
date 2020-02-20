@@ -177,6 +177,8 @@ We learn how to use the different functions in the AutoCad:
 
 [Homework for December Holiday](http://507movements.com/) 
 
+[PHOTO OF MY DESIGN](https://myhub.autodesk360.com/ue2dec881/g/shares/SH56a43QTfd62c1cd96867926022368c8787?viewState=NoIgbgDAdAjCA0IDeAdEAXAngBwKZoC40ARXAZwEsBzAOzXjQEMyzd1C0AWAVgA5OATACMAzAE4AtI14wAbBM6yBAMymdcjCbKGNuAdlndlAY17K9aAL4gAukA)
+
 # *Week 7*
 
 **Buck Switch Mode Power Supply**:
