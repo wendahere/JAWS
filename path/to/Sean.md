@@ -207,7 +207,7 @@ The first circuit design I created was inspired from [this video.](https://www.y
 ![failed circuit](https://user-images.githubusercontent.com/43029229/74098921-a2472c00-4b58-11ea-9d55-2faaaf36eef6.jpeg)
 
 There were two problems:
-1. It does not charge properly
+1. It does not charge properly as the batteries will discharge to charge the other battery and it will keep doing this as the voltage levels are different
 2. It does not output 8V and the voltage was always decreasing. It also does not have current flowing through when it is at active mode. I tried to make another design but to no avail
 
 # Week 16
@@ -225,11 +225,11 @@ I tested out the circuit and it functioned well
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODMyMTk3NSwtMTI0MzQxMDQyNCwtMT
-M5Njk1ODMwOSwtMTE3MjE4NDgxOSwtMTc2ODk5OTU3MiwtNDI3
-NTc3NDM5LDkyNjU2NTI4MywtNTk3Mjc4ODYzLDEyNjU1NDk5Mz
-YsNzMxODkwNzk4LC0xNzEzODgyOTM3LC00OTE2ODkwNTksLTY5
-MTU4NTk5OSwxMjk3MzYxNDk3LDE0MzAyMTk0MjUsMTA0MjUwNj
-kzOCwxMDg2NzY3ODE4LC0xMTQzMTk2MDE0LC0yMDA5NjgxNDI4
-LDE0NDQ3MzczODBdfQ==
+eyJoaXN0b3J5IjpbMTIyNjg1MTk2NywxMTU4MzIxOTc1LC0xMj
+QzNDEwNDI0LC0xMzk2OTU4MzA5LC0xMTcyMTg0ODE5LC0xNzY4
+OTk5NTcyLC00Mjc1Nzc0MzksOTI2NTY1MjgzLC01OTcyNzg4Nj
+MsMTI2NTU0OTkzNiw3MzE4OTA3OTgsLTE3MTM4ODI5MzcsLTQ5
+MTY4OTA1OSwtNjkxNTg1OTk5LDEyOTczNjE0OTcsMTQzMDIxOT
+QyNSwxMDQyNTA2OTM4LDEwODY3Njc4MTgsLTExNDMxOTYwMTQs
+LTIwMDk2ODE0MjhdfQ==
 -->
