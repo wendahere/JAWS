@@ -208,7 +208,9 @@ The first circuit design I created was inspired from [this video.](https://www.y
 
 There were two problems:
 1. It does not charge properly as the batteries will discharge to charge the other battery and it will keep doing this as the voltage levels are different
-2. It does not output 8V and the voltage was always decreasing. It also does not have current flowing through when it is at active mode. I tried to make another design but to no avail
+2. It does not output 8V and the voltage was always decreasing. It also does not have current flowing through when it is at active mode. 
+
+I tried to make another design but to no avail until I saw an idea for the circuit, Vincent, a classmate from another group(his blog [here] )), 
 
 # Week 16
 Now that my rechargable power supply worked, I worked on supplying the current need to the other components while also doing the cicuit on stripboards.  I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just the batteries and the voltage changes and a different board for the connection of the esp32 to the other non-power related compoments like our ultrasonic sensor and our OLED display. Thus, I decided to start planning on how to solder it.
@@ -225,11 +227,11 @@ I tested out the circuit and it functioned well
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjg1MTk2NywxMTU4MzIxOTc1LC0xMj
-QzNDEwNDI0LC0xMzk2OTU4MzA5LC0xMTcyMTg0ODE5LC0xNzY4
-OTk5NTcyLC00Mjc1Nzc0MzksOTI2NTY1MjgzLC01OTcyNzg4Nj
-MsMTI2NTU0OTkzNiw3MzE4OTA3OTgsLTE3MTM4ODI5MzcsLTQ5
-MTY4OTA1OSwtNjkxNTg1OTk5LDEyOTczNjE0OTcsMTQzMDIxOT
-QyNSwxMDQyNTA2OTM4LDEwODY3Njc4MTgsLTExNDMxOTYwMTQs
-LTIwMDk2ODE0MjhdfQ==
+eyJoaXN0b3J5IjpbLTU2NDU0Mzc5LDExNTgzMjE5NzUsLTEyND
+M0MTA0MjQsLTEzOTY5NTgzMDksLTExNzIxODQ4MTksLTE3Njg5
+OTk1NzIsLTQyNzU3NzQzOSw5MjY1NjUyODMsLTU5NzI3ODg2My
+wxMjY1NTQ5OTM2LDczMTg5MDc5OCwtMTcxMzg4MjkzNywtNDkx
+Njg5MDU5LC02OTE1ODU5OTksMTI5NzM2MTQ5NywxNDMwMjE5ND
+I1LDEwNDI1MDY5MzgsMTA4Njc2NzgxOCwtMTE0MzE5NjAxNCwt
+MjAwOTY4MTQyOF19
 -->
