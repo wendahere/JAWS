@@ -179,7 +179,7 @@ We learn how to use the different functions in the AutoCad:
 
 We supposed to choose one or two designs from this youtuber. i picked the [Motorized Gate](https://www.youtube.com/watch?v=2SnwGDIvYgs)  because it looks cool like an automatic door when car enters to a landed property.
 
-[PHOTO OF MY DESIGN](
+[PHOTO OF MY DESIGN](https://github.com/wendahere/JAWS/blob/master/Images/Jayvien's%20Mechanical%20Homework%20Picture.png)
 
 # *Week 7*
 
