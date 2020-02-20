@@ -331,6 +331,8 @@ This is for the voltage divider to show battery life value which requires about 
 
 [Battery Reader](https://github.com/wendahere/JAWS/blob/master/Content/batteryreaderforSERIES.py). This uses voltage divider where one resistors point goes to 8v battery & another with two resistors solder together goes to ground.
 
+[OLED+BATTERY READER](https://github.com/wendahere/JAWS/blob/master/Content/Jay's%20OLED%2Bbattery%20indicator.py). This is the code that i made it by myself combining OLED and Battery Reader code.
+
 # *Week 19*
 
 This week, i countinued helping sean in his electronics and changed the lengthy sentences of the poster to something sweet and short for the readers. We assembled our prototype together so that we can put it in our poster.
