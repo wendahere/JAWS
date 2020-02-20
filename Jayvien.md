@@ -180,7 +180,9 @@ We learn how to use the different functions in the AutoCad:
 We supposed to choose one or two designs from this youtuber. i picked the [Motorized Gate](https://www.youtube.com/watch?v=2SnwGDIvYgs)  because it looks cool like an automatic door when car enters to a landed property.
 
 ![PHOTO OF MY DESIGN](https://github.com/wendahere/JAWS/blob/master/Images/Jayvien's%20Mechanical%20Homework%20Picture.png)
-[LINK TO MY YOUTUBE VIDEO FOR THE MECHANICAL DESIGN ANIMATION](https://www.youtube.com/watch?v=cKPJIfpzMPY)
+**[LINK TO MY YOUTUBE VIDEO FOR THE MECHANICAL DESIGN ANIMATION](https://www.youtube.com/watch?v=cKPJIfpzMPY)**
+
+
 # *Week 7*
 
 **Buck Switch Mode Power Supply**:
