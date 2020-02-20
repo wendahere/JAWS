@@ -212,7 +212,7 @@ There were two problems:
 
 I tried to make another design but to no avail until I saw an idea for the circuit, Vincent, a classmate from another group(his team blog [here](https://github.com/hamtamSP/JAV2)), the circuit looked like this:
 ![WhatsApp Image 2020-02-20 at 15 03 25](https://user-images.githubusercontent.com/43029229/74909412-3637b400-53f3-11ea-904d-52b3d271b2d3.jpeg)
-
+The circuit could output 8V and also charge by just a flick of a switch and it works! I decided to impement the circuit into our design and started working on the other items
 # Week 16
 Now that my rechargable power supply worked, I worked on supplying the current need to the other components while also doing the cicuit on stripboards.  I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just the batteries and the voltage changes and a different board for the connection of the esp32 to the other non-power related compoments like our ultrasonic sensor and our OLED display. Thus, I decided to start planning on how to solder it.
 Here is how the schematic looks like:
@@ -228,11 +228,11 @@ I tested out the circuit and it functioned well
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTA3NDE2MSw1MzEyNzY0ODgsLTE4MT
-M3MDMyNDIsLTU2NDU0Mzc5LDExNTgzMjE5NzUsLTEyNDM0MTA0
-MjQsLTEzOTY5NTgzMDksLTExNzIxODQ4MTksLTE3Njg5OTk1Nz
-IsLTQyNzU3NzQzOSw5MjY1NjUyODMsLTU5NzI3ODg2MywxMjY1
-NTQ5OTM2LC0yMDg3NjIzNzg4LDczMTg5MDc5OCwtMTcxMzg4Mj
-kzNywtMzU2OTk4NzcxLC00OTE2ODkwNTksLTY5MTU4NTk5OSwx
-Mjk3MzYxNDk3XX0=
+eyJoaXN0b3J5IjpbLTEwMTA1NTY2OTMsNTMxMjc2NDg4LC0xOD
+EzNzAzMjQyLC01NjQ1NDM3OSwxMTU4MzIxOTc1LC0xMjQzNDEw
+NDI0LC0xMzk2OTU4MzA5LC0xMTcyMTg0ODE5LC0xNzY4OTk5NT
+cyLC00Mjc1Nzc0MzksOTI2NTY1MjgzLC01OTcyNzg4NjMsMTI2
+NTU0OTkzNiwtMjA4NzYyMzc4OCw3MzE4OTA3OTgsLTE3MTM4OD
+I5MzcsLTM1Njk5ODc3MSwtNDkxNjg5MDU5LC02OTE1ODU5OTks
+MTI5NzM2MTQ5N119
 -->
