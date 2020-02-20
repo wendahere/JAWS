@@ -1,4 +1,4 @@
-**&rarr; [THIS IS OUR WEEKLY BLOG](https://docs.google.com/document/d/1CuwkPwpdGzopnQklSF0BprGdneGbs09RgtukLm4UbbA/edit)
+&rarr; [THIS IS OUR WEEKLY BLOG](https://docs.google.com/document/d/1CuwkPwpdGzopnQklSF0BprGdneGbs09RgtukLm4UbbA/edit)
 
 # *Week 1*
 
