@@ -373,7 +373,9 @@ Before our team's presentation start, Wenda tested to see whether his own servo 
 
 Our Teacher, Mr Rodney Dorville & Mr Chien Jung Tune was kind enough to give every group some time to make amends because VIPs & Directors of different school are coming to see it on Friday, *(21 Feb 2020)* .
 
-Since Wenda code the servo motor and the ultrasonic transducer before giving me to make it finalise it to the OLED display, he have some experience with it and wanted to spot his own mistake. So he redo [Our Main Code](https://github.com/wendahere/JAWS/blob/master/Content/MAIN/Main%237.py).
+Since Wenda code the servo motor and the ultrasonic transducer before giving me to make it finalise it to the OLED display, he have some experience with it and wanted to spot his own mistake. So he redo [Our Main Code](https://github.com/wendahere/JAWS/blob/master/Content/MAIN/Main%237.py). 
+
+**BUT THE CODE THAT WENDA DO, ULTRASONIC TRANSDUCER VALUE AND MOVEMENT DIDNT WORK WHICH IS SUCH A DISAPPOINTING RESULTS.**
 
 
 
