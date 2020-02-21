@@ -375,7 +375,7 @@ Our Teacher, Mr Rodney Dorville & Mr Chien Jung Tune was kind enough to give eve
 
 Since Wenda code the servo motor and the ultrasonic transducer before giving me to make it finalise it to the OLED display, he have some experience with it and wanted to spot his own mistake. So he redo [Our Main Code](https://github.com/wendahere/JAWS/blob/master/Content/MAIN/Main%237.py). 
 
-**BUT THE CODE THAT WENDA DO, ULTRASONIC TRANSDUCER VALUE AND MOVEMENT DIDNT WORK WHICH IS SUCH A DISAPPOINTING RESULTS.**
+**BUT THE CODE THAT WENDA DO, ULTRASONIC TRANSDUCER DIDNT WORK AT ALL WHICH IS SUCH A DISAPPOINTING RESULTS.**
 
 
 
