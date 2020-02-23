@@ -190,7 +190,7 @@ The hardest part of me was that you need to be very presice with the measurement
 ## Reflection for electronics homework
 It was honestly quite hard and I took quite long to get a working power circuit as I did not want to remove the batteries while charging.
 
-My lecturer gave us a TP4056 charging module and two 3.7V 18650 lithium ion batteries to start with our project. **My goal was to create an internal charging station inside the track vehicle for two batteries to power the whole circuit wi**.
+My lecturer gave us a TP4056 charging module and two 3.7V 18650 lithium ion batteries to start with our project. **My goal was to create an internal charging station inside the track vehicle for two batteries to power the whole circuit will all the wiring in the housing and also to have convinience for the user ad the people building it**.
 
 Firstly, I researched about the module to understand about how to use it to power the track vehicle. I tried
  to see the [datasheet](http://www.haoyuelectronics.com/Attachment/TP4056-modules/TP4056.pdf) and youtube videos about it and I realised a couple of things:
@@ -226,17 +226,21 @@ I tested out the circuit and it functioned well. It charges the batteries and it
 This would get to a big problem in the future as it would still supply current into the circuit while charging, thus not charging the circuit at all but instead let the batteries discharge. Thus, I thought of methods to cutting the current to the boost converter. See ya next week!
 
 # Week 18
- I tried to complete the wiring for the components, This became very tedious and annoying as the way that Allen made the housing for all the circuits was to be assembled in a certian order. Thus, when soldering wires from one component stripboard to the other components stripboards was not ideal as it would be joining the other parts of the housing already and would thus make assembly really hard. Thus, I decided to use jumperwires instead of normal wires to solder into the stripboard. I did this to make aseembly of the vehicle is easier and it fits with our vision
+ I tried to complete the wiring for the components, This became very tedious and annoying as the way that Allen made the housing for all the circuits was to be assembled in a certian order. 
+ 
+ Thus, when soldering wires from one component stripboard to the other components stripboards was not ideal as it would be joining the other parts of the housing already and would thus make assembly really hard. 
+ 
+ Thus, I decided to use jumperwires instead of normal wires to solder into the stripboard. I did this to make aseembly of the vehicle is easier and it fits with our vision
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDMxMTE0NiwtODUzMzU1NDMyLDExMD
-A5MDIyMjMsLTE3Nzk2MjQzOTQsLTI3NjQwMTY4MywxNjA1Nzgx
-ODAxLC04MTI2OTY3NjQsNTMxMjc2NDg4LC0xODEzNzAzMjQyLC
-01NjQ1NDM3OSwxMTU4MzIxOTc1LC0xMjQzNDEwNDI0LC0xMzk2
-OTU4MzA5LC0xMTcyMTg0ODE5LC0xNzY4OTk5NTcyLC00Mjc1Nz
-c0MzksOTI2NTY1MjgzLC01OTcyNzg4NjMsMTI2NTU0OTkzNiwt
-MjA4NzYyMzc4OF19
+eyJoaXN0b3J5IjpbMjY4NDAxNTAwLC04NTMzNTU0MzIsMTEwMD
+kwMjIyMywtMTc3OTYyNDM5NCwtMjc2NDAxNjgzLDE2MDU3ODE4
+MDEsLTgxMjY5Njc2NCw1MzEyNzY0ODgsLTE4MTM3MDMyNDIsLT
+U2NDU0Mzc5LDExNTgzMjE5NzUsLTEyNDM0MTA0MjQsLTEzOTY5
+NTgzMDksLTExNzIxODQ4MTksLTE3Njg5OTk1NzIsLTQyNzU3Nz
+QzOSw5MjY1NjUyODMsLTU5NzI3ODg2MywxMjY1NTQ5OTM2LC0y
+MDg3NjIzNzg4XX0=
 -->
