@@ -235,6 +235,8 @@ In my soldering and my designing of the circuits i came across two things:
  Thus, I decided to use jumperwires to connected the stripboards and solder headers instead of normal wires to solder into the stripboard. I did this to make aseembly of the vehicle is easier and it fits with our vision of having the wiring neat for easier fixing and assembly.
 2. I problem of the batteries outputting the same voltage was a proble and I haven't found a solution i liked. I used diodes, transistors and other cur4rent managing components but to no avail. The only solution to the problem as to have a second switch at the Vin+ of the boost converter. That way, I could cut the current when it was charging so that the batteries could actually charge. Well, time to prepare my slides then. See ya next week!
 
+
+
 # Week 19
 
 It was a hetic week and alos it was a great and fun learning experience as I learnt a lot of what i did. Here's some of theings I learnt while doing this project. 
@@ -247,11 +249,13 @@ It was a hetic week and alos it was a great and fun learning experience as I lea
 
 5. Documentation
 
+THis 
+
 Thats akk for me! see ya in my other blogs!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzEwNjI2MTYsOTA2MjcyNjg1LDEzOD
+eyJoaXN0b3J5IjpbLTE0NzkwNTc0NjQsOTA2MjcyNjg1LDEzOD
 gxMjc2MzYsLTg1MzM1NTQzMiwxMTAwOTAyMjIzLC0xNzc5NjI0
 Mzk0LC0yNzY0MDE2ODMsMTYwNTc4MTgwMSwtODEyNjk2NzY0LD
 UzMTI3NjQ4OCwtMTgxMzcwMzI0MiwtNTY0NTQzNzksMTE1ODMy
