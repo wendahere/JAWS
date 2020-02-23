@@ -237,11 +237,11 @@ In my soldering and my designing of the circuits i came across two things:
 
 # Week 19
 
-Pre
+It was a hetic week and alos it was a great
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDg3NDg0MCw5MDYyNzI2ODUsMTM4OD
+eyJoaXN0b3J5IjpbMTI1NDY2NjQwMyw5MDYyNzI2ODUsMTM4OD
 EyNzYzNiwtODUzMzU1NDMyLDExMDA5MDIyMjMsLTE3Nzk2MjQz
 OTQsLTI3NjQwMTY4MywxNjA1NzgxODAxLC04MTI2OTY3NjQsNT
 MxMjc2NDg4LC0xODEzNzAzMjQyLC01NjQ1NDM3OSwxMTU4MzIx
