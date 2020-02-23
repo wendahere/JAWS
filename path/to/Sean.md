@@ -221,17 +221,19 @@ In also discussing the stripboards with Allen, we agreed that there would be sep
 
 # Week 17
 I did soldering of the power circuit this week and have finished it!
-I tested out the circuit and it functioned well. It charges the batteries and it also outputs 8V! I need to make some modifications to the power circuit as I feel that there would be problems with the switching of the active and chaging modes as when connected to the L298N, it would still output 12V no matter how much I toggled the switch. This would get to a big problem in the future as it would still supply current into the circuit while charging, thus not charging the circuit at all but instead let the batteries discharge
+I tested out the circuit and it functioned well. It charges the batteries and it also outputs 8V! I need to make some modifications to the power circuit as I feel that there would be problems with the switching of the active and chaging modes as when connected to the L298N, it would still output 12V no matter how much I toggled the switch.
+
+This would get to a big problem in the future as it would still supply current into the circuit while charging, thus not charging the circuit at all but instead let the batteries discharge. Thus I thought of doing other circuits
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjQwMTY4MywxNjA1NzgxODAxLC04MT
-I2OTY3NjQsNTMxMjc2NDg4LC0xODEzNzAzMjQyLC01NjQ1NDM3
-OSwxMTU4MzIxOTc1LC0xMjQzNDEwNDI0LC0xMzk2OTU4MzA5LC
-0xMTcyMTg0ODE5LC0xNzY4OTk5NTcyLC00Mjc1Nzc0MzksOTI2
-NTY1MjgzLC01OTcyNzg4NjMsMTI2NTU0OTkzNiw3MzE4OTA3OT
-gsLTE3MTM4ODI5MzcsLTQ5MTY4OTA1OSwtNjkxNTg1OTk5LDEy
-OTczNjE0OTddfQ==
+eyJoaXN0b3J5IjpbLTM2NTQ5MjUyNSwtMjc2NDAxNjgzLDE2MD
+U3ODE4MDEsLTgxMjY5Njc2NCw1MzEyNzY0ODgsLTE4MTM3MDMy
+NDIsLTU2NDU0Mzc5LDExNTgzMjE5NzUsLTEyNDM0MTA0MjQsLT
+EzOTY5NTgzMDksLTExNzIxODQ4MTksLTE3Njg5OTk1NzIsLTQy
+NzU3NzQzOSw5MjY1NjUyODMsLTU5NzI3ODg2MywxMjY1NTQ5OT
+M2LDczMTg5MDc5OCwtMTcxMzg4MjkzNywtNDkxNjg5MDU5LC02
+OTE1ODU5OTldfQ==
 -->
