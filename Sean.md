@@ -214,6 +214,7 @@ I tried to make another design but to no avail until I saw an idea for the circu
 ![WhatsApp Image 2020-02-20 at 15 03 25](https://user-images.githubusercontent.com/43029229/74909412-3637b400-53f3-11ea-904d-52b3d271b2d3.jpeg)
 The circuit could output 8V and also charge by just a flick of a switch and it works! I decided to impement the circuit into our design
 # Week 16
+## Reflection
 Now that my rechargable power supply worked, I worked on supplying the current need to the other components while also doing the cicuit on stripboards.  I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just the batteries and the voltage changes and a different board for the connection of the esp32 to the other non-power related compoments like our ultrasonic sensor and our OLED display. Thus, I decided to start planning on how to solder it.
 Here is how the schematic looks like:
 ![new 1week 16 power](https://user-images.githubusercontent.com/43029229/74098849-cfdfa580-4b57-11ea-81a2-da7e051668ba.jpeg)
@@ -226,7 +227,8 @@ I tested out the circuit and it functioned well. It charges the batteries and it
 This would get to a big problem in the future as it would still supply current into the circuit while charging, thus not charging the circuit at all but instead let the batteries discharge. Thus, I thought of methods to cutting the current to the boost converter. See ya next week!
 
 # Week 18
- I tried to complete the wiring for the components, This became very tedious and annoying as the way that Allen made the housing for all the circuits was to be assembled in a certian order. 
+
+I tried to complete the wiring for the components, This became very tedious and annoying as the way that Allen made the housing for all the circuits was to be assembled in a certian order. 
  
  Thus, when soldering wires from one component stripboard to the other components stripboards was not ideal as it would be joining the other parts of the housing already and would thus make assembly really hard. 
  
@@ -236,11 +238,11 @@ This would get to a big problem in the future as it would still supply current i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4NDAxNTAwLC04NTMzNTU0MzIsMTEwMD
-kwMjIyMywtMTc3OTYyNDM5NCwtMjc2NDAxNjgzLDE2MDU3ODE4
-MDEsLTgxMjY5Njc2NCw1MzEyNzY0ODgsLTE4MTM3MDMyNDIsLT
-U2NDU0Mzc5LDExNTgzMjE5NzUsLTEyNDM0MTA0MjQsLTEzOTY5
-NTgzMDksLTExNzIxODQ4MTksLTE3Njg5OTk1NzIsLTQyNzU3Nz
-QzOSw5MjY1NjUyODMsLTU5NzI3ODg2MywxMjY1NTQ5OTM2LC0y
-MDg3NjIzNzg4XX0=
+eyJoaXN0b3J5IjpbLTE3MzkxOTUxNjUsLTg1MzM1NTQzMiwxMT
+AwOTAyMjIzLC0xNzc5NjI0Mzk0LC0yNzY0MDE2ODMsMTYwNTc4
+MTgwMSwtODEyNjk2NzY0LDUzMTI3NjQ4OCwtMTgxMzcwMzI0Mi
+wtNTY0NTQzNzksMTE1ODMyMTk3NSwtMTI0MzQxMDQyNCwtMTM5
+Njk1ODMwOSwtMTE3MjE4NDgxOSwtMTc2ODk5OTU3MiwtNDI3NT
+c3NDM5LDkyNjU2NTI4MywtNTk3Mjc4ODYzLDEyNjU1NDk5MzYs
+LTIwODc2MjM3ODhdfQ==
 -->
