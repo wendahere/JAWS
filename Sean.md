@@ -221,13 +221,13 @@ In also discussing the stripboards with Allen, we agreed that there would be sep
 
 # Week 17
 I did soldering of the power circuit this week and have finished it!
-I tested out the circuit and it functioned well. It charges the batteries and it also outputs 8
+I tested out the circuit and it functioned well. It charges the batteries and it also outputs 8V! I need to make some modifications to the power circuit as I feel that there would be problems with the charging and also have 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDE2MzU0MCwxNjA1NzgxODAxLC04MT
+eyJoaXN0b3J5IjpbLTc4MTc1MjkxNiwxNjA1NzgxODAxLC04MT
 I2OTY3NjQsNTMxMjc2NDg4LC0xODEzNzAzMjQyLC01NjQ1NDM3
 OSwxMTU4MzIxOTc1LC0xMjQzNDEwNDI0LC0xMzk2OTU4MzA5LC
 0xMTcyMTg0ODE5LC0xNzY4OTk5NTcyLC00Mjc1Nzc0MzksOTI2
