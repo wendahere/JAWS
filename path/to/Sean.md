@@ -237,15 +237,23 @@ In my soldering and my designing of the circuits i came across two things:
 
 # Week 19
 
-It was a hetic week and alos it was a 
+It was a hetic week and alos it was a great and fun learning experience as I learnt a lot of what i did. Here's some of theings I learnt while doing this project. 
+1. Always do your work early  
+
+2. Communication is important  
+
+3. Be careful handling circuits  
+4. Learnt about the ESP32  
+
+5. Documentation
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczNTA3OTY0LDkwNjI3MjY4NSwxMzg4MT
-I3NjM2LC04NTMzNTU0MzIsMTEwMDkwMjIyMywtMTc3OTYyNDM5
-NCwtMjc2NDAxNjgzLDE2MDU3ODE4MDEsLTgxMjY5Njc2NCw1Mz
-EyNzY0ODgsLTE4MTM3MDMyNDIsLTU2NDU0Mzc5LDExNTgzMjE5
-NzUsLTEyNDM0MTA0MjQsLTEzOTY5NTgzMDksLTExNzIxODQ4MT
-ksLTE3Njg5OTk1NzIsLTQyNzU3NzQzOSw5MjY1NjUyODMsLTU5
-NzI3ODg2M119
+eyJoaXN0b3J5IjpbLTY4MjAwNzMyMyw5MDYyNzI2ODUsMTM4OD
+EyNzYzNiwtODUzMzU1NDMyLDExMDA5MDIyMjMsLTE3Nzk2MjQz
+OTQsLTI3NjQwMTY4MywxNjA1NzgxODAxLC04MTI2OTY3NjQsNT
+MxMjc2NDg4LC0xODEzNzAzMjQyLC01NjQ1NDM3OSwxMTU4MzIx
+OTc1LC0xMjQzNDEwNDI0LC0xMzk2OTU4MzA5LC0xMTcyMTg0OD
+E5LC0xNzY4OTk5NTcyLC00Mjc1Nzc0MzksOTI2NTY1MjgzLC01
+OTcyNzg4NjNdfQ==
 -->
