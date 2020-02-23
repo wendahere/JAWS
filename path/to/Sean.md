@@ -217,7 +217,7 @@ The circuit could output 8V and also charge by just a flick of a switch and it w
 Now that my rechargable power supply worked, I worked on supplying the current need to the other components while also doing the cicuit on stripboards.  I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just the batteries and the voltage changes and a different board for the connection of the esp32 to the other non-power related compoments like our ultrasonic sensor and our OLED display. Thus, I decided to start planning on how to solder it.
 Here is how the schematic looks like:
 ![new 1week 16 power](https://user-images.githubusercontent.com/43029229/74098849-cfdfa580-4b57-11ea-81a2-da7e051668ba.jpeg)
-In also discussing the stripboards with Allen, we agreed that there would be seperate stripboards for the esp 32 , the power source and each of the components except for the motor drivers. See ya next week!
+In also discussing the stripboards with Allen, we agreed that there would be seperate stripboards for the esp 32 , the power source and each of the components except for the motor drivers. The power, componentd See ya next week!
 
 # Week 17
 I did soldering of the power circuit this week and have finished it!
@@ -226,17 +226,17 @@ I tested out the circuit and it functioned well. It charges the batteries and it
 This would get to a big problem in the future as it would still supply current into the circuit while charging, thus not charging the circuit at all but instead let the batteries discharge. Thus, I thought of methods to cutting the current to the boost converter. See ya next week!
 
 # Week 18
- I tried to complete the wiring for the components, This became very tedious and annoying as the way that Allen made the housing for all the circuits was to be assembled in a certian order. Thus, when soldering wires from one component stripboard to the other components stripboards was not ideal as it would be joining the other parts of the housing already and would thus make assembly really hard. Thus, I decided to use jumperwires instead of normal wires to solder into the stripboard to make aseembly of the vehi
+ I tried to complete the wiring for the components, This became very tedious and annoying as the way that Allen made the housing for all the circuits was to be assembled in a certian order. Thus, when soldering wires from one component stripboard to the other components stripboards was not ideal as it would be joining the other parts of the housing already and would thus make assembly really hard. Thus, I decided to use jumperwires instead of normal wires to solder into the stripboard. I did this to make aseembly of the vehicle is easier and it fits with our vision
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTcyMDM3OCwtODUzMzU1NDMyLDExMD
-A5MDIyMjMsLTE3Nzk2MjQzOTQsLTI3NjQwMTY4MywxNjA1Nzgx
-ODAxLC04MTI2OTY3NjQsNTMxMjc2NDg4LC0xODEzNzAzMjQyLC
-01NjQ1NDM3OSwxMTU4MzIxOTc1LC0xMjQzNDEwNDI0LC0xMzk2
-OTU4MzA5LC0xMTcyMTg0ODE5LC0xNzY4OTk5NTcyLC00Mjc1Nz
-c0MzksOTI2NTY1MjgzLC01OTcyNzg4NjMsMTI2NTU0OTkzNiw3
-MzE4OTA3OThdfQ==
+eyJoaXN0b3J5IjpbLTE5OTQxNzQzNTAsLTg1MzM1NTQzMiwxMT
+AwOTAyMjIzLC0xNzc5NjI0Mzk0LC0yNzY0MDE2ODMsMTYwNTc4
+MTgwMSwtODEyNjk2NzY0LDUzMTI3NjQ4OCwtMTgxMzcwMzI0Mi
+wtNTY0NTQzNzksMTE1ODMyMTk3NSwtMTI0MzQxMDQyNCwtMTM5
+Njk1ODMwOSwtMTE3MjE4NDgxOSwtMTc2ODk5OTU3MiwtNDI3NT
+c3NDM5LDkyNjU2NTI4MywtNTk3Mjc4ODYzLDEyNjU1NDk5MzYs
+NzMxODkwNzk4XX0=
 -->
