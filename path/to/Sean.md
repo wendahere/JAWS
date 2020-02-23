@@ -217,7 +217,7 @@ The circuit could output 8V and also charge by just a flick of a switch and it w
 Now that my rechargable power supply worked, I worked on supplying the current need to the other components while also doing the cicuit on stripboards.  I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just the batteries and the voltage changes and a different board for the connection of the esp32 to the other non-power related compoments like our ultrasonic sensor and our OLED display. Thus, I decided to start planning on how to solder it.
 Here is how the schematic looks like:
 ![new 1week 16 power](https://user-images.githubusercontent.com/43029229/74098849-cfdfa580-4b57-11ea-81a2-da7e051668ba.jpeg)
-In also discussing the stripboards with Allen, we agreed that there would be seperate stripboards for the esp 32 , the power source and each of the components except for the motor drivers. The power, componentd See ya next week!
+In also discussing the stripboards with Allen, we agreed that there would be seperate stripboards for the esp 32 , the power source and each of the components except for the motor drivers. The parts of hte vehicle were seperated into the power, components and the mechanism to lift up the sensor. This is to see to our visiobn that the circuit would be easy to understand and to also havethe See ya next week!
 
 # Week 17
 I did soldering of the power circuit this week and have finished it!
@@ -232,7 +232,7 @@ This would get to a big problem in the future as it would still supply current i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQxNzQzNTAsLTg1MzM1NTQzMiwxMT
+eyJoaXN0b3J5IjpbLTE5NDczNTg2MzIsLTg1MzM1NTQzMiwxMT
 AwOTAyMjIzLC0xNzc5NjI0Mzk0LC0yNzY0MDE2ODMsMTYwNTc4
 MTgwMSwtODEyNjk2NzY0LDUzMTI3NjQ4OCwtMTgxMzcwMzI0Mi
 wtNTY0NTQzNzksMTE1ODMyMTk3NSwtMTI0MzQxMDQyNCwtMTM5
