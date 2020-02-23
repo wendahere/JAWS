@@ -249,17 +249,18 @@ It was a hetic week and alos it was a great and fun learning experience as I lea
 
 5. Documentation
 
-THis 
+This is my final circuit for JAWS:
+![Engineering realisation_schem2](https://user-images.githubusercontent.com/43029229/75106393-ff61d800-5656-11ea-9f6b-8f4849e36a08.png)
 
-Thats akk for me! see ya in my other blogs!
+Thats all for me! see ya in my other blogs!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzkwNTc0NjQsOTA2MjcyNjg1LDEzOD
-gxMjc2MzYsLTg1MzM1NTQzMiwxMTAwOTAyMjIzLC0xNzc5NjI0
-Mzk0LC0yNzY0MDE2ODMsMTYwNTc4MTgwMSwtODEyNjk2NzY0LD
-UzMTI3NjQ4OCwtMTgxMzcwMzI0MiwtNTY0NTQzNzksMTE1ODMy
-MTk3NSwtMTI0MzQxMDQyNCwtMTM5Njk1ODMwOSwtMTE3MjE4ND
-gxOSwtMTc2ODk5OTU3MiwtNDI3NTc3NDM5LDkyNjU2NTI4Mywt
-NTk3Mjc4ODYzXX0=
+eyJoaXN0b3J5IjpbNTc0OTMxNTQyLDkwNjI3MjY4NSwxMzg4MT
+I3NjM2LC04NTMzNTU0MzIsMTEwMDkwMjIyMywtMTc3OTYyNDM5
+NCwtMjc2NDAxNjgzLDE2MDU3ODE4MDEsLTgxMjY5Njc2NCw1Mz
+EyNzY0ODgsLTE4MTM3MDMyNDIsLTU2NDU0Mzc5LDExNTgzMjE5
+NzUsLTEyNDM0MTA0MjQsLTEzOTY5NTgzMDksLTExNzIxODQ4MT
+ksLTE3Njg5OTk1NzIsLTQyNzU3NzQzOSw5MjY1NjUyODMsLTU5
+NzI3ODg2M119
 -->
