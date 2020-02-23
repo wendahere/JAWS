@@ -221,28 +221,29 @@ Here is how the schematic looks like:
 In also discussing the stripboards with Allen, we agreed that there would be seperate stripboards for the esp 32 , the power source and each of the components except for the motor drivers. The parts of hte vehicle were seperated into the power, components and the mechanism to lift up the sensor. This is to see to our vision that the circuit would be easy to understand and easily fixed. See ya next week!
 
 # Week 17
+## Reflection
 I did soldering of the power circuit this week and have finished it!
 I tested out the circuit and it functioned well. It charges the batteries and it also outputs 8V! I need to make some modifications to the power circuit as I feel that there would be problems with the switching of the active and chaging modes as when connected to the L298N, it would still output 12V no matter how much I toggled the switch.
 
 This would get to a big problem in the future as it would still supply current into the circuit while charging, thus not charging the circuit at all but instead let the batteries discharge. Thus, I thought of methods to cutting the current to the boost converter. See ya next week!
 
 # Week 18
-
+## Reflection
 I tried to complete the wiring for the components, This became very tedious and annoying as the way that Allen made the housing for all the circuits was to be assembled in a certian order. 
  
  Thus, when soldering wires from one component stripboard to the other components stripboards was not ideal as it would be joining the other parts of the housing already and would thus make assembly really hard. 
  
- Thus, I decided to use jumperwires instead of normal wires to solder into the stripboard. I did this to make aseembly of the vehicle is easier and it fits with our vision
+ Thus, I decided to use jumperwires to connected the stripboards and solder header instead of normal wires to solder into the stripboard. I did this to make aseembly of the vehicle is easier and it fits with our vision of having the wiring neat for easier fixing and assembly
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzkxOTUxNjUsLTg1MzM1NTQzMiwxMT
-AwOTAyMjIzLC0xNzc5NjI0Mzk0LC0yNzY0MDE2ODMsMTYwNTc4
-MTgwMSwtODEyNjk2NzY0LDUzMTI3NjQ4OCwtMTgxMzcwMzI0Mi
-wtNTY0NTQzNzksMTE1ODMyMTk3NSwtMTI0MzQxMDQyNCwtMTM5
-Njk1ODMwOSwtMTE3MjE4NDgxOSwtMTc2ODk5OTU3MiwtNDI3NT
-c3NDM5LDkyNjU2NTI4MywtNTk3Mjc4ODYzLDEyNjU1NDk5MzYs
-LTIwODc2MjM3ODhdfQ==
+eyJoaXN0b3J5IjpbLTY3OTE1NDYzNywtODUzMzU1NDMyLDExMD
+A5MDIyMjMsLTE3Nzk2MjQzOTQsLTI3NjQwMTY4MywxNjA1Nzgx
+ODAxLC04MTI2OTY3NjQsNTMxMjc2NDg4LC0xODEzNzAzMjQyLC
+01NjQ1NDM3OSwxMTU4MzIxOTc1LC0xMjQzNDEwNDI0LC0xMzk2
+OTU4MzA5LC0xMTcyMTg0ODE5LC0xNzY4OTk5NTcyLC00Mjc1Nz
+c0MzksOTI2NTY1MjgzLC01OTcyNzg4NjMsMTI2NTU0OTkzNiwt
+MjA4NzYyMzc4OF19
 -->
