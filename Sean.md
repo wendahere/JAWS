@@ -229,20 +229,20 @@ This would get to a big problem in the future as it would still supply current i
 
 # Week 18
 ## Reflection
-In my soldering and my designing of the circuits i learnt two things:
+In my soldering and my designing of the circuits i came across two things:
 1. I tried to complete the wiring for the components, This became very tedious and annoying as the way that Allen made the housing for all the circuits was to be assembled in a certian order. 
  Thus, when soldering wires from one component stripboard to the other components stripboards was not ideal as it would be joining the other parts of the housing already and would thus make assembly really hard. 
  Thus, I decided to use jumperwires to connected the stripboards and solder headers instead of normal wires to solder into the stripboard. I did this to make aseembly of the vehicle is easier and it fits with our vision of having the wiring neat for easier fixing and assembly.
-2. 
+2. I problem of the batteries outputting the same voltage was still 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODEyNzYzNiwtODUzMzU1NDMyLDExMD
-A5MDIyMjMsLTE3Nzk2MjQzOTQsLTI3NjQwMTY4MywxNjA1Nzgx
-ODAxLC04MTI2OTY3NjQsNTMxMjc2NDg4LC0xODEzNzAzMjQyLC
-01NjQ1NDM3OSwxMTU4MzIxOTc1LC0xMjQzNDEwNDI0LC0xMzk2
-OTU4MzA5LC0xMTcyMTg0ODE5LC0xNzY4OTk5NTcyLC00Mjc1Nz
-c0MzksOTI2NTY1MjgzLC01OTcyNzg4NjMsMTI2NTU0OTkzNiwt
-MjA4NzYyMzc4OF19
+eyJoaXN0b3J5IjpbMTc5MzEzMDk2MywxMzg4MTI3NjM2LC04NT
+MzNTU0MzIsMTEwMDkwMjIyMywtMTc3OTYyNDM5NCwtMjc2NDAx
+NjgzLDE2MDU3ODE4MDEsLTgxMjY5Njc2NCw1MzEyNzY0ODgsLT
+E4MTM3MDMyNDIsLTU2NDU0Mzc5LDExNTgzMjE5NzUsLTEyNDM0
+MTA0MjQsLTEzOTY5NTgzMDksLTExNzIxODQ4MTksLTE3Njg5OT
+k1NzIsLTQyNzU3NzQzOSw5MjY1NjUyODMsLTU5NzI3ODg2Mywx
+MjY1NTQ5OTM2XX0=
 -->
