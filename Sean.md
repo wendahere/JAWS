@@ -237,11 +237,20 @@ In my soldering and my designing of the circuits i came across two things:
 
 # Week 19
 
-It was a hetic week and alos it was a great
+It was a hetic week and alos it was a great and fun learning experience as I learnt a lot of what i did. Here's some of theings I learnt while doing this project. 
+1. Always do your work early  
+
+2. Communication is important  
+
+3. Be careful handling circuits  
+4. Learnt about the ESP32  
+
+5. Documentation
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDY2NjQwMyw5MDYyNzI2ODUsMTM4OD
+eyJoaXN0b3J5IjpbLTU0MDQyMjcwMSw5MDYyNzI2ODUsMTM4OD
 EyNzYzNiwtODUzMzU1NDMyLDExMDA5MDIyMjMsLTE3Nzk2MjQz
 OTQsLTI3NjQwMTY4MywxNjA1NzgxODAxLC04MTI2OTY3NjQsNT
 MxMjc2NDg4LC0xODEzNzAzMjQyLC01NjQ1NDM3OSwxMTU4MzIx
