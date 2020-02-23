@@ -217,21 +217,21 @@ The circuit could output 8V and also charge by just a flick of a switch and it w
 Now that my rechargable power supply worked, I worked on supplying the current need to the other components while also doing the cicuit on stripboards.  I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just the batteries and the voltage changes and a different board for the connection of the esp32 to the other non-power related compoments like our ultrasonic sensor and our OLED display. Thus, I decided to start planning on how to solder it.
 Here is how the schematic looks like:
 ![new 1week 16 power](https://user-images.githubusercontent.com/43029229/74098849-cfdfa580-4b57-11ea-81a2-da7e051668ba.jpeg)
-In also discussing the stripboards with Allen, we agreed that there would be seperate stripboards for the esp 32 , the power source and each of the components except for the motor drivers.
+In also discussing the stripboards with Allen, we agreed that there would be seperate stripboards for the esp 32 , the power source and each of the components except for the motor drivers. See ya next week!
 
 # Week 17
 I did soldering of the power circuit this week and have finished it!
-I tested out the circuit and it functioned well. It charges
+I tested out the circuit and it functioned well. It charges the batteries and it also outputs 8
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzM0NDM4MjQsMTYwNTc4MTgwMSwtOD
-EyNjk2NzY0LDUzMTI3NjQ4OCwtMTgxMzcwMzI0MiwtNTY0NTQz
-NzksMTE1ODMyMTk3NSwtMTI0MzQxMDQyNCwtMTM5Njk1ODMwOS
-wtMTE3MjE4NDgxOSwtMTc2ODk5OTU3MiwtNDI3NTc3NDM5LDky
-NjU2NTI4MywtNTk3Mjc4ODYzLDEyNjU1NDk5MzYsLTIwODc2Mj
-M3ODgsNzMxODkwNzk4LC0xNzEzODgyOTM3LC0zNTY5OTg3NzEs
-LTQ5MTY4OTA1OV19
+eyJoaXN0b3J5IjpbLTY1MDE2MzU0MCwxNjA1NzgxODAxLC04MT
+I2OTY3NjQsNTMxMjc2NDg4LC0xODEzNzAzMjQyLC01NjQ1NDM3
+OSwxMTU4MzIxOTc1LC0xMjQzNDEwNDI0LC0xMzk2OTU4MzA5LC
+0xMTcyMTg0ODE5LC0xNzY4OTk5NTcyLC00Mjc1Nzc0MzksOTI2
+NTY1MjgzLC01OTcyNzg4NjMsMTI2NTU0OTkzNiwtMjA4NzYyMz
+c4OCw3MzE4OTA3OTgsLTE3MTM4ODI5MzcsLTM1Njk5ODc3MSwt
+NDkxNjg5MDU5XX0=
 -->
