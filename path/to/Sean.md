@@ -226,17 +226,17 @@ I tested out the circuit and it functioned well. It charges the batteries and it
 This would get to a big problem in the future as it would still supply current into the circuit while charging, thus not charging the circuit at all but instead let the batteries discharge. Thus, I thought of methods to cutting the current to the boost converter. See ya next week!
 
 # Week 18
- I tried to complete the wiring for the components, This became very tedious and annoying as the way that Allen made the housing for all the circuits was that the other 
+ I tried to complete the wiring for the components, This became very tedious and annoying as the way that Allen made the housing for all the circuits was to be assembled in a certian order. Thus, when soldering wires into the other components stripboards was not ideal as
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjk2MzE0MywtMjc2NDAxNjgzLDE2MD
-U3ODE4MDEsLTgxMjY5Njc2NCw1MzEyNzY0ODgsLTE4MTM3MDMy
-NDIsLTU2NDU0Mzc5LDExNTgzMjE5NzUsLTEyNDM0MTA0MjQsLT
-EzOTY5NTgzMDksLTExNzIxODQ4MTksLTE3Njg5OTk1NzIsLTQy
-NzU3NzQzOSw5MjY1NjUyODMsLTU5NzI3ODg2MywxMjY1NTQ5OT
-M2LDczMTg5MDc5OCwtMTcxMzg4MjkzNywtNDkxNjg5MDU5LC02
-OTE1ODU5OTldfQ==
+eyJoaXN0b3J5IjpbLTE0MDUyMTk2ODksLTI3NjQwMTY4MywxNj
+A1NzgxODAxLC04MTI2OTY3NjQsNTMxMjc2NDg4LC0xODEzNzAz
+MjQyLC01NjQ1NDM3OSwxMTU4MzIxOTc1LC0xMjQzNDEwNDI0LC
+0xMzk2OTU4MzA5LC0xMTcyMTg0ODE5LC0xNzY4OTk5NTcyLC00
+Mjc1Nzc0MzksOTI2NTY1MjgzLC01OTcyNzg4NjMsMTI2NTU0OT
+kzNiw3MzE4OTA3OTgsLTE3MTM4ODI5MzcsLTQ5MTY4OTA1OSwt
+NjkxNTg1OTk5XX0=
 -->
