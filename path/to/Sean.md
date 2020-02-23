@@ -221,17 +221,17 @@ In also discussing the stripboards with Allen, we agreed that there would be sep
 
 # Week 17
 I did soldering of the power circuit this week and have finished it!
-I tested out the circuit and it functioned well. It charges the batteries and it also output
+I tested out the circuit and it functioned well. It charges the batteries and it also outputs 8V! I need to make some modifications to the power circuit as I feel that there would be problems with the charging and also have other i
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NjQyNDQ1LDE2MDU3ODE4MDEsLTgxMj
-Y5Njc2NCw1MzEyNzY0ODgsLTE4MTM3MDMyNDIsLTU2NDU0Mzc5
-LDExNTgzMjE5NzUsLTEyNDM0MTA0MjQsLTEzOTY5NTgzMDksLT
-ExNzIxODQ4MTksLTE3Njg5OTk1NzIsLTQyNzU3NzQzOSw5MjY1
-NjUyODMsLTU5NzI3ODg2MywxMjY1NTQ5OTM2LDczMTg5MDc5OC
-wtMTcxMzg4MjkzNywtNDkxNjg5MDU5LC02OTE1ODU5OTksMTI5
-NzM2MTQ5N119
+eyJoaXN0b3J5IjpbLTEzOTc1MTY5NjEsMTYwNTc4MTgwMSwtOD
+EyNjk2NzY0LDUzMTI3NjQ4OCwtMTgxMzcwMzI0MiwtNTY0NTQz
+NzksMTE1ODMyMTk3NSwtMTI0MzQxMDQyNCwtMTM5Njk1ODMwOS
+wtMTE3MjE4NDgxOSwtMTc2ODk5OTU3MiwtNDI3NTc3NDM5LDky
+NjU2NTI4MywtNTk3Mjc4ODYzLDEyNjU1NDk5MzYsNzMxODkwNz
+k4LC0xNzEzODgyOTM3LC00OTE2ODkwNTksLTY5MTU4NTk5OSwx
+Mjk3MzYxNDk3XX0=
 -->
