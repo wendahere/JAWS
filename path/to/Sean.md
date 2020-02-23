@@ -233,18 +233,19 @@ In my soldering and my designing of the circuits i came across two things:
 1. I tried to complete the wiring for the components, This became very tedious and annoying as the way that Allen made the housing for all the circuits was to be assembled in a certian order. 
  Thus, when soldering wires from one component stripboard to the other components stripboards was not ideal as it would be joining the other parts of the housing already and would thus make assembly really hard. 
  Thus, I decided to use jumperwires to connected the stripboards and solder headers instead of normal wires to solder into the stripboard. I did this to make aseembly of the vehicle is easier and it fits with our vision of having the wiring neat for easier fixing and assembly.
-2. I problem of the batteries outputting the same voltage was a proble and I haven't found a solution i liked. I used diodes, transistors and other cur4rent managing components but to no avail. The only solution to the problem as to have a second switch at the Vin+ of the boost converter. That way, I could cut the current when it was charging so that the batteries could actually charge. Well, time to prepare my slides then. See ya nex week!
+2. I problem of the batteries outputting the same voltage was a proble and I haven't found a solution i liked. I used diodes, transistors and other cur4rent managing components but to no avail. The only solution to the problem as to have a second switch at the Vin+ of the boost converter. That way, I could cut the current when it was charging so that the batteries could actually charge. Well, time to prepare my slides then. See ya next week!
 
 # Week 19
 
+Pre
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2MjcyNjg1LDEzODgxMjc2MzYsLTg1Mz
-M1NTQzMiwxMTAwOTAyMjIzLC0xNzc5NjI0Mzk0LC0yNzY0MDE2
-ODMsMTYwNTc4MTgwMSwtODEyNjk2NzY0LDUzMTI3NjQ4OCwtMT
-gxMzcwMzI0MiwtNTY0NTQzNzksMTE1ODMyMTk3NSwtMTI0MzQx
-MDQyNCwtMTM5Njk1ODMwOSwtMTE3MjE4NDgxOSwtMTc2ODk5OT
-U3MiwtNDI3NTc3NDM5LDkyNjU2NTI4MywtNTk3Mjc4ODYzLDEy
-NjU1NDk5MzZdfQ==
+eyJoaXN0b3J5IjpbMTY0NDg3NDg0MCw5MDYyNzI2ODUsMTM4OD
+EyNzYzNiwtODUzMzU1NDMyLDExMDA5MDIyMjMsLTE3Nzk2MjQz
+OTQsLTI3NjQwMTY4MywxNjA1NzgxODAxLC04MTI2OTY3NjQsNT
+MxMjc2NDg4LC0xODEzNzAzMjQyLC01NjQ1NDM3OSwxMTU4MzIx
+OTc1LC0xMjQzNDEwNDI0LC0xMzk2OTU4MzA5LC0xMTcyMTg0OD
+E5LC0xNzY4OTk5NTcyLC00Mjc1Nzc0MzksOTI2NTY1MjgzLC01
+OTcyNzg4NjNdfQ==
 -->
