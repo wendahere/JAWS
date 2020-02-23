@@ -190,7 +190,7 @@ The hardest part of me was that you need to be very presice with the measurement
 ## Reflection for electronics homework
 It was honestly quite hard and I took quite long to get a working power circuit as I did not want to remove the batteries while charging.
 
-My lecturer gave us a TP4056 charging module and two 3.7V 18650 lithium ion batteries to start with our project. **My goal was to create an internal charging station inside the track vehicle for two batteries to power the whole circuit**.
+My lecturer gave us a TP4056 charging module and two 3.7V 18650 lithium ion batteries to start with our project. **My goal was to create an internal charging station inside the track vehicle for two batteries to power the whole circuit wi**.
 
 Firstly, I researched about the module to understand about how to use it to power the track vehicle. I tried
  to see the [datasheet](http://www.haoyuelectronics.com/Attachment/TP4056-modules/TP4056.pdf) and youtube videos about it and I realised a couple of things:
@@ -208,7 +208,7 @@ The first circuit design I created was inspired from [this video.](https://www.y
 
 There were two problems:
 1. It does not charge properly as the batteries will discharge to charge the other battery and it will keep doing this as the voltage levels are different
-2. It does not output 8V and the voltage was always decreasing. It also does not have current flowing through when it is at active mode. (This is because of 
+2. It does not output 8V and the voltage was always decreasing. It also does not have current flowing through when it is at active mode. This is because of the different voltage levels as i said earlier
  
 I tried to make another design but to no avail until I saw an idea for the circuit, Vincent, a classmate from another group(his team blog [here](https://github.com/hamtamSP/JAV2)), the circuit looked like this:
 ![WhatsApp Image 2020-02-20 at 15 03 25](https://user-images.githubusercontent.com/43029229/74909412-3637b400-53f3-11ea-904d-52b3d271b2d3.jpeg)
@@ -232,7 +232,7 @@ This would get to a big problem in the future as it would still supply current i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODkwMTk2NywtODUzMzU1NDMyLDExMD
+eyJoaXN0b3J5IjpbMTQ1MDMxMTE0NiwtODUzMzU1NDMyLDExMD
 A5MDIyMjMsLTE3Nzk2MjQzOTQsLTI3NjQwMTY4MywxNjA1Nzgx
 ODAxLC04MTI2OTY3NjQsNTMxMjc2NDg4LC0xODEzNzAzMjQyLC
 01NjQ1NDM3OSwxMTU4MzIxOTc1LC0xMjQzNDEwNDI0LC0xMzk2
