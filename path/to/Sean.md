@@ -217,8 +217,7 @@ The circuit could output 8V and also charge by just a flick of a switch and it w
 Now that my rechargable power supply worked, I worked on supplying the current need to the other components while also doing the cicuit on stripboards.  I discussed with my mechanical engineer, Allen, to see how would I solder the components together. He suggested that we should have a board for just the batteries and the voltage changes and a different board for the connection of the esp32 to the other non-power related compoments like our ultrasonic sensor and our OLED display. Thus, I decided to start planning on how to solder it.
 Here is how the schematic looks like:
 ![new 1week 16 power](https://user-images.githubusercontent.com/43029229/74098849-cfdfa580-4b57-11ea-81a2-da7e051668ba.jpeg)
-In also discussing the stripboards with Allen, we agreed that there would be a stripboard for the esp 32 , the power source and the components except for the servo motor.
-The stripboards are shown below:
+In also discussing the stripboards with Allen, we agreed that there would be seperate stripboards for the esp 32 , the power source and each of the components except for the motor drivers
 
 # Week 17
 I did soldering of the power circuit this week and have finished it!
@@ -228,11 +227,11 @@ I tested out the circuit and it functioned well. It charges
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTc4MTgwMSwtODEyNjk2NzY0LDUzMT
-I3NjQ4OCwtMTgxMzcwMzI0MiwtNTY0NTQzNzksMTE1ODMyMTk3
-NSwtMTI0MzQxMDQyNCwtMTM5Njk1ODMwOSwtMTE3MjE4NDgxOS
-wtMTc2ODk5OTU3MiwtNDI3NTc3NDM5LDkyNjU2NTI4MywtNTk3
-Mjc4ODYzLDEyNjU1NDk5MzYsNzMxODkwNzk4LC0xNzEzODgyOT
-M3LC00OTE2ODkwNTksLTY5MTU4NTk5OSwxMjk3MzYxNDk3LDE0
-MzAyMTk0MjVdfQ==
+eyJoaXN0b3J5IjpbOTAzNjU3NjU0LDE2MDU3ODE4MDEsLTgxMj
+Y5Njc2NCw1MzEyNzY0ODgsLTE4MTM3MDMyNDIsLTU2NDU0Mzc5
+LDExNTgzMjE5NzUsLTEyNDM0MTA0MjQsLTEzOTY5NTgzMDksLT
+ExNzIxODQ4MTksLTE3Njg5OTk1NzIsLTQyNzU3NzQzOSw5MjY1
+NjUyODMsLTU5NzI3ODg2MywxMjY1NTQ5OTM2LDczMTg5MDc5OC
+wtMTcxMzg4MjkzNywtNDkxNjg5MDU5LC02OTE1ODU5OTksMTI5
+NzM2MTQ5N119
 -->
