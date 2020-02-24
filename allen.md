@@ -137,7 +137,7 @@ This [link](https://docs.google.com/presentation/d/1z6uqKXUzrGAHKOQaMHNoKKfvfchR
 ## Week 4 (4/11/19 - 10/11/19):
 Today we received the ESP32 board. 
 
-![esp32_front]() ![esp32_back]()
+![esp32_front]([Imgur](https://i.imgur.com/9oX23iu.jpg)) ![esp32_back]([Imgur](https://i.imgur.com/aJdcXof.jpg))
 
 We will be using it to do all our Python programming on. Before we do anything, we need to set up the ESP32 by installing micropython in it, so that we can do python programming in the board. Below is a flowchart I followed to set up the ESP32 and to test if it is functioning.
 
@@ -195,11 +195,11 @@ Furthermore, we were tasked with the assignment of going through this [youtube l
 
 ![Imgur](https://i.imgur.com/DzoY68i.png)
 
-This is a model of a compass.
+This is a model of a compass I made.
 
 ![Imgur](https://i.imgur.com/ha14dpp.png)
 
-This is a model of a 8 bar linkage.
+This is a model of a 8 bar linkage I made.
 
 ## Week 7 (25/11/19 - 1/12/19):
 This week Mr Rhodney talked about power, the ways we can provide power to our track vehicle, as it is not just connecting batteries to a couple motors. In addition, he went through with us how to charge our track vehicles using modules such as the TP4056 charging module.
@@ -320,7 +320,7 @@ _Using linkages_
 We didn't use this design as there isn't much space to put in the mechcanical arm that holds the sensor.
 
 ##### Design 3 (Chosen)
-Pulley system
+_Pulley system_
 ![Imgur](https://i.imgur.com/PxODLd2.jpg)
 
 This is the design that we was chosen because the string has the least friction generated when lowering our raising the sensor, and in the event of a malfunction of the motor, it wouldn't cause the sensor to crash onto the ground and as such damage it.
@@ -348,6 +348,7 @@ To solve this, I added the cylinder housing up top to help guide the sensor stra
 _Old guide (left), New guide (right)_
 
 ![Imgur](https://i.imgur.com/rROCjPV.png)
+
 To hold our sensor, so that it can slide down the guide smoothly, I made a casing for it as seen above. 
 
 This is also because the sensor itself is not a perfect cylinder as there are parts sticking out as shown below.
@@ -360,36 +361,52 @@ _Our ultrasonic transducer_
 
 _Assembly of the pulley system_
 
-![Imgur](https://i.imgur.com/VKnaGeO.mp4)
-
-_How the pulley system works_
+[Link](https://i.imgur.com/VKnaGeO.mp4) to how the pulley system works.
 
 #### Final Design in Fusion 360
-After touching up the any
+After touching up all the designs and making the necessary changes, I did a final assembly alongside all the components and required fasteners.
 
 ![Imgur](https://i.imgur.com/jy24wl7.png)
 
 Here is a fully rendered image of our vehicle in Fusion 360 (also rendered there).
 
 ### Fabrication of Parts
-With designs modelled in fusion 360, I proceeded to fabricate the parts so that we can test and make any necessary changes along the way. The evolution of the different parts have been talked before.
+With designs modelled in fusion 360, I proceeded to fabricate the parts so that we can test and make any necessary changes along the way. I utilised the school's 3D printer and laser cutter to fabricate the parts.
 
 ### Reflections
-Should have made a dirty prototype first bla bla
+Throughout the duration of the project, I have learnt alot in terms of designing in Fusion 360, as it was quite new to me, and I am quite well expereicned in Inventor, it was very easy for me to pick up and use it to almost its full potential.
+
+Furthermore, I learnt the importance of design for manufacturing and assembly, as I think for my design I used way too many fasteners, and some parts that could be combined I didn't.
+
+Lastly, I realized that prototyping is an essential step whether in the form of a dirty prototype or 3D printing something of a smaller scale of the project, it helps to visualize and point out any flaws of the design.
 
 ### Mechanical Calculation
 Using the knowledge gained from week 3, I calculated the required torque of our tracker vehicle in order to determine if the provided motors were able to output the torque required.
 
-Furthermore taking into consideration of other factors such as human walking speed, dynamic friction of ice, and many other factors, I calculated wheel torque of our vehicle. And I am proud to say that our vehicle in the most perfect condition, will be able to traverse on ice without any issues. [Link here]() for the mechanical calculations. 
+Furthermore taking into consideration of other factors such as human walking speed, dynamic friction of ice, and many other factors, I calculated wheel torque of our vehicle. 
+
+Here are the other factors that we considered:
+
+![Imgur](https://imgur.com/KaxHPiY)
+
+_Motor specifications_
+
+![Imgur](https://imgur.com/dfJDmnw)
+
+_Constant factors_
+
+I am proud to say that our vehicle in the most perfect condition, will be able to traverse on ice without any issues. [Link here](https://docs.google.com/spreadsheets/d/1AtLpKgbPhfvKD_Ej9cZt5wsYdukNAGraIsh5Kywv3fo/edit#gid=0) for the mechanical calculations. 
 
 ## Week 19 (17/2/20 - 23/2/20):
 ### Final Assembly
 This week is our last week which we will be doing our project. So we were doing our final touches to the vehicle.
 
-!
+![Imgur](https://imgur.com/GrYETmJ)
 
-Here is the final assembly of our track vehicle.
+_Here is the final assembly of our track vehicle._
 
 ### Presentation
 
-[Link]() to our presentation slides.
+[Link](https://docs.google.com/presentation/d/1Lq_Oh_S7RbmHg3k1PEp-lbV-0LjMcQh1vjn0CY7_IiM/edit?usp=sharing) to our presentation slides.
+
+![Imgur](https://imgur.com/HjC2oKz)
