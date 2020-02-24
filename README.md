@@ -3,8 +3,8 @@
 - [x] Discuss about our Problem Statement,Features,Reasons(mainly 3 reasons for the society)& who.
 - [x] Everyone learn about Markdown Guide
 - [x] Meet up frequently to do our prototype during the Holidays (so that we dont do last minute)
-- [ ] Presentation Slides & Prototype ready to show off
-- [ ] Ready to Impress Everyone!!
+- [x] Presentation Slides & Prototype ready to show off
+- [x] Ready to Impress Everyone!!
 
 ## Team Members:
 WDLEE (DME)
