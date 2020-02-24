@@ -180,13 +180,29 @@ Below are the steps that I've use to prepare my ESP32 so that I could do python 
             esptool.py --chip esp32 --port /COM5 write_flash -z 0x1000 esp32-idf3-20191106-v1.11-558-gd209f9ebe.bin
 
 ## Week 5 (11/11/19 - 17/11/19):
-###
+This week Mr Rhodney talked about how we can use our ESP32, introduce us to the inputs and outputs. And provided us with useful  youtube links to watch over the coming weeks, so that we can code the required features of our track vehicle into our ESP32 and make everthing work together.
+
+[Link 1.](https://www.youtube.com/channel/UCp2rS5TxRt6W8fieAk74bIw)
+[Link 2.](https://www.youtube.com/results?search_query=just+enough+python)
+[Link 3.](https://www.youtube.com/results?search_query=andreas+spies+esp32+tank)
 
 ## Week 6 (18/11/19 - 24/11/19):
-###
+### Fusion 360
+This week Mr Tune went through with us the basics of fusion such as modelling and the assembly of different parts/components. These 3D CAD skills that he went through are essential to our project, which I will be using it extensively in the coming weeks as the main mechanical design engineer for my group.
+
+#### Assignment
+Furthermore, we were tasked with the assignment of going through this [youtube link](https://www.youtube.com/user/thang010146/videos) to pick out at least 1 design and redesign it with the required linkages, so that when a user moves one piece of the component, all connected moving pieces will move together as well.
+
+![Imgur](https://i.imgur.com/DzoY68i.png)
+
+This is a model of a compass.
+
+![Imgur](https://i.imgur.com/ha14dpp.png)
+
+This is a model of a 8 bar linkage.
 
 ## Week 7 (25/11/19 - 1/12/19):
-###
+This week Mr Rhodney talked about power, the ways we can provide power to our track vehicle, as it is not just connecting batteries to a couple motors. In addition, he went through with us how to charge our track vehicles using modules such as the TP4056 charging module.
 
 ## Week 8 (2/12/19 - 8/12/19):
 ### MST Week
@@ -194,43 +210,104 @@ This week was our mid-semester, as such I took a short hiatus from doing the pro
 
 ## Week 9 - 13 (9/12/19 - 12/1/20):
 ### Holiday Week
-
-## Week 14 (13/1/20 - 19/1/20):
-### Milestone 1
+During the Holidays We went met up a couple times to decide how are we going to go about our project. What are the main things we should focus on, how are we going to design, what are the components, how will the eventual vehicle look like.
 
 ## Week 15 (20/1/20 - 26/1/20):
-Afteer our first milestone, I started work on modelling 
 ### Tank Chasis Modeling
+I started work on modelling the tank chasis as Mr Tune tasked us to do that during this week. Using vernier calipers I measured every single dimension that is essential to the actual model, then noted them down. 
 
+After measuring the dimensions that I need, I drew the model on Fusion 360. 
 
+![Imgur](https://i.imgur.com/4SRlHNf.png)
+
+Here is the finished design of the tank chasis.
+
+Also, a big shoutout to Reynard who provided me with the CAD model of the very well detailed model of the tank tracks.
+
+![Imgur](https://i.imgur.com/sR5b1t0.png)
 
 ## Week 16 (27/1/20 - 2/2/20):
-### Mechanism Modeling
-After I finished the modelling the tank chasis, it is now time to model the main part of our vehicle, which is the box that will house all the electronics and any other mechanisms that we need. All of the electronic models are taken courtesy of the wonderful GrabCAD community, [insert link].
+### Modeling of the main part of our vehicle
+After I finished the modelling the tank chasis, it is now time to model the main part of our vehicle, which is the box that will house all the electronics and any other mechanisms that we need. All of the electronic models are taken courtesy of the wonderful GrabCAD community, [link here](https://grabcad.com/). 
+
+![Imgur](https://i.imgur.com/Bj4RWWg.png)
+
+All the components above here you see are all taken from GrabCAD, but modified with fasterners that will be used as attachment to our final assembly model in Fusion 360.
+
+#### Vision of the design
+We do not only want our components neatly stored and organised in a box, but also separated into visible clusters, as it will make troubleshooting easier.
+
+![Imgur](https://i.imgur.com/JeBiFTw.png)
+
+As you can see here, this is a fully modelled assemly of our box design in Fusion 360. And you can see that we have 3 compartments. From the left, we have the mechanism compartment, which raises and lowers our ultrasonic transducer using a pulley system powered by a servo motor. Then in the middle, we have our components compartment, which houses the ESP32, L298N motor driver, OLED and more. And lastly in the right, we have our power compartment, with the switches, batteries and charging module. Then all the blank spaces you see here are basically spaces where our wires will run through.
+
 #### Box
 For the box itself, I decided to go for an transparent acrylic box shape.
 
 The reason for it because:
 1) The panels can be laser cut individually, allowing small incremental changes to certain sides of the box to be easier, as I do not need to reprint an entire box if we 3D printed it.
-2) Lesser time 
-3) 
+2) Lesser time to manufacture the box, as laser cutting is relatively fast.
+3) It provides an ease of assemblying as we can just slot in the different panels together
+
+![Imgur](https://i.imgur.com/B4bGttR.png)
+
+So this is the final design of the different panels that will make up our component box.
+
+![Imgur](https://i.imgur.com/HER7HOP.png)
+
+Here is the assembled version of the box without any components.
+
+![Imgur](https://i.imgur.com/8wURor8.png)
+![Imgur](https://i.imgur.com/u5OgcCU.png)
+
+Here are the assembled version of the box with the components.
+
+##### Problems
+During the first assembly of the box I realized that the slots i made for the box were too thin (2mm) and it resulted in many breakages. 
+
+![Imgur](https://i.imgur.com/UANbdtG.jpg)
+
+![Imgur](https://i.imgur.com/kUN7c0Z.png)
+
+The slot is just too thin to handle the amount of stress that were induced during assembly.
+
+So to solve it, I added 1mm, and made them 3mm thick. And that extra millimeter was enough to handle the job.
+
+![Imgur](https://i.imgur.com/yvbGpd0.jpg)
+
+New(3mm) slot (top), Old(2mm) slot (bottom)
+
+
+Another issue I faced was the width of the box is too small, making it very compact, and unfortunately hard to fit in all our wires within the box. Sean pointed out this problem, when he did his first testing of the wires.
+
+Therefore, I increased the width of the bottom panel so that there is for space for the wires and our fingers and tools to slot in the wires.
+
+![Imgur](https://i.imgur.com/cM8Ymga.jpg)
+
+Narrower box panel (left), Wider box panel (right)
 
 #### Electrical Component Holder
+As Sean and I wanted our circuit to be compact and neatly organised and contained in the box. I made some holder designs for our electrical components such as the TP4056 charging module, the MT3608 boost converter and a switch. And all these will be housed in the power compartment of the box.
 
-#### Stripboards
+![Imgur](https://i.imgur.com/b08WVLa.png)
+
+Here are the modules which we will be keeing in our power compartment.
+
+![Imgur](https://i.imgur.com/Rkk5KSn.png)
+![Imgur](https://i.imgur.com/OHE6X8L.png)
+![Imgur](https://i.imgur.com/tefjrZP.png)
+
+The above are 3D models of the different component holders for the aforementoned components.
 
 #### Mechanism
 
-### Reflections
-Should have made a dirty prototype first bla bla
-
 ## Week 17 (3/2/20 - 9/2/20):
 ### Fabrication of Parts
-With the first few designs of my parts finished in fusion, 
+With designs made
 
-#### Changes made to the laser cut parts
 
-#### Changes made to 3D printed parts
+### Reflections
+Should have made a dirty prototype first bla bla
 
 ### Mechanical Calculation
 Using the knowledge gained from week 3, I calculated the required torque of our tracker vehicle in order to determine if the provided motors were able to output the torque required.
