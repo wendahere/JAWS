@@ -387,11 +387,11 @@ Furthermore taking into consideration of other factors such as human walking spe
 
 Here are the other factors that we considered:
 
-![Imgur](https://imgur.com/KaxHPiY)
+![Imgur](https://i.imgur.com/KaxHPiY.png)
 
 _Motor specifications_
 
-![Imgur](https://imgur.com/dfJDmnw)
+![Imgur](https://imgur.com/dfJDmnw.png)
 
 _Constant factors_
 
@@ -401,7 +401,7 @@ I am proud to say that our vehicle in the most perfect condition, will be able t
 ### Final Assembly
 This week is our last week which we will be doing our project. So we were doing our final touches to the vehicle.
 
-![Imgur](https://imgur.com/GrYETmJ)
+![Imgur](https://imgur.com/GrYETmJ.png)
 
 _Here is the final assembly of our track vehicle._
 
@@ -409,4 +409,4 @@ _Here is the final assembly of our track vehicle._
 
 [Link](https://docs.google.com/presentation/d/1Lq_Oh_S7RbmHg3k1PEp-lbV-0LjMcQh1vjn0CY7_IiM/edit?usp=sharing) to our presentation slides.
 
-![Imgur](https://imgur.com/HjC2oKz)
+![Imgur](https://imgur.com/HjC2oKz.png)
