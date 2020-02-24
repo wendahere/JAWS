@@ -226,7 +226,7 @@ Also, a big shoutout to Reynard who provided me with the CAD model of the very w
 
 ![Imgur](https://i.imgur.com/sR5b1t0.png)
 
-## Week 16 (27/1/20 - 2/2/20):
+## Week 16 - 18 (27/1/20 - 16/2/20):
 ### Modeling of the main part of our vehicle
 After I finished the modelling the tank chasis, it is now time to model the main part of our vehicle, which is the box that will house all the electronics and any other mechanisms that we need. All of the electronic models are taken courtesy of the wonderful GrabCAD community, [link here](https://grabcad.com/). 
 
@@ -300,11 +300,79 @@ Here are the modules which we will be keeing in our power compartment.
 The above are 3D models of the different component holders for the aforementoned components.
 
 #### Mechanism
+As our vehicle's purpose is to measure the depth of ice, we need a way to lower our sensor so that it can measure the depth of a medium. Before I modelled out the design, I sketched out with a couple designs. The purpose of our mechanism is to raise and lower the sensor, and maintain it flat and parallel to the ground when it is measuring.
 
-## Week 17 (3/2/20 - 9/2/20):
+##### Design 1
+_Rack and pinion design_
+![Imgur](https://i.imgur.com/3IwSfCY.jpg)
+
+This design seems fine, but I was worried about the friction the gears will generate and also what if there was something wrong with our code and as such when lowering the sensor it lowers too much causing it to crash onto a rough ground surface hence damaging the sensor.
+
+![Imgur](https://i.imgur.com/qGg0zQn.jpg)
+
+This is a dirty prototype I made to help visualise how the rack and pinion design will actually look like, and from there I also forsaw a problem of tight tolerances that was needed for the gears to work smoothly without rubbing on the side panels.
+
+##### Design 2
+_Using linkages_
+![Imgur](https://i.imgur.com/y6QQ3lR.jpg)
+![Imgur](https://i.imgur.com/U8hNCnL.jpg)
+
+We didn't use this design as there isn't much space to put in the mechcanical arm that holds the sensor.
+
+##### Design 3 (Chosen)
+Pulley system
+![Imgur](https://i.imgur.com/PxODLd2.jpg)
+
+This is the design that we was chosen because the string has the least friction generated when lowering our raising the sensor, and in the event of a malfunction of the motor, it wouldn't cause the sensor to crash onto the ground and as such damage it.
+
+So with the concept in mind, I just needed to design 3 things, a holder for the sensor, a guide for the sensor to go down and up, and a pulley that will be connected to a stepper motor and to house the string.
+
+![Imgur](https://i.imgur.com/EUjZZqD.png)
+
+So this is the pulley that I had designed which will be used to attached to the following 360 stepper motor (SM-S4315R).
+
+![Imgur](https://i.imgur.com/un279D3.png)
+
+![Imgur](https://i.imgur.com/MDU8OxB.png)
+
+This is the guide, that will guide the sensor back up and down, and as you can see the bottom is in a somewhat conical shape so that when the sensor is swaying around will being raised up, it helps to guide the sensor up into the cylinder housing.
+
+![Imgur](https://i.imgur.com/tRAJowU.jpg)
+
+Something to note is, the original design did not have a cylinder housing, as seen above, because during testing I found ou that when being lowered, the sensor does not really go down perpendicularly, and since we need the sensor to be flat to the ground, that might cause an issue. 
+
+To solve this, I added the cylinder housing up top to help guide the sensor straight down.
+
+![Imgur](https://i.imgur.com/WMUWrXB.jpg)
+
+_Old guide (left), New guide (right)_
+
+![Imgur](https://i.imgur.com/rROCjPV.png)
+To hold our sensor, so that it can slide down the guide smoothly, I made a casing for it as seen above. 
+
+This is also because the sensor itself is not a perfect cylinder as there are parts sticking out as shown below.
+
+[Imgur](https://i.imgur.com/VoJivzV.png)
+
+_Our ultrasonic transducer_
+
+![Imgur](https://i.imgur.com/pg6bOcY.png)
+
+_Assembly of the pulley system_
+
+![Imgur](https://i.imgur.com/VKnaGeO.mp4)
+
+_How the pulley system works_
+
+#### Final Design in Fusion 360
+After touching up the any
+
+![Imgur](https://i.imgur.com/jy24wl7.png)
+
+Here is a fully rendered image of our vehicle in Fusion 360 (also rendered there).
+
 ### Fabrication of Parts
-With designs made
-
+With designs modelled in fusion 360, I proceeded to fabricate the parts so that we can test and make any necessary changes along the way. The evolution of the different parts have been talked before.
 
 ### Reflections
 Should have made a dirty prototype first bla bla
@@ -312,12 +380,16 @@ Should have made a dirty prototype first bla bla
 ### Mechanical Calculation
 Using the knowledge gained from week 3, I calculated the required torque of our tracker vehicle in order to determine if the provided motors were able to output the torque required.
 
-Furthermore taking into consideration of other factors such as human walking speed.
-
-## Week 18 (10/2/20 - 16/2/20):
-### Testing and Assembly
-
+Furthermore taking into consideration of other factors such as human walking speed, dynamic friction of ice, and many other factors, I calculated wheel torque of our vehicle. And I am proud to say that our vehicle in the most perfect condition, will be able to traverse on ice without any issues. [Link here]() for the mechanical calculations. 
 
 ## Week 19 (17/2/20 - 23/2/20):
 ### Final Assembly
+This week is our last week which we will be doing our project. So we were doing our final touches to the vehicle.
+
+!
+
+Here is the final assembly of our track vehicle.
+
 ### Presentation
+
+[Link]() to our presentation slides.
